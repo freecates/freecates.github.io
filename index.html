@@ -1,0 +1,103 @@
+---
+layout: home
+slug: home
+title: Oxygen comunicació i infraestructures per mitjà dels darres estàdards de disseny, programació web i virtualització al núvol
+---
+
+<main class="ox-masthead" id="content" role="main">
+	<div class="oxygen-bg">
+		<section class="barcelona-skyline">
+			<div>
+				<span class="barcelona-skyline__o">Oxygen</span>
+			</div>
+		</section>
+	</div>
+
+	<div class="jumbotron full-width">
+		<div class="container">
+			<h1 class="text-center">Des de Barcelona, 17 anys creant a Internet</h1>
+		</div>
+	</div>
+
+	<div class="container">
+
+		<div class="body-content">
+			
+			<div class="row">
+				<div class="col-lg-6">
+					<div class="row">
+						<div class="hidden-sm col-sm-2 col-lg-2">
+							<p>
+								<img class="molecula" src="{{ site.base_url }}assets/img/oxygen-ico-blau.png" data-src481="{{ site.base_url }}assets/img/oxygen-ico-blau-96.png" data-src961="{{ site.base_url }}assets/img/oxygen-ico-blau-51.png" data-src1025="{{ site.base_url }}assets/img/oxygen-ico-blau-70.png" />
+							</p>
+						</div>
+						<div class="col-10 col-lg-10">
+							<h1>Comunicació</h1>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-6 col-lg-6">
+							<p>
+								<img class="img-circle molecula" src="{{ site.base_url }}assets/img/01-CPC-nousserveis.png" />
+							</p>
+						</div>
+						<div class="col-sm-6 col-lg-6">
+							<p>Comunicació corporativa, estratègia, elaboració, publicació i posicionament de continguts a Internet per mitjà dels darrers estàndards de <span class="label label-info marketing">disseny i programació web</span>.</p>
+							<p><a class="btn btn-default" href="{{ site.base_url }}comunicacio">Més informació &raquo;</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="row">
+						<div class="hidden-sm col-sm-2 col-lg-2">
+							<p>
+								<img class="molecula" src="{{ site.base_url }}assets/img/oxygen-ico-taronja.png" data-src481="{{ site.base_url }}assets/img/oxygen-ico-taronja-96.png" data-src961="{{ site.base_url }}assets/img/oxygen-ico-taronja-51.png" data-src1025="{{ site.base_url }}assets/img/oxygen-ico-taronja-70.png" />
+							</p>
+						</div>
+						<div class="col-10 col-lg-10">
+							<h1>Infraestructura</h1>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-6 col-lg-6">
+							<p>
+								<img class="img-circle molecula" src="{{ site.base_url }}assets/img/Servers_in_a_Rack.png" />
+							</p>
+						</div>
+						<div class="col-sm-6 col-lg-6">
+							<p>Estratègia, implementació i manteniment d'infraestructures, sistemes i serveis informàtics per mitjà dels darrers estàndards de <span class="label label-info marketing">virtualització al núvol</span>.</p>
+							<p><a class="btn btn-default" href="{{ site.base_url }}infraestructura">Més informació &raquo;</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="page-header">
+				<h1 class="text-center">T'ajudem? Estaríem encantats d'escoltar-te!</h1> 
+				<p class="text-center"><a class="btn btn-default btn-large">Contacta'ns »</a></p>
+			</div>
+
+			<section id="thoughts">
+				<div class="row">
+					<div class="col-sm-6 col-lg-6">
+						<a href="{{ site.base_url }}blog/"><h2>Oxygen blog</h2></a>
+						{% for post in site.posts limit:1 %}
+						<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | date: "%d %B, %Y" }}</time></h4>
+						<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>
+						{% endfor %}
+					</div>
+					<div class="col-sm-6 col-lg-6">
+						<h2>Oxygen cita</h2>
+						<blockquote>
+							<p>El control que els dissenyadors tenen al mitjà imprès, i que sovint desitgen al mitjà web, és simplement una funció de la limitació de la pàgina impresa. Hem d'acceptar el fet que el web no té les mateixes limitacions i dissenyar per a aquesta flexibilitat.</p>
+							<footer>&mdash; <cite><a rel="external" title="A Dao of Web Design · An A List Apart Article" hreflang="en" href="http://www.alistapart.com/articles/dao">John Allsopp</a> &ndash; Abril, 2000</cite></footer>
+						</blockquote>
+					</div>
+				</div>
+			</section>
+
+		</div>
+
+	</div>
+
+</main>

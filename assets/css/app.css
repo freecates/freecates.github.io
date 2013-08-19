@@ -1,0 +1,240 @@
+ @import url("/assets/fonts/stylesheet.css");
+ 
+ /* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+img {
+  max-width:100%;
+}
+
+.molecula:hover {
+          transform: rotate(360deg);
+     -moz-transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  transition-duration:1500ms;
+  cursor:progress;
+}
+
+.jumbotron {
+  border-radius:0;
+  color:rgb(16,68,90);
+  background:rgba(172,203,218,.25);
+}
+.ox-blog #content {
+  background:rgba(172,203,218,.25);
+}
+
+h1,h2,h3 {
+  font-family:'aller_displayregular', sans-serif;
+  color:rgb(16,68,90);
+  text-transform: lowercase;
+}
+h4,h5,h6,.nav > li > a {
+  font-family:'allerregular', sans-serif;
+  color:rgb(16,68,90);
+}
+
+/* Effect 5: same word slide in */
+header[role="banner"] .cl-effect-5 a {
+	overflow: hidden;
+}
+
+header[role="banner"] .cl-effect-5 a span {
+	position: relative;
+	display: inline-block;
+	-webkit-transition: -webkit-transform 0.3s;
+	-moz-transition: -moz-transform 0.3s;
+	transition: transform 0.3s;
+}
+
+header[role="banner"] .cl-effect-5 a span::before {
+	position: absolute;
+	top: 200%;
+	content: attr(data-hover);
+	-webkit-transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+header[role="banner"] .cl-effect-5 a:hover span,
+header[role="banner"] .cl-effect-5 a:focus span {
+	-webkit-transform: translateY(-200%);
+	-moz-transform: translateY(-200%);
+	transform: translateY(-200%);
+}
+
+.navbar{
+  background: #ffffff;
+}
+
+.navbar-brand {
+  margin-left:0;
+  padding:0;
+}
+
+.navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+  background:none;
+  color:rgb(16,68,90);
+  border-top:5px solid rgb(172,203,218);
+  padding-top:10px;
+}
+/* Set widths on the navbar form inputs since otherwise they're 100% wide */
+.navbar-form input[type="text"],
+.navbar-form input[type="password"] {
+  width: 180px;
+}
+.oxygen-bg {background:#010101;
+border-collapse: collapse;
+    display: table;
+    width: 100%;
+}
+
+.footer-bg {
+  background:rgba(172,203,218,1);
+   padding:1em 1em 0;
+   color:#10445A;
+}
+.footer-bg hr {
+background-color:rgb(172,203,218);
+border:rgb(231,101,87) 1px solid;
+border-style: none none solid;
+color:#fff;
+margin:20px 0 5px;
+}
+.footer-bg a {
+color:#10445A;
+}
+.footer-bg-2 {
+  background:rgba(231,101,87,.25);
+  color:#10445A;
+  padding-top:1em;
+}
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.body-content.blog {
+  position: relative;
+  padding: 30px 5% 80px 5%;
+}
+
+.blog .breadcrumb {
+padding: 0;
+margin-bottom: 20px;
+list-style: none;
+background:none;
+}
+
+.blog .card {
+padding: 10px;
+margin-top: 10px;
+max-height: none;
+height: auto;
+}
+
+.blog .card h1,.blog .card h2,.blog .card h3,.blog .article h1,.blog .article h2,.blog .article h3 {
+  -wekit-hyphens:auto;
+    -moz-hyphens:auto;
+         hyphens:auto;
+}
+
+.display {
+display: block!important;
+}
+
+.card {display: block;
+height: 280px;
+padding: 10px;
+margin-top: 10px 20px;
+background: #fff;
+overflow: hidden;
+}
+
+.card .card-title {
+  font-size: 6.5rem;
+}
+
+.card .card-content {
+  padding-left: 3em;
+}
+
+.card:hover {
+  background-color:#10445A;
+  color:#fff;
+  -webkit-transition:background-color .2s, color .2s;
+     -moz-transition:background-color .2s, color .2s;
+       -o-transition:background-color .2s, color .2s;
+      -ms-transition:background-color .2s, color .2s;
+          transition:background-color .2s,color .2s;
+}
+
+.card:hover h2,.card:hover h4 {
+  color:#fff;
+  -webkit-transition:color .2s;
+     -moz-transition:color .2s;
+       -o-transition:color .2s;
+      -ms-transition:color .2s;
+          transition:color .2s;
+}
+
+.article {
+position: relative;
+background: #fff;
+padding: 10px;
+}
+
+#siderail {
+position: relative;
+top:0;
+}
+
+#blog-categories ul, #blog-top ul {
+  padding:0;
+}
+
+#blog-categories li, #blog-top li {
+  list-style:none;
+}
+
+#siderail li {
+  margin-bottom:.75em;
+}
+
+.label.marketing {
+  font-size:1em;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Let the jumbotron breathe */
+  .jumbotron {
+    margin-top: 20px;
+  }
+  .jumbotron.full-width {
+    margin-top: 0;
+  }
+  /* Remove padding from wrapping element since we kick in the grid classes here */
+  .body-content {
+    padding: 0;
+  }
+  
+  .blog .card {
+    padding: 25px 30px;
+  }
+
+.article {
+    padding: 30px 40px;
+  }
+
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+ .label.marketing.sm {
+   font-size: 0.75em;
+    white-space: pre-wrap;
+} 
+}

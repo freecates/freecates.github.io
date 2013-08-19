@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ca">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    {% include header.html %}
+    <!-- Place anything custom after this. -->
+  </head>
+  <body class="ox-{{ page.slug }}">
+    <a class="sr-only" href="#content">Skip navigation</a>
+
+    
+    {% include nav-main.html %}
+
+    
+    {{ content }}
+
+    <footer role="contentinfo">
+      <div class="footer-bg">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4 col-lg-4">
+              <p class="text-center">&copy; Oxygen 2013</p>
+            </div>
+            <div class="col-sm-4 col-lg-4 col-lg-offset-4 col-sm-offset-4">
+              <p class="text-center"><a href="#" title="Twitter" rel="external"><i class="icon-twitter icon-large"></i></a> <a href="#" title="Facebook" rel="external"><i class="icon-facebook icon-large"></i></a> <a href="#" title="Correu-e" rel="external"><i class="icon-envelope icon-large"></i></a></p>
+            </div>
+          </div>
+          <hr />
+          <p><small><a rel="external" title="By frank müller [CC-BY-SA-2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3ABarcelona_skyline.jpg">Barcelona_skyline.jpg</a> <i class="icon-file"></i> | <a title="By Abigor (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AServers_in_a_Rack.jpg">Servers_in_a_Rack.jpg</a> <i class="icon-file"></i></small></p>
+        </div>
+      </div>
+    </footer>
+
+
+    {% include footer.html %}
+
+  </body>
+</html>
