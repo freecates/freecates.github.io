@@ -17,7 +17,7 @@ author: gerard
 <blockquote>
 	<p>Un clúster és una de les solucions avançades per la redundància i la fiabilitat del sistema informàtic per a les empreses que busquen l’excel·lència.</p>
 	<footer>
-		&mdash; <cite><a href="{{ post.url }}" title="{{ post.title }}">Geard Garcia</a></cite>
+		&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Geard Garcia</a></cite>
 	</footer>
 </blockquote>
 

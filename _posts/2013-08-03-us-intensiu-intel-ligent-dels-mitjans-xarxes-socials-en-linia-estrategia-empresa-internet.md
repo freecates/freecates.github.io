@@ -17,7 +17,7 @@ author: francesc
 <blockquote>
 	<p>Un web sense una estratègia comunicativa a través de les xarxes socials és un lloc situat en un racó de la xarxa, amb molt poca o nul·la visibilitat</p>
 	<footer>
-		&mdash; <cite><a href="{{ post.url }}" title="{{ post.title }}">Francesc Vila</a></cite>
+		&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Francesc Vila</a></cite>
 	</footer>
 </blockquote>
 

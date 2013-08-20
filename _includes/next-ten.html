@@ -14,8 +14,8 @@
         {% assign x = 's' %}
     {% endif %}
 {% endif %}
-  <div class='fluid-row'>
-  <a href='#' class='next-ten center transition clearfix'>{{topics.next}} <span class='next-count'> {% if cardCount == '' %}{% elsif cardCount >= 10 %} 10{% else %} {{cardCount}}{% endif %}</span> {{topics.result}}{{x}}</a>
+  <div class='well'>
+  <a href='#' class='next-ten text-center transition clearfix'>{{topics.next}} <span class='next-count'> {% if cardCount == '' %}{% elsif cardCount >= 10 %} 10{% else %} {{cardCount}}{% endif %}</span> {{topics.result}}{{x}}</a></p>
   </div>
 
 <script>

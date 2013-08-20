@@ -17,7 +17,7 @@ author: gerard
 <blockquote>
 	<p>Estem davant d’un canvi important a la xarxa que alguns ja han batejat com a una nova revolució per a l’expansió d’Internet.</p>
 	<footer>
-		&mdash; <cite><a href="{{ post.url }}" title="{{ post.title }}">Geard Garcia</a></cite>
+		&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Geard Garcia</a></cite>
 	</footer>
 </blockquote>
 
