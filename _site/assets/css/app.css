@@ -155,11 +155,11 @@ overflow: hidden;
 }
 
 .card .card-title {
-  font-size: 6.5rem;
+  font-size: 3.5rem;
 }
 
 .card .card-content {
-  padding-left: 3em;
+  padding-left: 10%;
 }
 
 .card:hover {
@@ -237,4 +237,10 @@ top:0;
    font-size: 0.75em;
     white-space: pre-wrap;
 } 
+}
+
+@media (min-width: 768px) {
+  .card .card-title {
+  font-size: 6.5rem;
+}
 }
