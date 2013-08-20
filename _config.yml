@@ -5,7 +5,6 @@ pygments:         true
 
 baseurl:
 permalink:        /:title
-class:            'blog-index'
 
 authors:
  ramon:
