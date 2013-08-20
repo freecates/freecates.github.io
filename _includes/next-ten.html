@@ -14,9 +14,7 @@
         {% assign x = 's' %}
     {% endif %}
 {% endif %}
-  <div class='well'>
-  <a href='#' class='next-ten text-center transition clearfix'>{{topics.next}} <span class='next-count'> {% if cardCount == '' %}{% elsif cardCount >= 10 %} 10{% else %} {{cardCount}}{% endif %}</span> {{topics.result}}{{x}}</a></p>
-  </div>
+  <h3 class="text-center"><a href='#' class='next-ten transition clearfix'>{{topics.next}} <span class='next-count'> {% if cardCount == '' %}{% elsif cardCount >= 10 %} 10{% else %} {{cardCount}}{% endif %}</span> {{topics.result}}{{x}}</a></h3>
 
 <script>
 var $nodisplay = $('.card.nodisplay'),

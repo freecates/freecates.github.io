@@ -14,6 +14,10 @@
   
 </title>
 
+
+<script src="/assets/js/jquery.js"></script>
+
+
 <!-- Bootstrap core CSS -->
 <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
 <!-- Font awesome -->
@@ -29,7 +33,7 @@
 
     <!-- Place anything custom after this. -->
   </head>
-  <body class="ox-blog">
+  <body class="ox-blog blog-index">
     <a class="sr-only" href="#content">Skip navigation</a>
 
     
@@ -109,8 +113,74 @@
   </div>
 </div>
                     
+                  
+              <div class="card nodisplay">
+  <a href="/disseny-web-responsiu-twitter-bootstrap-i-wordpress-per-al-web-dinterlands-ciutat-i-territori"><h2 class="card-title">Disseny responsiu, Bootstrap i WordPress per al web d’Interlands</h2></a>
+  <div class="card-content">
+	  <h4><time datetime="2012-07-20 13:48+0200">Juliol 20, 2012</time></h4>
+	  <p>El nou web combina disseny responsiu, la flexibilitat de Twitter i la simplicitat de WordPress.</p>
+	  <p class='continue-link'>Segueix llegint <a href='/disseny-web-responsiu-twitter-bootstrap-i-wordpress-per-al-web-dinterlands-ciutat-i-territori'>Disseny responsiu, Bootstrap i WordPress per al web d’Interlands</a></p>
+  </div>
+</div>
+                    
             
 
+            
+              
+              
+  
+  
+
+
+    
+
+  <h3 class="text-center"><a href='#' class='next-ten transition clearfix'> <span class='next-count'>  1</span> Blog Posts</a></h3>
+
+<script>
+var $nodisplay = $('.card.nodisplay'),
+    countStr = '1',
+    cardCount = (countStr === '') ? null : parseInt(countStr);
+
+$('a.next-ten').bind('click',function(e){
+    e.preventDefault();
+    cardCount -= 10;
+    var $nodisplay = $('.card.nodisplay');
+    // get rid of the nodisplay class for the next ten elements
+
+    $.each($nodisplay,function(i,el){
+        if (i < 10) {
+            el.className = el.className.replace('nodisplay','display');
+        }
+    });
+    
+    // detect if there is more to load, if not hide next-ten button
+    if (cardCount <= 0) {
+        $('a.next-ten').addClass('nodisplay');
+    } else if (cardCount >= 10) {
+        $('.next-count').html('10');
+    } else {
+        $('.next-count').html(cardCount);
+    }
+    // only applicable to all topics page
+    var totalTopicNum = '',
+        $visibleTopics = $('.card.all-topics.display'),
+        visibleTopicNum = 4;
+        
+    totalTopicNum = (totalTopicNum === '') ? null : parseInt(totalTopicNum);
+    
+    if (totalTopicNum > visibleTopicNum ) {
+        $visibleTopics.removeClass('noborder');
+    }
+    
+    var visibleTopics = $('.card.all-topics.display');
+    if (totalTopicNum % 2 === 0) {
+        visibleTopics.last().addClass('noborder');
+        visibleTopics.last().prev().addClass('noborder');
+    } else {
+        visibleTopics.last().addClass('noborder');
+    }
+});
+</script>
             
 
         </div>
@@ -141,8 +211,8 @@
     </footer>
 
 
-    <script src="assets/js/jquery.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
+    
+<script src="/bootstrap/js/bootstrap.min.js"></script>
 <script src="http://airve.github.io/js/response/response.min.js"></script>
 <script>    
 Response.create({mode : 'src', prefix : 'src'});

@@ -170,9 +170,27 @@ overflow: hidden;
   padding-left: 10%;
 }
 
+a.next-ten {
+    display: block;
+    margin-top: 30px;
+    padding: 5% 0;
+    width: 100%;
+    background-color:#10445A;
+    color:#fff;
+}
 .card:hover {
   background-color:#10445A;
   color:#fff;
+  -webkit-transition:background-color .2s, color .2s;
+     -moz-transition:background-color .2s, color .2s;
+       -o-transition:background-color .2s, color .2s;
+      -ms-transition:background-color .2s, color .2s;
+          transition:background-color .2s,color .2s;
+}
+
+a.next-ten:hover {
+  background: #fff;
+  color:#10445A;
   -webkit-transition:background-color .2s, color .2s;
      -moz-transition:background-color .2s, color .2s;
        -o-transition:background-color .2s, color .2s;

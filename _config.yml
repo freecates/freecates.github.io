@@ -1,8 +1,11 @@
+name:             'Oxygen'
+url:              'http://freecates.github.io'
 markdown:         rdiscount
 pygments:         true
 
 baseurl:
 permalink:        /:title
+class:            'blog-index'
 
 authors:
  ramon:
