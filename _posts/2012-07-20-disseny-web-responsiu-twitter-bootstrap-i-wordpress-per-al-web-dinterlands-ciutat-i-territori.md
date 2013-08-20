@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2013-08-02 11:48:19
+date: 2012-07-20 11:48:19
 layout: blog
 slug: disseny-web-responsiu-twitter-bootstrap-i-wordpress-per-al-web-dinterlands-ciutat-i-territori
 title: Disseny responsiu, Bootstrap i WordPress per al web d’Interlands
