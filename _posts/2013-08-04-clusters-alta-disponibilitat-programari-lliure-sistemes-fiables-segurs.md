@@ -4,9 +4,8 @@ date: 2013-08-04 11:48:19
 layout: blog
 slug: clusters-alta-disponibilitat-programari-lliure-sistemes-fiables-segurs
 title: Clústers d’alta disponibilitat i programari lliure per a sistemes fiables i segurs
-categories:
-- Article
-tag:
+categories: [infraestructura, general]
+tags:
 meta: Clústers d’alta disponibilitat i programari lliure per a sistemes fiables i segurs
 excerpt: Un clúster és una de les solucions avançades per la redundància i la fiabilitat del sistema informàtic per a les empreses que busquen l’excel·lència.
 author: gerard

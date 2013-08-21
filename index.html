@@ -110,18 +110,17 @@ title: Oxygen comunicació i infraestructures per mitjà dels darres estàdards 
 			<section id="thoughts">
 				<div class="row">
 					<div class="col-sm-6 col-md-6">
-						<a href="{{ site.base_url }}blog/"><h2>Oxygen blog</h2></a>
-						{% for post in site.posts limit:1 %}
+						<a href="{{ site.base_url }}blog/"><h2>Oxygen blog</h2></a>						
+						{% for post in site.categories.general limit:1 %}
 						<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4>
-						<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>
-						{% endfor %}
+						<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>							
+						{% endfor %}						
 					</div>
 					<div class="col-sm-6 col-md-6">
 						<h2>Oxygen cita</h2>
-						<blockquote>
-							<p>El control que els dissenyadors tenen al mitjà imprès, i que sovint desitgen al mitjà web, és simplement una funció de la limitació de la pàgina impresa. Hem d'acceptar el fet que el web no té les mateixes limitacions i dissenyar per a aquesta flexibilitat.</p>
-							<footer>&mdash; <cite><a rel="external" title="A Dao of Web Design · An A List Apart Article" hreflang="en" href="http://www.alistapart.com/articles/dao">John Allsopp</a> &ndash; Abril, 2000</cite></footer>
-						</blockquote>
+						{% for post in site.categories.cita limit:1 %}
+							{{ post.content }}
+						{% endfor %}
 					</div>
 				</div>
 			</section>

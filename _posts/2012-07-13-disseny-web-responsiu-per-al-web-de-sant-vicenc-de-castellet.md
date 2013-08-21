@@ -4,9 +4,7 @@ date: 2012-07-13 11:48:19
 layout: blog
 slug: disseny-web-responsiu-per-al-web-de-sant-vicenc-de-castellet
 title: Disseny responsiu per al web de Sant Vicenç de Castellet
-categories:
-- Comunicació
-- Treballs
+categories: [comunicació,treballs]
 tags: case-study
 featured-img: true
 featured-img-url: svc-case-study.png

@@ -4,9 +4,8 @@ date: 2013-08-05 11:48:19
 layout: blog
 slug: la-transformacio-de-la-xarxa-amb-el-nou-protocol-IPv6
 title: La transformació de la xarxa amb el nou protocol IPv6
-categories:
-- Article
-tag:
+categories: [infraestructura, general]
+tags:
 meta: La transformació de la xarxa amb el nou protocol IPv6
 excerpt: Estem davant d’un canvi important a la xarxa que alguns ja han batejat com a una nova revolució per a l’expansió d’Internet.
 author: gerard
