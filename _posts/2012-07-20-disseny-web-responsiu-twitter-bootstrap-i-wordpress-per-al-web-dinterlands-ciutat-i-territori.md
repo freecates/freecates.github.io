@@ -18,7 +18,7 @@ author: ramon
 #Disseny responsiu, Bootstrap i WordPress per al web d’Interlands
 
 <blockquote>
-	<p>Disseny responsiu, Bootstrap i WordPress per al web d’Interlands</p>
+	<p>El nou web combina disseny responsiu, la flexibilitat de Twitter i la simplicitat de WordPress.</p>
 	<footer>
 		&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Ramon Gil</a></cite>
 	</footer>
