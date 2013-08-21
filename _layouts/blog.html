@@ -26,6 +26,9 @@ slug: blog
         <div class="col-sm-12 col-lg-12 blog-list">
           <article class="article" role="main">
             <h4><time datetime="{{ page.date | date: "%Y-%m-%d %H:%M%z" }}">{{ page.date | localize: ":simple" }}</time> per {{ author.display_name }}</h4>
+            {% if page.featured-img-url %}
+            <p class="pull-right"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
+            {% endif %}
             {{ content }}
           </article>
 

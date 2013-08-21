@@ -6,7 +6,10 @@ slug: disseny-web-responsiu-twitter-bootstrap-i-wordpress-per-al-web-dinterlands
 title: Disseny responsiu, Bootstrap i WordPress per al web d’Interlands
 categories:
 - Comunicació
-tag: responsiu
+- Treballs
+tags: case-study
+featured-img: true
+featured-img-url: interlands-case-study.png
 meta: L’ús intensiu i intel·ligent dels mitjans i les xarxes socials en línia, la millor estratègia d’una empresa a Internet
 excerpt: El nou web combina disseny responsiu, la flexibilitat de Twitter i la simplicitat de WordPress.
 author: ramon

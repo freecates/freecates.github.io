@@ -29,6 +29,15 @@ img {
   color:rgb(16,68,90);
   background:rgba(172,203,218,.25);
 }
+
+.jumbotron.case-study {
+  color:rgb(172,203,218);
+  background:rgb(16,68,90);
+}
+
+.jumbotron.case-study h1, .jumbotron.case-study h3 {
+  color:rgb(255,255,255);
+}
 .ox-blog #content {
   background:rgba(172,203,218,.25);
 }
