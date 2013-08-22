@@ -43,14 +43,6 @@
     margin: 0;
     background: url(/assets/img/barcelona-skyline__o-lg.png) no-repeat 0 100%;
 }
-.barcelona-skyline .barcelona-skyline__a {
-    display: block;
-    z-index: 1;
-    left: 0;
-    width: 369px;
-    height: 487px;
-    background: url(/assets/img/madness__a-lg.png) no-repeat 0 100%;}
-}
 
 @media only screen and (min-width:560px) {
     .barcelona-skyline div {
@@ -58,17 +50,6 @@
 }
 .barcelona-skyline .barcelona-skyline__o {
     left: -64.5px;
-}
-.barcelona-skyline .barcelona-skyline__a {
-    left: 116px;
-}
-.barcelona-skyline .barcelona-skyline__d {
-    display: block;
-    z-index: 2;
-    left: 0;
-    width: 317px;
-    height: 487px;
-    background: url(/assets/img/madness__d-lg.png) no-repeat 0 100%;}
 }
 
 
@@ -87,20 +68,6 @@ animation: slide 600s linear infinite;
 }
 .barcelona-skyline .barcelona-skyline__o {
   left:-50px;
-}
-.barcelona-skyline .barcelona-skyline__a {
-    left: 140px;
-}
-.barcelona-skyline .barcelona-skyline__d {
-    left: 23px;
-}
-.barcelona-skyline .barcelona-skyline__n {
-    display: block;
-    z-index: 2;
-    left: 0;
-    width: 241px;
-    height: 487px;
-    background: url(/assets/img/madness__n-lg.png) no-repeat 0 100%;}
 }
 
 @-webkit-keyframes slide{from{background-position:0 0}to{background-position:-10000px 0}}@-moz-keyframes slide{from{background-position:0 0}to{background-position:-10000px 0}}@-ms-keyframes slide{from{background-position:0 0}to{background-position:-10000px 0}}@-o-keyframes slide{from{background-position:0 0}to{background-position:-10000px 0}}@keyframes slide{from{background-position:0 0}to{background-position:-10000px 0}}
@@ -121,23 +88,6 @@ animation: slide 600s linear infinite;
 .barcelona-skyline:hover .barcelona-skyline__o {
 	top: 0;
 }
-.barcelona-skyline .barcelona-skyline__a {
-    left: 303px;
-}
-.barcelona-skyline .barcelona-skyline__d {
-    left: 186px;
-}
-.barcelona-skyline .barcelona-skyline__n {
-    left: 162px;
-}
-.barcelona-skyline .barcelona-skyline__e {
-    display: block;
-    z-index: 1;
-    left: 0;
-    width: 279px;
-    height: 487px;
-    background: url(/assets/img/madness__e-lg.png) no-repeat 0 100%;}
-}
 
 @media only screen and (min-width:856px) {
     .barcelona-skyline div {
@@ -145,26 +95,6 @@ animation: slide 600s linear infinite;
 }
 .barcelona-skyline .barcelona-skyline__o {
     left: 155.5px;
-}
-.barcelona-skyline .barcelona-skyline__a {
-    left: 411px;
-}
-.barcelona-skyline .barcelona-skyline__d {
-    left: 294px;
-}
-.barcelona-skyline .barcelona-skyline__n {
-    left: 270px;
-}
-.barcelona-skyline .barcelona-skyline__e {
-    left: 107px;
-}
-.barcelona-skyline .barcelona-skyline__s {
-    display: block;
-    z-index: 2;
-    left: 0;
-    width: 270px;
-    height: 487px;
-    background: url(/assets/img/madness__s-lg.png) no-repeat 0 100%;}
 }
 
 @media only screen and (min-width:1000px) {
@@ -174,29 +104,6 @@ animation: slide 600s linear infinite;
 .
 madness .barcelona-skyline__o {
     left: 758px;
-}
-.barcelona-skyline .barcelona-skyline__a {
-    left: 557px;
-}
-.barcelona-skyline .barcelona-skyline__d {
-    left: 440px;
-}
-.barcelona-skyline .barcelona-skyline__n {
-    left: 416px;
-}
-.barcelona-skyline .barcelona-skyline__e {
-    left: 253px;
-}
-.barcelona-skyline .barcelona-skyline__s {
-    left: 145px;
-}
-.barcelona-skyline .barcelona-skyline__s2 {
-    display: block;
-    z-index: 1;
-    left: 0;
-    width: 337px;
-    height: 487px;
-    background: url(/assets/img/madness__s2-lg.png) no-repeat 0 100%;}
 }
 
 @media only screen and (min-width:1382px) {
@@ -212,37 +119,6 @@ madness .barcelona-skyline__o {
 }
 .barcelona-skyline .barcelona-skyline__o {
     left: 305.5px;
-}
-.barcelona-skyline .barcelona-skyline__a {
-    left: 395px;
-}
-.barcelona-skyline .barcelona-skyline__d {
-    left: 330px;
-}
-.barcelona-skyline .madness__n {
-    left: 310px;
-}
-.barcelona-skyline .barcelona-skyline__e {
-    left: 175px;
-}
-.barcelona-skyline .barcelona-skyline__s {
-    left: 120px;
-}
-.barcelona-skyline:hover .barcelona-skyline__a {
-    left: 580px;
-}
-.barcelona-skyline:hover .barcelona-skyline__d {
-    left: 455px;
-}
-.barcelona-skyline:hover .barcelona-skyline__n {
-    left: 390px;
-}
-.barcelona-skyline:hover .barcelona-skyline__e {
-    left: 240px;
-}
-.barcelona-skyline:hover .barcelona-skyline__s {
-    left: 135px;
-}
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:144dpi) {
