@@ -72,6 +72,26 @@ title: contacte
         document.getElementById("si" + "mple" + "_spc").value = "32316397185863-32316397185863";
         </script>
       </form>
+
+      <hr/>
+
+      <section id="thoughts">
+        <div class="row">
+          <div class="col-sm-6 col-md-6">
+            <a href="{{ site.base_url }}blog/"><h2><i class="icon-edit"></i> Oxygen blog</h2></a>           
+            {% for post in site.categories.general limit:1 %}
+            <h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4>
+            <a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>              
+            {% endfor %}            
+          </div>
+          <div class="col-sm-6 col-md-6">
+            <h2><i class="icon-quote-right"></i> Oxygen cita</h2>
+            {% for post in site.categories.cita limit:1 %}
+              {{ post.content }}
+            {% endfor %}
+          </div>
+        </div>
+      </section>
     </div>
   </div>
 </main>
