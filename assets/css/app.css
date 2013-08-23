@@ -87,6 +87,10 @@ header[role="banner"] .cl-effect-5 a:focus span {
 
 .navbar{
   background: #ffffff;
+  border: none;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border: none;
 }
 
 .navbar-brand {
@@ -94,17 +98,17 @@ header[role="banner"] .cl-effect-5 a:focus span {
   padding:0;
 }
 
-.navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   background:none;
   color:rgb(16,68,90);
   border-top:5px solid rgb(172,203,218);
   padding-top:10px;
 }
-/* Set widths on the navbar form inputs since otherwise they're 100% wide */
-.navbar-form input[type="text"],
-.navbar-form input[type="password"] {
-  width: 180px;
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background:rgb(16,68,90); 
 }
+
 .oxygen-bg {background:#010101;
 border-collapse: collapse;
     display: table;
