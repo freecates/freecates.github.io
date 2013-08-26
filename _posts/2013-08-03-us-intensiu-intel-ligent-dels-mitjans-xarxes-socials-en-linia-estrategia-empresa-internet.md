@@ -8,7 +8,7 @@ categories: [comunicació, general, no-cita]
 tags:
 meta: L’ús intensiu i intel·ligent dels mitjans i les xarxes socials en línia, la millor estratègia d’una empresa a Internet
 excerpt: Un web sense una estratègia comunicativa a través de les xarxes socials és un lloc situat en un racó de la xarxa, amb molt poca o nul·la visibilitat
-author: francesc
+author: oxygen
 ---
 
 #L’ús intensiu i intel·ligent dels mitjans i les xarxes socials en línia, la millor estratègia d’una empresa a Internet
