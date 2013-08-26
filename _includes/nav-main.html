@@ -10,16 +10,19 @@
           <a class="navbar-brand" href="{{ site.base_url }}/"><img src="{{ site.base_url }}/assets/img/oxygen-logo.png" /></a>
         </div>
         <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li{% if page.slug == "quant-a" %} class="active"{% endif %}>
-				<a href="{{ site.base_url }}/quant-a"><span data-hover="Quant a">Quant a</span></a>
-			</li>
-			<li{% if page.slug == "contacte" %} class="active"{% endif %}>
-				<a href="{{ site.base_url }}/contacte"><span data-hover="Contacte">Contacte</span></a>
-			</li>
-			<li{% if page.slug == "blog" %} class="active"{% endif %}>
-				<a href="{{ site.base_url }}/blog"><span data-hover="Blog">Blog</span></a>
-			</li>
+          <ul class="nav navbar-nav navbar-nav-right">
+            <li{% if page.slug == "home" %} class="active"{% endif %}>
+              <a href="{{ site.base_url }}/"><span data-hover="Inici">Inici</span></a>
+           </li>
+           <li{% if page.slug == "quant-a" %} class="active"{% endif %}>
+				      <a href="{{ site.base_url }}/quant-a"><span data-hover="Quant a">Quant a</span></a>
+		       </li>
+			     <li{% if page.slug == "blog" %} class="active"{% endif %}>
+				    <a href="{{ site.base_url }}/blog"><span data-hover="Blog">Blog</span></a>
+			     </li>
+           <li{% if page.slug == "contacte" %} class="active"{% endif %}>
+              <a href="{{ site.base_url }}/contacte"><span data-hover="Contacte">Contacte</span></a>
+           </li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

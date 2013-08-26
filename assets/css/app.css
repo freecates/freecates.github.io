@@ -35,12 +35,24 @@ img {
   background:rgb(16,68,90);
 }
 
+.jumbotron-orange {
+  background:rgb(231,101,87);
+}
+
+.jumbotron-no-margin {
+  margin: 0
+}
+
 .jumbotron.case-study.case-study-sequence {
   padding: 0;
 }
 
 .jumbotron.case-study h1, .jumbotron.case-study h2, .jumbotron.case-study h3 {
   color:rgb(255,255,255);
+}
+
+.jumbotron .page-header {
+  border-bottom: none;
 }
 .ox-blog #content {
   background:rgba(172,203,218,.25);
@@ -272,6 +284,10 @@ top:0;
 .article {
     padding: 30px 40px;
   }
+
+.navbar-nav-right {
+  float: right;
+}
 
 }
 

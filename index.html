@@ -76,7 +76,7 @@ keywords: comunicació, infraestructures, estàndards, disseny, programació, we
 	</div>
 
 	{% for post in site.tags.case-study limit:1 %}
-	<div class="jumbotron full-width case-study hidden-md hidden-lg">
+	<div class="jumbotron jumbotron-no-margin full-width case-study hidden-md hidden-lg">
 		<div class="container">
 			<h3>Treball destacat</h3>
 			{% if post.featured-img-url %}
@@ -99,7 +99,7 @@ keywords: comunicació, infraestructures, estàndards, disseny, programació, we
 	</div>
 	{% endfor %}
 
-	<div class="jumbotron case-study case-study-sequence hidden-xs hidden-sm">
+	<div class="jumbotron jumbotron-no-margin case-study case-study-sequence hidden-xs hidden-sm">
 
 		<div id="sequence">
 				<span class="sequence-prev">&laquo;</span>
@@ -138,14 +138,22 @@ keywords: comunicació, infraestructures, estàndards, disseny, programació, we
 
 	</div>
 
-	<div class="container">
+	<div class="jumbotron jumbotron-orange jumbotron-no-margin full-width">
 
-		<div class="body-content">
+		<div class="container">
 
 			<div class="page-header">
 				<h1 class="text-center">T'ajudem? Estaríem encantats d'escoltar-te!</h1> 
 				<p class="text-center"><a href="{{ site.base_url }}/contacte" class="btn btn-default btn-lg"><i class="icon-envelope"></i> contacta'ns »</a></p>
 			</div>
+
+		</div>
+
+	</div>
+
+	<div class="container">
+
+		<div class="body-content">
 
 			<section id="thoughts">
 				<div class="row">
