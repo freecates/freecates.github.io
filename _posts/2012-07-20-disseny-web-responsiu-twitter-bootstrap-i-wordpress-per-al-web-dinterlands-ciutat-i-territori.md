@@ -32,7 +32,7 @@ Amb el nou web d’[Interlands® Ciutat i Territori](http://www.interlands.cat/ 
 
 Davant la proliferació dels dispositius mòbils amb accés a Internet, aquesta modalitat de disseny preveu una resposta òptima del web per a una correcta visualització en les múltiples resolucions de pantalla. Dels 320 píxels en amunt!
 
-![](/_posts/artinpocket-case-study.png) De la mateixa manera que amb el 10enCom primer i més tard amb SVC, el web responsiu d’Interlands® s’ha desenvolupat per a què funcioni també com una autèntica webapp en els dispositius mòbils. Per a accedir-hi com si fos una aplicació mòbil, només cal crear una icona d’accés a la pantalla d’inici des del navegador del mòbil.
+De la mateixa manera que amb el 10enCom primer i més tard amb SVC, el web responsiu d’Interlands® s’ha desenvolupat per a què funcioni també com una autèntica webapp en els dispositius mòbils. Per a accedir-hi com si fos una aplicació mòbil, només cal crear una icona d’accés a la pantalla d’inici des del navegador del mòbil.
 
 ##Disseny, flexiblitat i simplicitat
 
