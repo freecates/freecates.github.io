@@ -1,16 +1,20 @@
 ---
 comments: true
-date: 2012-07-20 11:48:19
+date: {}
 layout: blog
-slug: disseny-web-responsiu-twitter-bootstrap-i-wordpress-per-al-web-dinterlands-ciutat-i-territori
-title: Disseny responsiu, Bootstrap i WordPress per al web d’Interlands
-categories: [comunicació, treballs, no-cita]
-tags: case-study
-featured-img: true
-featured-img-url: interlands-case-study.png
-meta: L’ús intensiu i intel·ligent dels mitjans i les xarxes socials en línia, la millor estratègia d’una empresa a Internet
-excerpt: El nou web combina disseny responsiu, la flexibilitat de Twitter i la simplicitat de WordPress.
+slug: "disseny-web-responsiu-twitter-bootstrap-i-wordpress-per-al-web-dinterlands-ciutat-i-territori"
+title: "Disseny responsiu, Bootstrap i WordPress per al web d’Interlands"
+categories: 
+  - comunicació
+  - treballs
+  - "no-cita"
+tags: "case-study"
+"featured-img": true
+"featured-img-url": "interlands-case-study.png"
+meta: "Disseny responsiu, Bootstrap i WordPress per al web d’Interlands"
+excerpt: "El nou web combina disseny responsiu, la flexibilitat de Twitter i la simplicitat de WordPress."
 author: oxygen
+published: true
 ---
 
 #Disseny responsiu, Bootstrap i WordPress per al web d’Interlands
@@ -26,7 +30,7 @@ author: oxygen
 
 Amb el nou web d’[Interlands® Ciutat i Territori](http://www.interlands.cat/ "Interlands ciutat i territori | interlands@interlands.cat 935 891 234"), honm continua amb l’aposta pel llenguatge HTML5 i l’aproximació [responsive web design](http://www.abookapart.com/products/responsive-web-design "A Book Apart, Responsive Web Design") (en català “disseny web responsiu”).
 
-Davant la proliferació dels dispositius mòbils amb accés a Internet, aquesta modalitat de disseny preveu una resposta òptima del web per a una correcta visualització en les múltiples resolucions de pantalla. Dels 320 píxels en amunt!
+![Artinpocket.cat](/assets/img/artinpocket-case-study.png)Davant la proliferació dels dispositius mòbils amb accés a Internet, aquesta modalitat de disseny preveu una resposta òptima del web per a una correcta visualització en les múltiples resolucions de pantalla. Dels 320 píxels en amunt!
 
 De la mateixa manera que amb el 10enCom primer i més tard amb SVC, el web responsiu d’Interlands® s’ha desenvolupat per a què funcioni també com una autèntica webapp en els dispositius mòbils. Per a accedir-hi com si fos una aplicació mòbil, només cal crear una icona d’accés a la pantalla d’inici des del navegador del mòbil.
 
