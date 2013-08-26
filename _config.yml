@@ -16,3 +16,9 @@ authors:
 # Server
 exclude:          ["LICENSE", "README.md",]
 port:             9001
+
+# Prose
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://www.oxygen.cat/'
+  media: 'assets/img'
