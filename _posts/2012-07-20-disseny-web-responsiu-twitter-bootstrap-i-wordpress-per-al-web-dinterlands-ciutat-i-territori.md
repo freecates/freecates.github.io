@@ -4,10 +4,7 @@ date: 2012-07-20 11:48:19
 layout: blog
 slug: "disseny-web-responsiu-twitter-bootstrap-i-wordpress-per-al-web-dinterlands-ciutat-i-territori"
 title: "Disseny responsiu, Bootstrap i WordPress per al web d’Interlands"
-categories: 
-  - comunicació
-  - treballs
-  - "no-cita"
+categories: [comunicació, treballs, no-cita]
 tags: "case-study"
 "featured-img": true
 "featured-img-url": "interlands-case-study.png"
