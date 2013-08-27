@@ -5,4 +5,5 @@
 	  <p>{{ post.excerpt | truncate: 140 }}</p>
 	  <p class='continue-link'>Segueix llegint <a href='{{site.baseurl}}{{post.url}}'>{{post.title}}</a></p>
   </div>
+  <div data-title='{{post.title | replace:"'","\'"}}' data-url='{{post.url}}' data-open='true'>{% include social.html %}</div>
 </div>
