@@ -111,10 +111,8 @@ header[role="banner"] .cl-effect-5 a:focus span {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-  background:none;
+  background:rgba(172,203,218,.25);
   color:rgb(16,68,90);
-  border-top:5px solid rgb(172,203,218);
-  padding-top:10px;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -320,5 +318,10 @@ width: 90px!important;
 @media (min-width: 768px) {
   .card .card-title {
   font-size: 6.5rem;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  background:none;
+  border-top:5px solid rgb(172,203,218);
+  padding-top:10px;
 }
 }
