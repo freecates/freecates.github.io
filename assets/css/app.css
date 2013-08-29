@@ -99,7 +99,7 @@ header[role="banner"] .cl-effect-5 a:focus span {
 
 header[role="banner"] div.navbar {
   padding-top: 12.5px;
-  height: 75px;
+  min-height: 75px;
 }
 .navbar{
   background: #ffffff;
@@ -125,7 +125,7 @@ header[role="banner"] div.navbar {
 }
 
 main[role="main"] {
-  margin-top: 12.5px;
+  margin-top: 25px;
 }
 
 .oxygen-bg {background:#010101;
