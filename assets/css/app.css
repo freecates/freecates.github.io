@@ -97,10 +97,15 @@ header[role="banner"] .cl-effect-5 a:focus span {
 	transform: translateY(-200%);
 }
 
+header[role="banner"] div.navbar {
+  padding-top: 12.5px;
+  height: 75px;
+}
 .navbar{
   background: #ffffff;
   border: none;
 }
+
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
   border: none;
 }
@@ -117,6 +122,10 @@ header[role="banner"] .cl-effect-5 a:focus span {
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
   background:rgb(16,68,90); 
+}
+
+main[role="main"] {
+  margin-top: 12.5px;
 }
 
 .oxygen-bg {background:#010101;
@@ -316,12 +325,19 @@ width: 90px!important;
 }
 
 @media (min-width: 768px) {
-  .card .card-title {
-  font-size: 6.5rem;
+header[role="banner"] div.navbar {
+  padding-top: 25px;
+  height: 100px;
+}
+main[role="main"] {
+  margin-top: 50px;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   background:none;
-  border-top:5px solid rgb(172,203,218);
-  padding-top:10px;
+  border-bottom:5px solid rgba(172,203,218,.5);
+  padding-bottom:10px;
+}
+  .card .card-title {
+  font-size: 6.5rem;
 }
 }
