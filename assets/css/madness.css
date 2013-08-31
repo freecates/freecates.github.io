@@ -121,7 +121,7 @@ madness .barcelona-skyline__o {
     left: 305.5px;
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:144dpi) {
+/*@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:144dpi) {
 
 .barcelona-skyline .barcelona-skyline__o {
     background-image: url(/assets/img/2x/barcelona-skyline__o-lg-2x.png);
@@ -132,4 +132,4 @@ madness .barcelona-skyline__o {
     top:0;
     left:auto;
 }
-}
+}*/
