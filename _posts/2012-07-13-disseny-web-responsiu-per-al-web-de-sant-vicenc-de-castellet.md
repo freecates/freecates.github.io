@@ -17,9 +17,6 @@ author: oxygen
 
 <blockquote>
 	<p>El nou web és pioner en l’ús de programació HTML5 i l’aplicació del disseny web responsiu.</p>
-	<footer>
-		&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Francesc Vila</a></cite>
-	</footer>
 </blockquote>
 
 El nou web de l’[Ajuntament de Sant Vicenç de Castellet](http://www.svc.cat/) s’ha realitzat amb llenguatge de programació HTML5 i l’aplicació del [disseny web responsiu](http://www.svc.cat/svcastellet/ca/disseny-web-responsiu) (en anglès: responsive web design). Hom ha plantejat i realitzat un projecte innovador per actualitzar la presència a la xarxa del consistori de la comarca del Bages, aplicant les últimes novetats en programació i disseny web.

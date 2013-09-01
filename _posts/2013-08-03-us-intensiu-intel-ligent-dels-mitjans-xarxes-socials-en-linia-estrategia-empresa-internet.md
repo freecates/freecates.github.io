@@ -15,9 +15,6 @@ author: oxygen
 
 <blockquote>
 	<p>Un web sense una estratègia comunicativa a través de les xarxes socials és un lloc situat en un racó de la xarxa, amb molt poca o nul·la visibilitat</p>
-	<footer>
-		&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Francesc Vila</a></cite>
-	</footer>
 </blockquote>
 
 Es pot fer ràpidament i de qualsevol manera, però, una bona estratègia per aprofitar tot el potencial d’Internet passa per l’elaboració d’un pla de comunicació. Aquesta és una de les maneres més eficaces d’**establir els objectius** del que es vol comunicar a la xarxa, coordinament a la resta d’activitats de l’organització.
@@ -26,7 +23,7 @@ Quina és la millor estratègia per fer visible una empresa a Internet? Sense ca
 
 ##Pla de mitjans i xarxes socials
 
-Actualment, Internet no s’entén sense els mitjans i les xarxes socials, per això, a Argus.net diem que un web sense una **estratègia comunicativa a través de les xarxes socials** és un lloc situat en un racó de la xarxa, amb molt poca o nul·la visibilitat, condemnat a l’ostracisme. Qualsevol pla de comunicació per a un projecte a Internet requereix d’un pla de mitjans socials en línia, que tingui en compte:
+Actualment, Internet no s’entén sense els mitjans i les xarxes socials, per això, diem que un web sense una **estratègia comunicativa a través de les xarxes socials** és un lloc situat en un racó de la xarxa, amb molt poca o nul·la visibilitat, condemnat a l’ostracisme. Qualsevol pla de comunicació per a un projecte a Internet requereix d’un pla de mitjans socials en línia, que tingui en compte:
 
 - L’anàlisi de rellevància social de cada mitjà social.
 - La definició dels canals o xarxes socials en què cal estar.

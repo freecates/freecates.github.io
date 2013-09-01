@@ -17,14 +17,11 @@ author: oxygen
 
 <blockquote>
 	<p>Dissenyada i programada per als continguts del web d’Escacc amb tecnologia de codi obert</p>
-	<footer>
-		&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Ramon Gil</a></cite>
-	</footer>
 </blockquote>
 
-La comunicació mòbil arriba al web d’Escacc de la mà d’Argus.net. Avui s’ha fet el llançament de la nova web app que permet consultar tots els continguts del “[Portal de tendències en comunicació i indústries culturals](http://www.escacc.cat/ "Portal d'Escacc")” de la Fundació Escacc.
+La comunicació mòbil arriba al web d’Escacc. Avui s’ha fet el llançament de la nova web app que permet consultar tots els continguts del “[Portal de tendències en comunicació i indústries culturals](http://www.escacc.cat/ "Portal d'Escacc")” de la Fundació Escacc.
 
-Aquesta web app ha estat dissenyada i programada per Argus.net amb tecnologia de codi obert, basada en JQuery Mobile i optimitzada per a iPhone i Android. Des del web app d’Escacc s’accedeix a una versió àgil i simplificada per a dispositius mòbils dels continguts més importants publicats al web d’Escacc.
+Aquesta web app ha estat dissenyada i programada amb tecnologia de codi obert, basada en JQuery Mobile i optimitzada per a iPhone i Android. Des del web app d’Escacc s’accedeix a una versió àgil i simplificada per a dispositius mòbils dels continguts més importants publicats al web d’Escacc.
 
 Tots els continguts als quals es pot accedir des d’aquesta aplicació són oberts: notícies diàries sobre sectors de la comunicació i la cultura, agenda d’activitats relacionada amb aquests àmbits, el bloc amb articles d’especialistes, la secció a+a+ amb informació destacada procedent de la xarxa.
 

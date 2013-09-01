@@ -15,9 +15,6 @@ author: oxygen
 
 <blockquote>
 	<p>Estem davant d’un canvi important a la xarxa que alguns ja han batejat com a una nova revolució per a l’expansió d’Internet.</p>
-	<footer>
-		&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Geard Garcia</a></cite>
-	</footer>
 </blockquote>
 
 De la mateixa manera que cada telèfon té un número assignat que li permet connectar-se a la xarxa telefònica per poder rebre i fer trucades, cada dispositiu electrònic o informàtic que es connecta a Internet necessita una adreça IP. Fins ara, tots els dispositius connectats a la xarxa Internet han estat utilitzant el protocol de comunicació IPv4 (Internet Protocol, versió 4).

@@ -15,9 +15,6 @@ author: oxygen
 
 <blockquote>
 	<p>Un clúster és una de les solucions avançades per la redundància i la fiabilitat del sistema informàtic per a les empreses que busquen l’excel·lència.</p>
-	<footer>
-		&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Geard Garcia</a></cite>
-	</footer>
 </blockquote>
 
 Quan tenim un servei crític en què una fallada suposa un cost molt elevat (aturada de la producció, del servei a clients, etc…) necessitem un sistema que redueixi tot el possible la probabilitat que això passi. Parlem d’un sistema d’alta disponiblitat, més concretament: d’un clúster d’alta disponibilitatat.
@@ -30,4 +27,4 @@ La inversió inicial en aquest tipus de sistema és elevada, però, si s’anali
 
 Us imagineu el cost de tenir un web de venda de productes a Internet sense funcionar algunes hores? Quina imatge dóna un servei de compra en línia que no funciona als compradors? Què suposaria per una empresa no poder accedir als fitxers o tenir el correu electrònic sense funcionar durant un dia? Us imagineu Google, Facebook o Twitter sense funcionar durant unes hores? Quan la respota a aquestes preguntes suposen molts diners és quan cal aplicar solucions potents, com ho és un clúster d’alta disponibilitat.
 
-Una vegada més, Argus.net aposta pel programari lliure per a la seva programació, ja que en codi obert es poden trobar les eines i els recursos necessaris per a una programació segura i personalitzada. La redundància i la fiabilitat  són elements importants per a qualsevol sistema informàtic. En canvi, un clúster és una de les solucions avançades per la redundància i la fiabilitat del sistema informàtic per a les empreses que busquen l’excel·lència.
+Una vegada més, apostem pel programari lliure per a la seva programació, ja que en codi obert es poden trobar les eines i els recursos necessaris per a una programació segura i personalitzada. La redundància i la fiabilitat  són elements importants per a qualsevol sistema informàtic. En canvi, un clúster és una de les solucions avançades per la redundància i la fiabilitat del sistema informàtic per a les empreses que busquen l’excel·lència.

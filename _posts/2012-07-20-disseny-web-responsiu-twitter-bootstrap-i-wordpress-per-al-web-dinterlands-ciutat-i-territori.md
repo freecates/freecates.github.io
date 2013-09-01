@@ -18,9 +18,6 @@ published: true
 
 <blockquote>
 	<p>El nou web combina disseny responsiu, la flexibilitat de Twitter i la simplicitat de WordPress.</p>
-	<footer>
-		&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Ramon Gil</a></cite>
-	</footer>
 </blockquote>
 
 ##Dels 320 píxels en amunt!
