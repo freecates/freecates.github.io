@@ -4,6 +4,7 @@
 body {
   padding-top: 50px;
 }
+
 img {
   max-width:100%;
 }
@@ -291,13 +292,23 @@ width: 90px!important;
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
-  /* Let the jumbotron breathe */
+
+  body.ox-comunicacio,body.ox-infraestructura {
+      background: url(/assets/img/banner-barcelona-lg.jpg) repeat-x 20% 0;
+  }
+  body.ox-comunicacio [role="main"],body.ox-infraestructura [role="main"] {
+    padding-top: 25px;
+  }
   .jumbotron {
     margin-top: 30px;
   }
   .jumbotron.full-width {
     margin-top: 0;
   }
+  body.ox-comunicacio .jumbotron:first-child,body.ox-infraestructura .jumbotron:first-child {
+    background: rgba(172,203,218,.5);
+  }
+
   /* Remove padding from wrapping element since we kick in the grid classes here */
   .body-content {
     padding: 0;
@@ -322,6 +333,12 @@ width: 90px!important;
    font-size: 0.75em;
     white-space: pre-wrap;
 } 
+}
+
+@media screen and (min-width: 1024px) {
+ body.ox-comunicacio,body.ox-infraestructura {
+      background: url(/assets/img/banner-barcelona-lg.jpg) repeat-x -20% 0;
+  } 
 }
 
 @media (min-width: 768px) {
