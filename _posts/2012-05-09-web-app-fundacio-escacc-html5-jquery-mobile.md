@@ -11,6 +11,7 @@ featured-img-url: mescacc-case-study.png
 meta: Una webapp amb HTML5 i JQuery Mobile
 excerpt: Dissenyada i programada per als continguts del web d’Escacc amb tecnologia de codi obert.
 author: oxygen
+keywords: webapp, HTML5, JQuery mobile
 ---
 
 #Una webapp amb HTML5 i JQuery Mobile

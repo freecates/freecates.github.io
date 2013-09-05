@@ -9,6 +9,7 @@ tags:
 meta: John Allshopp
 excerpt: El control que els dissenyadors tenen al mitjà imprès, i que sovint desitgen al mitjà web, és simplement una funció de la limitació de la pàgina impresa.
 author: oxygen
+keywords: John Allshopp
 ---
 
 <blockquote>

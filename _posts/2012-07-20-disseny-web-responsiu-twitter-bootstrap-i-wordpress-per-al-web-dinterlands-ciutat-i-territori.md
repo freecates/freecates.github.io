@@ -12,6 +12,7 @@ meta: "Disseny responsiu, Bootstrap i WordPress per al web d’Interlands"
 excerpt: "El nou web combina disseny responsiu, la flexibilitat de Twitter i la simplicitat de WordPress."
 author: oxygen
 published: true
+keywords: disseny, responsiu, Bootstrap, WordPress, Interlands
 ---
 
 #Disseny responsiu, Bootstrap i WordPress per al web d’Interlands

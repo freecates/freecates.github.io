@@ -11,6 +11,7 @@ featured-img-url: svc-case-study.png
 meta: Disseny responsiu per al web de Sant Vicenç de Castellet
 excerpt: El nou web és pioner en l’ús de programació HTML5 i l’aplicació del disseny web responsiu.
 author: oxygen
+keywords: disseny, responsiu, Sant Vicenç de Castellet
 ---
 
 #Disseny responsiu per al web de Sant Vicenç de Castellet

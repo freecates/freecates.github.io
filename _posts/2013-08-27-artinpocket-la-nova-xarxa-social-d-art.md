@@ -2,7 +2,7 @@
 comments: true
 date: 2013-08-27 11:48:19
 layout: blog
-slug: "artinpocket-la-nova-xarxa-social-d-art"
+slug: artinpocket-la-nova-xarxa-social-d-art
 title: "Artinpocket.cat la nova xarxa social d'art."
 categories: [comunicació, treballs, no-cita]
 tags: "case-study"
@@ -12,6 +12,7 @@ meta: "Artinpocket.cat la nova xarxa social d'art."
 excerpt: "Artinpocket, la xarxa social d'art contemporani per difondre i vendre les teves obres."
 author: oxygen
 published: true
+keywords: artinpocket, nova, xarxa, social, art
 ---
 
 #Artinpocket.cat la nova xarxa social d'art
