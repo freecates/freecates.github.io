@@ -250,6 +250,15 @@ background: #fff;
 padding: 10px;
 }
 
+.blog .article figure {
+  background: rgba(16,68,90,.25);
+}
+
+.blog .article figure figcaption {
+  text-align: center;
+  font-size: .75em;
+}
+
 #siderail {
 position: relative;
 top:0;
