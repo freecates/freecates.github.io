@@ -251,7 +251,7 @@ padding: 10px;
 }
 
 .blog .article figure {
-  background: rgba(16,68,90,.25);
+  background: #c3d0d5;
 }
 
 .blog .article figure figcaption {
@@ -347,6 +347,9 @@ width: 90px!important;
 @media screen and (min-width: 1024px) {
  body.ox-comunicacio,body.ox-infraestructura {
       background: url(/assets/img/banner-barcelona-lg.jpg) repeat-x -20% 0;
+  }
+  .blog .article figure {
+  margin-left: -80px;
   } 
 }
 
@@ -366,4 +369,9 @@ main[role="main"] {
   .card .card-title {
   font-size: 6.5rem;
 }
+}
+@media screen and (min-width: 1280px) {
+  .blog .article figure {
+  margin-left: -120px;
+  } 
 }
