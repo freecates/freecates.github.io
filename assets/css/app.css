@@ -250,9 +250,9 @@ background: #fff;
 padding: 10px;
 }
 
-.blog .article figure {
+/*.blog .article figure {
   background: #c3d0d5;
-}
+}*/
 
 .blog .article figure figcaption {
   text-align: center;
@@ -369,9 +369,4 @@ main[role="main"] {
   .card .card-title {
   font-size: 6.5rem;
 }
-}
-@media screen and (min-width: 1280px) {
-  .blog .article figure {
-  margin-left: -120px;
-  } 
 }
