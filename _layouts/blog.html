@@ -32,6 +32,9 @@ slug: blog
             {% if page.featured-img-url %}
             <p class="pull-right hidden-xs"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
             {% endif %}
+            {% if page.type == 'cita' %}
+            <h2><i class="icon-quote-right"></i> Oxygen cita</h2>
+            {% endif %}
             {{ content }}
           </article>
 
