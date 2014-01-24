@@ -3,6 +3,8 @@ url:              'http://www.oxygen.cat'
 markdown:         rdiscount
 pygments:         true
 
+lsi:				true
+
 baseurl:
 permalink:        /:title
 
