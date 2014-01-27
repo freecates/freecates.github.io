@@ -3,12 +3,12 @@ comments: true
 date: 2014-01-27 17:48:19
 layout: blog
 slug: artipocket-la-comunitat-de-compra-venda-d-art-accessible-amb-un-sol-clic
-title: "Artipocket la comunitat de compra venda d'art accessible amb un sol clic."
+title: Artipocket la comunitat de compra venda d'art accessible amb un sol clic
 categories: [comunicació, treballs, no-cita]
 tags: "case-study"
 "featured-img": true
 "featured-img-url": "artinpocket-case-study.png"
-meta: "Artipocket la comunitat de compra venda d'art accessible amb un sol clic."
+meta: Artipocket la comunitat de compra venda d'art accessible amb un sol clic
 excerpt: "Artinpocket, la comunitat d'art contemporani accessible per difondre i vendre les teves obres."
 author: oxygen
 published: true
