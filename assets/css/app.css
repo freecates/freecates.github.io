@@ -164,7 +164,7 @@ color:#10445A;
 
 .body-content.blog {
   position: relative;
-  padding: 30px 2.5% 80px 2.5%;
+  padding: 30px 0 80px 0;
 }
 
 .blog .breadcrumb {
@@ -389,6 +389,10 @@ th {
 
 .navbar-nav-right {
   float: right;
+}
+
+.body-content.blog {
+  padding: 30px 2.5% 80px 2.5%;
 }
 
 }
