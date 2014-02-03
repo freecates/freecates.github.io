@@ -9,7 +9,7 @@ tags:
 meta: Per què estàndards web?
 excerpt: El març del 2003 l'Internet Explorer va arribar al màxim de la seva quota de mercat coincidint amb la sortida al mercat del Mozilla 1.3
 author: oxygen
-keywords: pagerank, posisionament, web, cercadors, carrera, google, estratègia
+keywords: estàndards, web, w3c, html, xhtml, xml, css, xslt
 ---
 
 #Per què estàndards web?
