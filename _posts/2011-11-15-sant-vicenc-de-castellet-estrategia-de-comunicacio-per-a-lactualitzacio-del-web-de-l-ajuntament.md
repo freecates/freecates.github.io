@@ -9,7 +9,7 @@ tags: "case-study"
 "featured-img": true
 "featured-img-url": "svc-case-study.png"
 meta: Sant Vicenç de Castellet, estratègia de comunicació per a l'actualització del web de l'ajuntament
-excerpt: Amb la tercera edició del 10 en Comunicació, hem realitzat un web específic amb la informació completa i dinàmica d'aquest cicle de conferències, dedicat a la comunicació i la cultura, organitzat per la Fundació Escacc.
+excerpt: L'objectiu principal del web és l'actualització de la imatge, l'estructura i la comunicació del consistori i el municipi a la xarxa.
 author: oxygen
 published: true
 keywords: accessibilitat, dispositius mòbils, disseny web, estàndards, posicionament, programació, responsiu, SEO
