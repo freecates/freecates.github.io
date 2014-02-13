@@ -26,7 +26,7 @@ El web de l’Ajuntament ha estat programat a mida en HTML5 sota els paràmetres
 
 El disseny aplicat organitza el web en quatre seccions destacades a l’inici: ajuntament, municipi, serveis i seu electrònica. Aquests quatre eixos donen cabuda a les múltiples àrees d’actuacions del consistori. Actualitat i agenda d’activitats són dues de les seccions dinàmiques importants, com també ho és l’apartat de l’Arxiu municipal, programat perquè es pugui anar ampliant, tant en forma com en continguts.
 
-<figure class="hidden-xs hidden-sm"><img src="/assets/img/sant-vicenc-castellet-multi-pantalla.png" /><figcaption><p>Disseny responsiu per al web de Sant Vicenç de Castellet</p></figcaption></figure>
+<figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/sant-vicenc-castellet-multi-pantalla.png" /><figcaption><p>Disseny responsiu per al web de Sant Vicenç de Castellet</p></figcaption></figure>
 
 ##Optimitzat per a mòbils
 

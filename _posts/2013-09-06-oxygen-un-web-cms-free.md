@@ -36,7 +36,7 @@ Tant els frameworks de codi obert com ara Magnolia, Drupal o Wordpress com les a
 
 Tot i la complexitat d'aquests sistemes, tots ells han de produir els mateixos formats de sortida: estàndards web.
 
-<figure class="hidden-xs hidden-sm"><img src="/assets/img/oxygen-multi-pantalla.png" /><figcaption><p>Captures de la pàgina d'inici del web d'Oxygen en diferents tipus de suport. Des dels telèfons mòbils fins a les grans pantalles — oxygen.cat, un web cms-free</p></figcaption></figure>
+<figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/oxygen-multi-pantalla.png" /><figcaption><p>Captures de la pàgina d'inici del web d'Oxygen en diferents tipus de suport. Des dels telèfons mòbils fins a les grans pantalles — oxygen.cat, un web cms-free</p></figcaption></figure>
 
 ##Tornar al bàsic
 
