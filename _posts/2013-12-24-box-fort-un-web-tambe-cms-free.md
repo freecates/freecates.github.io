@@ -50,7 +50,7 @@ Per a plantilles i per a la generació de llocs web, hom pot emprar Jekyll, un p
 
 Si volem que un tercer sense coneixements tècnics pugui mantenir i administrar un web creat amb Jekyll, cal trobar un editor de continguts amb interfície web. [Prose.io](http://prose.io/ "Prose &middot; A Content Editor for GitHub"), és un editor de continguts web específicament dissenyat per treballar bé amb Jekyll. Prose permet editar arxius de text allotjats a GitHub, on emmagatzemem el nostre codi. Ofereix una elegant interfície que se centra en l'escriptura.
 
-<figure class="hidden-xs hidden-sm"><img src="/assets/img/box-fort-full-width-snapshot.png" /><figcaption><p>Captura de "Maletes de plàstic, Doble paret" — Box-fort.com, un web també CMS-free</p></figcaption></figure>
+<figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/box-fort-full-width-snapshot.png" /><figcaption><p>Captura de "Maletes de plàstic, Doble paret" — Box-fort.com, un web també CMS-free</p></figcaption></figure>
 
 ##I si el fem multi idioma?
 

@@ -30,7 +30,7 @@ El web per a aquesta edició del 10 en Comunicació ha estat programat en **HTML
 
 Oxygen.cat és pioner a Catalunya en la realització d'aquesta modalitat avançada de disseny web,  que s'inicià amb els conceptes content first, [moible first](http://www.lukew.com/ff/entry.asp?933 'LukeW | Mobile First'): sensible a la proliferació de pantalles, des de les més petites dels telèfons intel·ligents o tauletes, a les més grans dels televisors o projectors connectats a Internet; sense deixar d'atendre les exigències dels diferents programes i sistemes operatius a l'hora d'accedir als continguts de la xarxa.
 
-<figure class="hidden-xs hidden-sm"><img src="/assets/img/10-en-com-multi-pantalla.png" /><figcaption><p>El web per a aquesta edició del 10 en Comunicació ha estat programat en HTML5 i CSS3 sota els paràmetres del disseny web responsiu</p></figcaption></figure>
+<figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/10-en-com-multi-pantalla.png" /><figcaption><p>El web per a aquesta edició del 10 en Comunicació ha estat programat en HTML5 i CSS3 sota els paràmetres del disseny web responsiu</p></figcaption></figure>
 
 ##Una nova manera de treballar
 

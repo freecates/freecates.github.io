@@ -32,7 +32,7 @@ artinpocket.cat ha estat programat a mida en HTML5 sota els paràmetres del diss
 
 Artipocket vol esdevenir la comunitat de referència per a la difusió, de col·leccions, obres, artistes i galeries a Internet. Un espai de compra i venda sense intermediaris on [tothom s'hi pot inscriure](http://artinpocket.cat/privada/privada.php "Artinpocket Àrea Privada") i valorar l'art que s'hi exposa i, alhora, esdevenir artista o galeria i publicitar les pròpies obres.
 
-<figure class="hidden-xs hidden-sm"><img src="/assets/img/artinpocket-full-width-snapshot.png" /><figcaption><p>Artinpocket la comunitat de compra venda d'art accessible amb un sol clic</p></figcaption></figure>
+<figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/artinpocket-full-width-snapshot.png" /><figcaption><p>Artinpocket la comunitat de compra venda d'art accessible amb un sol clic</p></figcaption></figure>
 
 ##Un blog per saber-ne més
 
