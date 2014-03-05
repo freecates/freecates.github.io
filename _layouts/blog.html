@@ -30,7 +30,8 @@ slug: blog
             <hr />
             <h4><time datetime="{{ page.date | date: "%Y-%m-%d %H:%M%z" }}">{{ page.date | localize: ":simple" }}</time> per {{ author.display_name }}</h4>
             {% if page.featured-img-url %}
-            <p class="pull-right hidden-xs"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
+            <p class="hidden-md hidden-lg text-center"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}}" title="{{page.featured-img-alt}}"{% endif %}></p>
+            <p class="pull-right hidden-xs hidden-sm"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}}" title="{{page.featured-img-alt}}"{% endif %}></p>
             {% endif %}
             {% if page.type == 'cita' %}
             <h2><i class="icon-quote-right"></i> Oxygen cita</h2>
