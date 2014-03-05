@@ -22,11 +22,11 @@ keywords: vortex, online, wind, modeling, professionals
 
 ##El cas Vortex
 
-[Vortex](http://www.vortex.es/ "Vortex Online Wind Modeling for Professionals. By Professionals") s’ha realitzat amb llenguatge HTML5 i l’aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia"). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web.
+[Vortex](http://www.vortex.es/ "Vortex Online Wind Modeling for Professionals. By Professionals") s’ha realitzat amb llenguatge HTML5 i l’aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web.
 
-vortex.es ha estat desenvolupat a mida, seguint la fórmula **Jekyll i Prose**, sota els paràmetres del disseny web responsiu, a partir del disseny gràfic original d’[Ió Hipermedia](http://www.iohipermedia.com/). Davant la proliferació dels dispositius mòbils amb accés a Internet, aquesta modalitat de programació preveu una resposta òptima del web per a una correcta visualització en les múltiples resolucions de pantalla: des de les més petites, dels telèfons mòbils o tauletes; a les més grans dels televisors o projectors connectats a Internet.
+*vortex.es* ha estat desenvolupat a mida, seguint la fórmula **Jekyll i Prose**, sota els paràmetres del disseny web responsiu, a partir del disseny gràfic original d’[Ió Hipermedia](http://www.iohipermedia.com/). Davant la proliferació dels dispositius mòbils amb accés a Internet, aquesta modalitat de programació preveu una resposta òptima del web per a una correcta visualització en les múltiples resolucions de pantalla: des de les més petites, dels telèfons mòbils o tauletes; a les més grans dels televisors o projectors connectats a Internet.
 
-A Oxygen apostem de totes totes per la contruscció de webs [CMS-free](/oxygen-un-web-cms-free/). Les lliçons apreses i les experiències visqudes durant 9 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia.
+A Oxygen apostem de totes totes per la construcció de webs [CMS-free](/oxygen-un-web-cms-free/). Les lliçons apreses i les experiències visqudes durant 9 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia.
 
 Tot i la complexitat de qualsevol sistema, tots ells han de produir els mateixos formats de sortida: estàndards web.
 
