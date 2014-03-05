@@ -1,4 +1,4 @@
-<div class="card {% if cardCount < 3 %}display{% else %}nodisplay{% endif %}">
+<div class="card ox_animate_when_almost_visible ox_bottom-to-top {% if cardCount < 3 %}display{% else %}nodisplay{% endif %}">
 	<div data-title='{{post.title | replace:"'","\'"}}' data-url='{{post.url}}' data-open='true'>
 		{% include social.html %}
 	</div>
