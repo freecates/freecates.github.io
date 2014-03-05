@@ -34,7 +34,7 @@ Tot i la complexitat de qualsevol sistema, tots ells han de produir els mateixos
 
 ##Tornar al bàsic
 
-Mitjançant el desenvolupament de llocs web, com aplicacions de la banda client ("client-side") que només consten dels arxius utilitzables directament per un navegador web sense el treball addicional realitzat pels servidors de back-end, hom es capaç de traslladars l'estalvi de costos als clients alhora que s'elimina pràcticament el risc de caiguda de la pàgina web. Per a funcionalitats addicionals no disponibles en les aplicacions "client-side", hom integra serveis externs.
+Mitjançant el desenvolupament de llocs web, com aplicacions de la banda client ("client-side") que només consten dels arxius utilitzables directament per un navegador web sense el treball addicional realitzat pels servidors de back-end, hom es capaç de traslladar l'estalvi de costos als clients alhora que s'el·limina pràcticament el risc de caiguda de la pàgina web. Per a funcionalitats addicionals no disponibles en les aplicacions "client-side", hom integra serveis externs.
 
 ##La fórmula amb Jekyll i Prose
 
