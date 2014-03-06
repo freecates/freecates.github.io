@@ -44,7 +44,7 @@ keywords: comunicació, infraestructures, estàndards, disseny, programació, we
 						</div>
 						<div class="col-sm-6 col-md-6">
 							<p>Comunicació corporativa, estratègia, elaboració, publicació i posicionament de continguts a Internet per mitjà dels darrers estàndards de <span class="label label-info marketing">disseny i programació web</span>.</p>
-							<p><a class="btn btn-default" href="{{ site.base_url }}/comunicacio"><i class="icon-plus-sign"></i> informació &raquo;</a></p>
+							<p><a class="btn btn-default" href="{{ site.base_url }}/comunicacio"><i class="fa fa-plus"></i> informació &raquo;</a></p>
 						</div>
 					</div>
 				</div>
@@ -67,7 +67,7 @@ keywords: comunicació, infraestructures, estàndards, disseny, programació, we
 						</div>
 						<div class="col-sm-6 col-md-6">
 							<p>Estratègia, implementació i manteniment d'infraestructures, sistemes i serveis informàtics per mitjà dels darrers estàndards de <span class="label label-info marketing">virtualització al núvol</span>.</p>
-							<p><a class="btn btn-default" href="{{ site.base_url }}/infraestructura"><i class="icon-plus-sign"></i> informació &raquo;</a></p>
+							<p><a class="btn btn-default" href="{{ site.base_url }}/infraestructura"><i class="fa fa-plus"></i> informació &raquo;</a></p>
 						</div>
 					</div>
 				</div>
@@ -144,7 +144,7 @@ keywords: comunicació, infraestructures, estàndards, disseny, programació, we
 
 			<div class="page-header">
 				<h1 class="text-center">T'ajudem? Estaríem encantats d'escoltar-te!</h1> 
-				<p class="text-center"><a href="{{ site.base_url }}/contacte" class="btn btn-default btn-lg"><i class="icon-envelope"></i> contacta'ns »</a></p>
+				<p class="text-center"><a href="{{ site.base_url }}/contacte" class="btn btn-default btn-lg"><i class="fa fa-envelope"></i> contacta'ns »</a></p>
 			</div>
 
 		</div>
@@ -158,14 +158,14 @@ keywords: comunicació, infraestructures, estàndards, disseny, programació, we
 			<section id="thoughts">
 				<div class="row">
 					<div class="col-sm-6 col-md-6">
-						<a href="{{ site.base_url }}blog/"><h2><i class="icon-edit"></i> Oxygen blog</h2></a>						
+						<a href="{{ site.base_url }}blog/"><h2><i class="fa fa-pencil-square-o"></i> Oxygen blog</h2></a>						
 						{% for post in site.categories.general limit:1 %}
 						<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4>
 						<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>							
 						{% endfor %}						
 					</div>
 					<div class="col-sm-6 col-md-6">
-						<h2><i class="icon-quote-right"></i> Oxygen cita</h2>
+						<h2><i class="fa fa-quote-right"></i> Oxygen cita</h2>
 						{% for post in site.categories.cita limit:1 %}
 							{{ post.content }}
 						{% endfor %}

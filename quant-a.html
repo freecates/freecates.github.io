@@ -30,20 +30,20 @@ published: true
 		<p>Som una empresa petita, per disseny. Ens hem resistit a la temptació de créixer més, perquè sabem que el que fem ho fem millor romanent petits i mantenimt la capacitat d'establir relacions a llarg termini amb els nostres clients.</p>
                 
         <div class="page-header">
-        	<h1 class="text-center">T'ajudem? Ens encantaria treballar amb tu!</h1> <p class="text-center"><a href="{{ site.base_url }}/contacte" class="btn btn-default btn-lg"><i class="icon-envelope"></i> contacta'ns »</a></p>
+        	<h1 class="text-center">T'ajudem? Ens encantaria treballar amb tu!</h1> <p class="text-center"><a href="{{ site.base_url }}/contacte" class="btn btn-default btn-lg"><i class="fa fa-envelope"></i> contacta'ns »</a></p>
       	</div>
 
       	<section id="thoughts">
 			<div class="row">
 				<div class="col-sm-6 col-md-6">
-					<a href="{{ site.base_url }}blog/"><h2><i class="icon-edit"></i> Oxygen blog</h2></a>						
+					<a href="{{ site.base_url }}blog/"><h2><i class="fa fa-pencil-square-o"></i> Oxygen blog</h2></a>						
 					{% for post in site.categories.general limit:1 %}
 					<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4>
 					<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>							
 					{% endfor %}						
 				</div>
 				<div class="col-sm-6 col-md-6">
-					<h2><i class="icon-quote-right"></i> Oxygen cita</h2>
+					<h2><i class="fa fa-quote-right"></i> Oxygen cita</h2>
 					{% for post in site.categories.cita limit:1 %}
 						{{ post.content }}
 					{% endfor %}
