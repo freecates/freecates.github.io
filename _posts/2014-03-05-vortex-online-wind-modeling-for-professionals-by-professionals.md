@@ -22,7 +22,9 @@ keywords: vortex, online, wind, modeling, professionals
 
 ##El cas Vortex
 
-[Vortex](http://www.vortex.es/ "Vortex Online Wind Modeling for Professionals. By Professionals") s’ha realitzat amb llenguatge HTML5 i l’aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web.
+[Vortex](http://www.vortex.es/ "Vortex Online Wind Modeling for Professionals. By Professionals") és un servei de modelatge en línia present als mercats solar, marí, del vent i del pronòstic, aportant solucions ràpides i fàcils d'usar, accessibles des de l'escriptori a través d'Internet.
+
+**Vortex** s’ha realitzat amb llenguatge HTML5 i l’aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web.
 
 *vortex.es* ha estat desenvolupat a mida, seguint la fórmula **Jekyll i Prose**, sota els paràmetres del disseny web responsiu, a partir del disseny gràfic original d’[Ió Hipermedia](http://www.iohipermedia.com/). Davant la proliferació dels dispositius mòbils amb accés a Internet, aquesta modalitat de programació preveu una resposta òptima del web per a una correcta visualització en les múltiples resolucions de pantalla: des de les més petites, dels telèfons mòbils o tauletes; a les més grans dels televisors o projectors connectats a Internet.
 
