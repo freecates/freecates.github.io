@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="ca">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="description" content="PageRank i posicionament web en cercadors, una aferrissada carrera de fons">
+<meta name="keywords" content="pagerank, posisionament, web, cercadors, carrera, google, estratègia">
+<meta name="author" content="Ramon Gil">
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+
+<title>
+  
+    PageRank i posicionament web en cercadors, una aferrissada carrera de fons &middot; Oxygen
+  
+</title>
+
+<script src="/assets/js/jquery.js"></script>
+
+<!-- Bootstrap core CSS -->
+<link href="/bootstrap/css/bootstrap.min.css?20140320091051" rel="stylesheet">
+<!-- Font awesome -->
+<link href="/assets/font-awesome/css/font-awesome.min.css?20140320091051" rel="stylesheet">
+<!-- Google fonts -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+<!-- Custom styles for this app template -->
+<link href="/assets/css/app.min.css?20140320091051" rel="stylesheet">
+<!-- Favicons -->
+				<link rel="shortcut icon" sizes="196x196" href="/assets/ico/favicon-oxygen-196.png">
+				<link rel="shortcut icon" sizes="128x128" href="/assets/ico/favicon-oxygen-128.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72-precomposed.png">
+            <link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57-precomposed.png">
+
+    <!-- Place anything custom after this. -->
+  </head>
+  <body class="ox-blog blog-article">
+    <a class="sr-only" href="#content">Skip navigation</a>
+
+    
+    <header role="banner">
+	<div class="navbar navbar-fixed-top navbar-default cl-effect-5">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/"><img src="/assets/img/oxygen-logo.png" /></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-nav-right">
+            <li>
+              <a href="/"><span data-hover="Inici">Inici</span></a>
+           </li>
+           <li>
+				      <a href="/quant-a"><span data-hover="Quant a">Quant a</span></a>
+		       </li>
+			     <li class="active">
+				    <a href="/blog"><span data-hover="Blog">Blog</span></a>
+			     </li>
+           <li>
+              <a href="/contacte"><span data-hover="Contacte">Contacte</span></a>
+           </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+ </header>
+    
+    
+
+<main class="ox-masthead" id="content" role="main">
+
+  <div class="container">
+
+    <div class="body-content blog">
+
+      <div class="page-header">
+        <h1><i class="fa fa-pencil-square-o"></i> Oxygen blog</h1>
+      </div>        
+
+      <ul class="breadcrumb">
+        <li><a href="/">Inici</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li class="active">PageRank i posicionament web en cercadors, una aferrissada carrera de fons</li>
+      </ul>
+
+      <div class="row">
+        <div class="col-sm-12 col-lg-12 blog-list">
+          <article class="article" role="main">
+            <hr />
+            <!--googleoff: all-->
+<div class='social-share clearfix'>
+  <ul>
+    <li>
+      <iframe class='twframe' allowtransparency='true' frameborder='0' scrolling='no' src='' via='Oxygen.cat' style='height:20px;'></iframe>
+    </li>
+    <!-- <li>
+      <iframe src='' class='fbframe' frameborder='0' style='border:none; overflow:hidden; height:25px;' allowTransparency='true'></iframe>
+    </li> -->
+    <li>
+      <a href='mailto:?subject=PageRank i posicionament web en cercadors, una aferrissada carrera de fons - Oxygen.cat&body=Voldria compartir aquest enllaç amb tu: http://www.oxygen.cat/pagerank-i-posicionament-web-en-cercadors' class='mailto btn btn-default btn-sm' title='Envia aquesta pàgina'><span class='fa fa-envelope'></span> Correu-e</a>
+    </li>
+  </ul>
+</div>
+<!--googleon: all-->
+
+<script>
+$(window).load(function(){
+  
+  $('.social-share').each(function(){
+
+    if($(this).parent().attr('data-url')){
+      
+      var url = $(this).parent().attr('data-url');
+      var title = $(this).parent().attr('data-title');
+
+      $(this).find('.fbframe').attr('src','https://www.facebook.com/plugins/like.php?href=oxygen.cat' + url + '&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
+
+      $(this).find('.twframe').attr('src','https://platform.twitter.com/widgets/tweet_button.html?text=' + title + '&url=http://www.oxygen.cat' + url + '&via=oxygen.cat&counturl=http://www.oxygen.cat'+ url +'');
+
+      $(this).find('.mailto').attr('href','mailto:?subject=' + title + ' - oxygen.cat&body=Voldria compartir aquest enllaç amb tu: http://www.oxygen.cat/'+ url + '')
+
+    }else{
+
+      $('.fbframe').attr('src','https://www.facebook.com/plugins/like.php?href=oxygen.cat/pagerank-i-posicionament-web-en-cercadors&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
+
+      $('.twframe').attr('src','https://platform.twitter.com/widgets/tweet_button.html?text=PageRank%20i%20posicionament%20web%20en%20cercadors,%20una%20aferrissada%20carrera%20de%20fons&url=http://www.oxygen.cat/pagerank-i-posicionament-web-en-cercadors&via=oxygen.cat&counturl=http://www.oxygen.cat/pagerank-i-posicionament-web-en-cercadors');
+
+    }
+  });
+});
+</script>
+
+            <hr />
+            <h4><time datetime="2005-08-05 11:48+0000">Agost 05, 2005</time> per Oxygen</h4>
+            
+            
+            <h1>PageRank i posicionament web en cercadors, una aferrissada carrera de fons</h1>
+
+<p>Qui no ha pensat mai "per què quan poso aquesta o aquella paraula a Google la gent de... surten en primera posició? <strong>Com ho fan per ser els primers?"</strong> I el que és pitjor, d'altres ens preguntem, <strong>"per què quan poso aquesta o aquella paraula a Google nosaltres no surtim en primera posició?</strong> I finalment aquells altres que ja hem pres consciència de l'enorme importància no només d'estar a Internet sinó també de saber-hi estar, ens preguntem "quan poso aquesta o aquella paraula a Google nosaltres <strong>podrem arribar mai a la primera posició?"</strong></p>
+
+<h2>PageRank i posicionament web, conceptes bàsics</h2>
+
+<p>Abans de començar aquesta lloable competició per la primera posició de la "marató Google", <strong>una miqueta de teoria i algunes dades bàsiques</strong> que ens ajudaran a estar en plena forma per a quan sentim el tret de sortida.</p>
+
+<ul>
+<li><strong>Posicionament natural</strong>: aquell que els cercadors et donen per ser qui ets.</li>
+<li><strong>Posicionament induït</strong>: aquell que els cercadors et donen com a resultat de contractar un espai associat a un criteri de cerca.</li>
+<li><strong>PageRank</strong>: és una famàlia d'algorismes utilitzats per a assignar de forma numèrica la rellevància dels documents (o pàgines web) indexats per un motor de cerca. Va ser inventat pels fundadors de Google i classifica les planes de 0 a 10.</li>
+</ul>
+
+
+<h2>PageRank i posicionament web, el gran èxit de Google</h2>
+
+<p>Aquest concepte patentat per Larry Page i Sergey Brin és el responsable de què avui en dia Google sigui la referència mundial. <strong>Genera entorn del 85% de tot el tràfic procedent de cercadors</strong>, per tant arribar als llocs de referència constitueix la diferència entre comptar o no comptar a Internet. La resta de cercadors s'alimenten totalment o parcial d'ell. Només Yahoo i MSN estan perfeccionant els seus sistemes i serveis per apropar-se al gegant [cliqueu <a href="https://www.google.com/search?hl=en&amp;q=battle+search&amp;btnG=Google+Search" title="fes clic aquí per veure els resultats de la cerca 'battle+search'">aquí</a> per fer-vos una lleugera idea de la "batalla"].</p>
+
+<p>PageRank confia en la naturalesa democràtica de la web utilitzant la seva vasta estructura d'enllaços com un indicador del valor d'una pàgina en concret. <strong>Google interpreta un enllaç d'una pàgina A a una pàgina B com un vot</strong>, de la pàgina A, per a la pàgina B. Però Google mira més enllà del volum de vots, o enllaços que una pàgina rep; també analitza la pàgina que emet el vot. <strong>Els vots emesos per les pàgines considerades "importants" valen més</strong>, i ajuden a fer a altres pàgines "importants".</p>
+
+<p>En altres paraules, <strong>el lloc d'una pàgina és el resultat d'una "votació" entre totes les altres pàgines de la World Wide Web sobre el nivell d'importància que té aquesta pàgina</strong>. Un hiperenlaç a una pàgina compta com un vot de suport. El PageRank d'una pàgina es defineix recursivament i depèn del nombre i PageRank de totes les pàgines que l'enllacen. Una pàgina que està enllaçada per moltes pàgines amb un PageRank alt aconsegueix també un PageRank alt. Si no hi ha enllaços a una pàgina web, no hi ha suport a aquesta pàgina específica.</p>
+
+<p>Tot plegat sembla ser una escala logarítmica, però els detalls exactes d'aquesta escala són un dels secrets més grans dels nostres dies.</p>
+
+<h2>PageRank i posicionament web, l'estratègia a seguir</h2>
+
+<p>Els <a href="http://www.eyetools.com/inpage/research_google_eyetracking_heatmap.htm" title="fes clic aquí per veure els resultats de la tècnica eyetrack">darrers estudis</a> demostren que <strong>els tres primers resultats de Google són llegits per la pràctica totalitat de les persones</strong> que fan una recerca, seguint la resta de resultats de la primera pàgina en efectivitat. Aquesta efectivitat decau ràpidament i <strong>són menys d'un 10% els usuaris que exploren més enllà de la tercera pàgina de resultats</strong>. O el que és el mateix, si no apareixem en els primers trenta llocs, les probabilitats de, per exemple, contactar amb "clients" potencials és gairebé nulÂ·la. Trenta places, deu d'elles d'autèntic privilegi, per a totes les empreses del món.</p>
+
+<p><strong>Els canvis de PageRank són una carrera de fons</strong>. Es calcula que hi ha uns 8 mil milions de planes web i aquesta xifra creix exponencialment cada dia (l'any 2000 s'estimaren uns 2 mil milions). I es calcula que hi ha més de 700 milions d'usuaris d'Internet (dades 2003). Per tant la competició és molt dura.</p>
+
+<p>Què cal fer doncs?, <strong>descobrir aquelles pàgines que Google té "reservades" per a NOSALTRES</strong>. Aquelles en les que podem ser l'estrella i aquell grapat més en les que estarem als llocs de dalt, en aferrisada rivalitat amb els més propers competidors.</p>
+
+<p>La competició, doncs, és qualitativa. I aquí és on l'experiència d'empreses com <a href="/">Oxygen.cat</a> entrem a jugar fort dissenyant una estratègia que en essència persegueix:</p>
+
+<ul>
+<li>Identificar clarament el nínxol de mercat.</li>
+<li>Identificar els conceptes claus.</li>
+<li>Optimitzar el website.</li>
+</ul>
+
+
+<p>En gran mesura aquest darrer punt passa pel desenvolupament web basat en <strong>estàndards. Si voleu estar en les millor condicions per a la competició, cada pàgina del vostre web ha d'estar creada sense errors de codi XHTML i ser semànticament correcta</strong>.</p>
+
+<p>Una "sana" carrera de fons ha començat!.</p>
+
+          </article>
+            <aside role="complementary">
+              <h1>També et pot interessar</h1>
+              <ul>
+                
+                <li><a href="/oxygen-un-web-cms-free">Oxygen.cat, un web CMS-free</a></li>
+                
+                <li><a href="/els-estandards-web-qualitat-del-codi">Els estàndards web: qualitat del codi</a></li>
+                
+                <li><a href="/per-que-wordpress">Per què WordPress?</a></li>
+                
+              </ul>
+            </aside>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</main>
+
+        <footer role="contentinfo">
+      <div class="footer-bg">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4 col-lg-4">
+              <p class="text-center">&copy; Oxygen 2013</p>
+            </div>
+            <div class="col-sm-4 col-lg-4 col-lg-offset-4 col-sm-offset-4">
+              <p class="text-center"><a href="#" title="Twitter" rel="external"><i class="fa fa-twitter fa-lg"></i></a> <a href="#" title="Facebook" rel="external"><i class="fa fa-facebook fa-lg"></i></a> <a href="mailto:info@oxygen.cat" title="Correu-e" rel="external"><i class="fa fa-envelope fa-lg"></i></a> <a href="/atom.xml" title="RSS"><i class="fa fa-rss fa-lg"></i></a></p>
+            </div>
+          </div>
+          <hr />
+          <p><small><a rel="external" title="By frank müller [CC-BY-SA-2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3ABarcelona_skyline.jpg">Barcelona_skyline.jpg</a> <i class="fa fa-file"></i> | <a title="By Abigor (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AServers_in_a_Rack.jpg">Servers_in_a_Rack.jpg</a> <i class="fa fa-file"></i> | animació de l'skyline inspirada per <a href="https://twitter.com/Malarkey" title="Andrew Clarke (Malarkey) a Twitter">@Malarkey</a> | slider gràcies a <a href="https://twitter.com/IanLunn" title="Ian Lunn (IanLunn) a Twitter">@IanLumn</a></small></p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="/assets/js/jquery.js?20140320091051"></script>
+
+<script src="/bootstrap/js/bootstrap.min.js?20140320091051"></script>
+<script src="http://airve.github.io/js/response/response.min.js?20140320091051"></script>
+<script src="/assets/js/waypoints.min.js?20140320091051"></script>
+<script>
+	jQuery(document).ready(function($) {
+	vc_waypoints();
+});
+	/* Waypoints magic
+---------------------------------------------------------- */
+if ( typeof window['vc_waypoints'] !== 'function' ) {
+  function vc_waypoints() {
+	if (typeof jQuery.fn.waypoint !== 'undefined') {
+	    jQuery('.ox_animate_when_almost_visible').waypoint(function() {
+			jQuery(this).addClass('ox_start_animation');
+		}, { offset: '85%' });
+	}
+  }
+}
+</script>
+<script>    
+Response.create({mode : 'src', prefix : 'src'});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47226335-1', 'oxygen.cat');
+  ga('send', 'pageview');
+
+</script>
+
+  </body>
+</html>
