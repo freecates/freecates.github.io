@@ -40,4 +40,4 @@ Així, si Magnolia, Joomla, Drupal, Magento i altres CMS de codi obert són tan 
 - "SEO-friendly"
 - Una gran comunitat
 
-Amb WordPress, una colla castellera, els **Castellers de Barcelona**, un col·lectiu tan divers i tan dinàmic pot **gestionar de manera eficaç** la seva presència i la seva comunicació a Internet.
+Amb WordPress, una colla castellera, els **Castellers de Barcelona**, un col·lectiu tan divers i tan dinàmic, pot **gestionar de manera eficaç** la seva presència i la seva comunicació a Internet.
