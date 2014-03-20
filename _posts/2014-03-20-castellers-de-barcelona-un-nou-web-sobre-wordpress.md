@@ -25,7 +25,7 @@ El treball de crear aquest nou web començava fa temps amb reunions de treball a
 
 ##Per què WordPress?
 
-A Oxygen apostem de totes totes per la construcció de webs [CMS-free](/oxygen-un-web-cms-free). Les lliçons apreses i les experiències visqudes durant 9 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia. Malgrat tot, el mercat té molt interioritzades les pareules plataforma i gestor de continguts com a sinòmims de desenvolupament, comunicació i presència a Internet. I, al capdamunt de la llista, **WordPress** hi apareix en boca de tothom.
+A **Oxygen** apostem de totes totes per la construcció de webs [CMS-free](/oxygen-un-web-cms-free). Les lliçons apreses i les experiències visqudes durant 9 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia. Malgrat tot, el mercat té molt interioritzades les pareules plataforma i gestor de continguts com a sinòmims de desenvolupament, comunicació i presència a Internet. I, al capdamunt de la llista, **WordPress** hi apareix en boca de tothom.
 
 <figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/castellers-de-barcelona-full-width-snapshot.png" /><figcaption><p>Castellers de Barcelona, un nou web sobre WordPress</p></figcaption></figure>
 
