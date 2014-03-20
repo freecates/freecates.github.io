@@ -23,7 +23,7 @@ El **19 de març de 2014**, els [Castellers de Barcelona](http://www.castellersd
 
 El treball de crear aquest nou web començava fa temps amb reunions de treball amb el Sergi Rubia "Baggio", Alex Rubia, Txory Lleixà, Sergi Brió i després s'han anat afegint opinions i feedback de la Junta, Edu París, Oriol Baró i Ramon Gil.
 
-#Per què WordPress?
+##Per què WordPress?
 
 A Oxygen apostem de totes totes per la construcció de webs [CMS-free](/oxygen-un-web-cms-free). Les lliçons apreses i les experiències visqudes durant 9 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia. Malgrat tot, el mercat té molt interioritzades les pareules plataforma i gestor de continguts com a sinòmims de desenvolupament, comunicació i presència a Internet. I, al capdamunt de la llista, **WordPress** hi apareix en boca de tothom.
 
