@@ -9,7 +9,7 @@ tags: "case-study"
 "featured-img": true
 "featured-img-url": "castellers-de-barcelona-case-study.png"
 meta: "Oxygen posa en marxa Castellers de Barcelona, un nou web sobre WordPress"
-excerpt: "..."
+excerpt: "El 19 de març de 2014, els Castellers de Barcelona han llançat un nou web. És un web modern, informatiu, intuïtiu i fresc."
 author: oxygen
 published: true
 keywords: castellers, barcelona, nou, web, WordPress
