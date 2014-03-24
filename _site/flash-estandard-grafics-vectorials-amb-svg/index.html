@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="ca">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="description" content="Flash estàndard: Gràfics vectorials amb SVG">
+<meta name="keywords" content="estàndards, web, w3c, html, xhtml, xml, css, xslt">
+<meta name="author" content="Ramon Gil">
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+
+<title>
+  
+    Flash estàndard: Gràfics vectorials amb SVG &middot; Oxygen
+  
+</title>
+
+<script src="/assets/js/jquery.js"></script>
+
+<!-- Bootstrap core CSS -->
+<link href="/bootstrap/css/bootstrap.min.css?20140324180138" rel="stylesheet">
+<!-- Font awesome -->
+<link href="/assets/font-awesome/css/font-awesome.min.css?20140324180138" rel="stylesheet">
+<!-- Google fonts -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+<!-- Custom styles for this app template -->
+<link href="/assets/css/app.min.css?20140324180138" rel="stylesheet">
+<!-- Favicons -->
+				<link rel="shortcut icon" sizes="196x196" href="/assets/ico/favicon-oxygen-196.png">
+				<link rel="shortcut icon" sizes="128x128" href="/assets/ico/favicon-oxygen-128.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72-precomposed.png">
+            <link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57-precomposed.png">
+
+    <!-- Place anything custom after this. -->
+  </head>
+  <body class="ox-blog blog-article">
+    <a class="sr-only" href="#content">Skip navigation</a>
+
+    
+    <header role="banner">
+	<div class="navbar navbar-fixed-top navbar-default cl-effect-5">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/"><img src="/assets/img/oxygen-logo.png" /></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-nav-right">
+            <li>
+              <a href="/"><span data-hover="Inici">Inici</span></a>
+           </li>
+           <li>
+				      <a href="/quant-a"><span data-hover="Quant a">Quant a</span></a>
+		       </li>
+			     <li class="active">
+				    <a href="/blog"><span data-hover="Blog">Blog</span></a>
+			     </li>
+           <li>
+              <a href="/contacte"><span data-hover="Contacte">Contacte</span></a>
+           </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+ </header>
+    
+    
+
+<main class="ox-masthead" id="content" role="main">
+
+  <div class="container">
+
+    <div class="body-content blog">
+
+      <div class="page-header">
+        <h1><i class="fa fa-pencil-square-o"></i> Oxygen blog</h1>
+      </div>        
+
+      <ul class="breadcrumb">
+        <li><a href="/">Inici</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li class="active">Flash estàndard: Gràfics vectorials amb SVG</li>
+      </ul>
+
+      <div class="row">
+        <div class="col-sm-12 col-lg-12 blog-list">
+          <article class="article" role="main">
+            <hr />
+            <!--googleoff: all-->
+<div class='social-share clearfix'>
+  <ul>
+    <li>
+      <iframe class='twframe' allowtransparency='true' frameborder='0' scrolling='no' src='' via='Oxygen.cat' style='height:20px;'></iframe>
+    </li>
+    <!-- <li>
+      <iframe src='' class='fbframe' frameborder='0' style='border:none; overflow:hidden; height:25px;' allowTransparency='true'></iframe>
+    </li> -->
+    <li>
+      <a href='mailto:?subject=Flash estàndard: Gràfics vectorials amb SVG - Oxygen.cat&body=Voldria compartir aquest enllaç amb tu: http://www.oxygen.cat/flash-estandard-grafics-vectorials-amb-svg' class='mailto btn btn-default btn-sm' title='Envia aquesta pàgina'><span class='fa fa-envelope'></span> Correu-e</a>
+    </li>
+  </ul>
+</div>
+<!--googleon: all-->
+
+<script>
+$(window).load(function(){
+  
+  $('.social-share').each(function(){
+
+    if($(this).parent().attr('data-url')){
+      
+      var url = $(this).parent().attr('data-url');
+      var title = $(this).parent().attr('data-title');
+
+      $(this).find('.fbframe').attr('src','https://www.facebook.com/plugins/like.php?href=oxygen.cat' + url + '&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
+
+      $(this).find('.twframe').attr('src','https://platform.twitter.com/widgets/tweet_button.html?text=' + title + '&url=http://www.oxygen.cat' + url + '&via=oxygen.cat&counturl=http://www.oxygen.cat'+ url +'');
+
+      $(this).find('.mailto').attr('href','mailto:?subject=' + title + ' - oxygen.cat&body=Voldria compartir aquest enllaç amb tu: http://www.oxygen.cat/'+ url + '')
+
+    }else{
+
+      $('.fbframe').attr('src','https://www.facebook.com/plugins/like.php?href=oxygen.cat/flash-estandard-grafics-vectorials-amb-svg&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
+
+      $('.twframe').attr('src','https://platform.twitter.com/widgets/tweet_button.html?text=Flash%20est%C3%A0ndard:%20Gr%C3%A0fics%20vectorials%20amb%20SVG&url=http://www.oxygen.cat/flash-estandard-grafics-vectorials-amb-svg&via=oxygen.cat&counturl=http://www.oxygen.cat/flash-estandard-grafics-vectorials-amb-svg');
+
+    }
+  });
+});
+</script>
+
+            <hr />
+            <h4><time datetime="2006-02-16 11:48+0000">Febrer 16, 2006</time> per Oxygen</h4>
+            
+            
+            <h1>Flash estàndard: Gràfics vectorials amb SVG</h1>
+
+<h2>Del Flash al SVG</h2>
+
+<p>L'animació d'objectes a la web i el disseny utilitzant gràfics vectorials ha estat dominat els últims deu anys per Macromedia. Un llenguatge basat en XML desenvolupat pel World Wide Web Consortium (W3C) anomenat Scalable Vector Graphics (SVG) ha a aparegut com a competidor i sembla que està guanyant terreny.</p>
+
+<p>La història de la interactivitat utilitzant gràfics vectorials comença a principis dels anys noranta quan Macromedia va desenvolupar el Shockwave, un producte que va permetre als desenvolupadors multimèdia crear les primeres animacions amb una interactivitat mai vista fins aleshores.</p>
+
+<p>Els primers navegadors van començar a suportar Shockwave utilitzant plugins però molt aviat Macromedia va veure que una versió reduïda podia ser distribuïda directament. És així quan el 1996 Macromedia va comprar FutureWave que amb el seu producte FutureSplash es va convertir en el Flash 1.0.</p>
+
+<p>A mitjans dels anys noranta, va aparèixer un nou actor en el món de les dades gràcies a la senzillesa d'organitzar-les. Molts tipus de dades es van començar a representar en XML: representació d'informació matemàtica utilitzant MathML, gestió del coneixement amb RDF per a representar catàlegs de biblioteques, notícies o col·leccions de música, fotografies o agendes. Aquesta forma d'organitzar les dades són la base la creació de l'SVG.</p>
+
+<p>L'any 1999 va sortir la primera especificació de l'SVG. Proporciona una estructura per a una definició vectorial de gràfics utilitzant XML que inclouen l'animació temporal, la gestió d'events i la modifiació de documents. Tot això fa que l'SVG sigui un ferm competidor del Flash, lliure i estàndard.</p>
+
+<p>El principal problema per a la generalització del SVG és poca implantació en navegadors i la manca d'una eina estàndard d'autor. L'aparició del Firefox 1.5 que suporta SVG de forma nativa i el ràpid creixement dels últims temps de la utilització d'estàndards com XHTML i CSS en el desenvolupament d'alicacions web, fa pensar en un creixement molt ràpid d'aquesta tecnologia.</p>
+
+<h3>Taula De Comparació De Flash I SVG</h3>
+
+<table>
+<thead>
+<tr>
+<th>&nbsp; </th>
+<th>Macromedia Flash</th>
+<th> SVG</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Llicència oberta i estàndard</td>
+<td> No </td>
+<td>Si</td>
+</tr>
+<tr>
+<td>Especificació</td>
+<td> Macromedia SWF </td>
+<td>Llicència del World Wide Web Consortium</td>
+</tr>
+<tr>
+<td>Tipus de format</td>
+<td> Binari </td>
+<td>Text (XML llegible per humans)</td>
+</tr>
+<tr>
+<td>Tipus MIME</td>
+<td> application/x-shockwave-flash </td>
+<td>image/svg+xml</td>
+</tr>
+<tr>
+<td>Possibilitat de Streamming</td>
+<td> Si </td>
+<td>No</td>
+</tr>
+<tr>
+<td>Interactivitat</td>
+<td> Si. Utilitzant Scripts i Events </td>
+<td>Si. Utilitzant Scripts, SMIL, i events</td>
+</tr>
+<tr>
+<td>DOM</td>
+<td> Intern </td>
+<td>SVGDOM conforme amb la recomenació DOM Nivell 1</td>
+</tr>
+<tr>
+<td>Z-Order (Ordenació de gràfics)</td>
+<td> L'element amb més profunditat queda a dalt. Es pot modificar </td>
+<td>Utilitza l'estructura de SVGDOM per a col·locar els objectes. L'últim element queda a dalt i es pot modificar utilitzant DOM</td>
+</tr>
+<tr>
+<td>Compressió</td>
+<td> Si. ZLIB </td>
+<td>Si. GZIP</td>
+</tr>
+<tr>
+<td>Suport natiu en navegadors</td>
+<td> No. Però el "plugin" està instal·lat en la majoria de sistemes operatius i navegadors </td>
+<td>Parcialment implementat en alguns navegadors. Plugin d'Adobe disponible.</td>
+</tr>
+<tr>
+<td>Indexat pels cercadors</td>
+<td> Per la majoria </td>
+<td>Només alguns</td>
+</tr>
+<tr>
+<td>Estils</td>
+<td> Específic de SWF (Subconjunt de CSS) </td>
+<td>Específic de SVG. Molt similar i compatible amb CSS2 i XSL</td>
+</tr>
+</tbody>
+</table>
+
+
+<h2>Més info</h2>
+
+<ul>
+<li><a href="http://www.webstandards.org/" title="The Web Standards Project">The Web Standards Project</a></li>
+<li><a href="http://www.w3.org/" title="World Wide Web Consortium">World Wide Web Consortium</a></li>
+<li><a href="http://webstandardsgroup.org/" title="Web Standards Group">Web Standards Group</a></li>
+<li><a href="http://www.webstandardsawards.com/" title="Web Standards Awards">Web Standards Awards</a></li>
+</ul>
+
+
+          </article>
+            <aside role="complementary">
+              <h1>També et pot interessar</h1>
+              <ul>
+                
+                <li><a href="/els-estandards-web-qualitat-del-codi">Els estàndards web: qualitat del codi</a></li>
+                
+                <li><a href="/oxygen-un-web-cms-free">Oxygen.cat, un web CMS-free</a></li>
+                
+                <li><a href="/per-que-estandards-web">Per què estàndards web?</a></li>
+                
+              </ul>
+            </aside>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</main>
+
+        <footer role="contentinfo">
+      <div class="footer-bg">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4 col-lg-4">
+              <p class="text-center">&copy; Oxygen 2013</p>
+            </div>
+            <div class="col-sm-4 col-lg-4 col-lg-offset-4 col-sm-offset-4">
+              <p class="text-center"><a href="#" title="Twitter" rel="external"><i class="fa fa-twitter fa-lg"></i></a> <a href="#" title="Facebook" rel="external"><i class="fa fa-facebook fa-lg"></i></a> <a href="mailto:info@oxygen.cat" title="Correu-e" rel="external"><i class="fa fa-envelope fa-lg"></i></a> <a href="/atom.xml" title="RSS"><i class="fa fa-rss fa-lg"></i></a></p>
+            </div>
+          </div>
+          <hr />
+          <p><small><a rel="external" title="By frank müller [CC-BY-SA-2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3ABarcelona_skyline.jpg">Barcelona_skyline.jpg</a> <i class="fa fa-file"></i> | <a title="By Abigor (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3AServers_in_a_Rack.jpg">Servers_in_a_Rack.jpg</a> <i class="fa fa-file"></i> | animació de l'skyline inspirada per <a href="https://twitter.com/Malarkey" title="Andrew Clarke (Malarkey) a Twitter">@Malarkey</a> | slider gràcies a <a href="https://twitter.com/IanLunn" title="Ian Lunn (IanLunn) a Twitter">@IanLumn</a></small></p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="/assets/js/jquery.js?20140324180138"></script>
+
+<script src="/bootstrap/js/bootstrap.min.js?20140324180138"></script>
+<script src="http://airve.github.io/js/response/response.min.js?20140324180138"></script>
+<script src="/assets/js/waypoints.min.js?20140324180138"></script>
+<script>
+	jQuery(document).ready(function($) {
+	vc_waypoints();
+});
+	/* Waypoints magic
+---------------------------------------------------------- */
+if ( typeof window['vc_waypoints'] !== 'function' ) {
+  function vc_waypoints() {
+	if (typeof jQuery.fn.waypoint !== 'undefined') {
+	    jQuery('.ox_animate_when_almost_visible').waypoint(function() {
+			jQuery(this).addClass('ox_start_animation');
+		}, { offset: '85%' });
+	}
+  }
+}
+</script>
+<script>    
+Response.create({mode : 'src', prefix : 'src'});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47226335-1', 'oxygen.cat');
+  ga('send', 'pageview');
+
+</script>
+
+  </body>
+</html>
