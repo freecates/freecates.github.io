@@ -1,10 +1,13 @@
 ---
 comments: true
-date: 2014-03-24 11:48:19
+date: {}
 layout: blog
-slug: artinpocket-regular-lletres-al-servei-de-l-art
+slug: "artinpocket-regular-lletres-al-servei-de-l-art"
 title: "artinpocket/regular, lletres al servei de l'art"
-categories: [comunicació, treballs, no-cita]
+categories: 
+  - comunicació
+  - treballs
+  - "no-cita"
 tags: "case-study"
 "featured-img": true
 "featured-img-url": "artinpocket-regular-case-study.png"
@@ -12,10 +15,10 @@ meta: "artinpocket/regular, lletres al servei de l'art"
 excerpt: "Un verkami per a desenvolupar, artinpocket/regular, una tipografia pròpia i adequada per al món de les arts plàstiques i visuals"
 author: oxygen
 published: true
-keywords: artinpocket, lletres, tipografia, servei, art, verkami
+keywords: "artinpocket, lletres, tipografia, servei, art, verkami"
 ---
 
-#artinpocket/regular, lletres al servei de l'art
+#artinpocket / regular, lletres al servei de l'art
 
 
 >Lletres que esdevinguin una veu adient per als projectes culturals i artístics i s'adeqüin a la cultura visual del públic objectiu<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Pep Marés</a></cite></footer>
