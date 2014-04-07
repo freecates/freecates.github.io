@@ -3,7 +3,7 @@ comments: true
 date: {}
 layout: blog
 slug: "artinpocket-regular-lletres-al-servei-de-l-art"
-title: "artinpocket/regular, lletres al servei de l'art"
+title: "artinpocket / regular, lletres al servei de l'art"
 categories: 
   - comunicació
   - treballs
