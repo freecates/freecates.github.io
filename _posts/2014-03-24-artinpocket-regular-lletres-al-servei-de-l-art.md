@@ -1,6 +1,6 @@
 ---
 comments: true
-date: {}
+date: 2014-03-24 11:48:19
 layout: blog
 slug: "artinpocket-regular-lletres-al-servei-de-l-art"
 title: "artinpocket / regular, lletres al servei de l'art"
