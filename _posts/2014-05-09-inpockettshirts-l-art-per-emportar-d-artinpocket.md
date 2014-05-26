@@ -29,7 +29,7 @@ keywords: "artinpocket, lletres, tipografia, servei, art, verkami"
 
 ###Inpockettshirts
 
-Art per portar posat, descobreix la samarreta que **Artinpocket** i [B Lab](http://www.b-lab.eu/) han dissenyat per a tu, **art amb la gent, per la gent i per la gent**.
+Art per portar posat, descobreix la samarreta que **Artinpocket** i [B Lab](http://www.b-lab.eu/) han dissenyat per a tu, **art amb la gent, per la gent i per a la gent**.
 
 El disseny de la samarreta Artinpocket consisteix en la reproducció de la marca, en part com la butxaca de les samarretes, i en part serigrafiat. Trobem el lloc ideal per produir les nostres exclusives samarretes **ben aviat hi haurà més**.
 

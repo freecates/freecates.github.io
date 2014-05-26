@@ -1,7 +1,7 @@
 name:             'Oxygen'
 url:              'http://www.oxygen.cat'
 markdown:         rdiscount
-pygments:         true
+highlighter:	  pygments
 
 lsi:              true
 
