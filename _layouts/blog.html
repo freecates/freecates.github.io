@@ -6,6 +6,14 @@ slug: blog
 
 {% assign author = site.authors[page.author] %}
 
+{% assign ert = page.content | strip_html | number_of_words | divided_by:180 %}
+{% assign ertremainder = page.content | strip_html | number_of_words | modulo:180 %}
+{% if ertremainder >= 90 %}
+    {% assign readtime = ert | plus:1 %}
+{% else %}
+    {% assign readtime = ert %}
+{% endif %}
+
 <main class="ox-masthead" id="content" role="main">
 
   <div class="container">
@@ -28,7 +36,7 @@ slug: blog
             <hr />
             {% include social.html %}
             <hr />
-            <h4><time datetime="{{ page.date | date: "%Y-%m-%d %H:%M%z" }}">{{ page.date | localize: ":simple" }}</time> per {{ author.display_name }}</h4>
+            <h4><time datetime="{{ page.date | date: "%Y-%m-%d %H:%M%z" }}">{{ page.date | localize: ":simple" }}</time> per {{ author.display_name }} | {% if site.readtime %} <i class="fa fa-clock-o"></i>&nbsp;{% if readtime == 1 %}Temps estimat de lectura, 1 minut{% endif %}{% if readtime > 1 %}Temps estimat de lectura, {{ readtime }} minuts{% endif %}{% if readtime == 0 %}Temps estimat de lectura, menys d'1 minut{% endif %}{% endif %}</h4>
             {% if page.featured-img-url %}
             <p class="hidden-md hidden-lg text-center"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}}" title="{{page.featured-img-alt}}"{% endif %}></p>
             <p class="pull-right hidden-xs hidden-sm"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}}" title="{{page.featured-img-alt}}"{% endif %}></p>
