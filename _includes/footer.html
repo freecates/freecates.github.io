@@ -35,3 +35,12 @@ Response.create({mode : 'src', prefix : 'src'});
   ga('send', 'pageview');
 
 </script>
+{% if page.slug == 'blog' %}
+<script type='text/javascript'>
+  $(document).ready(function() {
+    $(".ert").text(function (index, value) {
+      return Math.round(parseFloat(value));
+    });
+  });
+</script>
+{% endif %}
