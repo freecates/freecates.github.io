@@ -14,11 +14,10 @@
   {% endif %}
 </title>
 
-{% include platform.html %}
-
+<script src="{{ site.base_url }}/assets/js/platform.js"></script>
 <link rel="import" href="{{ site.base_url }}/bootstrap/css/bootstrap.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
 <link rel="import" href="{{ site.base_url }}/assets/font-awesome/css/font-awesome.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
-<link rel="import" href="{{ site.base_url }}/assets/css/font-pt.html.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
+<link rel="import" href="{{ site.base_url }}/assets/css/font-pt.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
 <link rel="import" href="{{ site.base_url }}/assets/css/app.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
 <link rel="import" href="{{ site.base_url }}/assets/css/madness.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
 <link rel="import" href="{{ site.base_url }}/assets/css/sequencejs-theme.sliding-horizontal-parallax.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
