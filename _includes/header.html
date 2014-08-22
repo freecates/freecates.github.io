@@ -13,14 +13,14 @@
     {{ page.title }} &middot; Oxygen
   {% endif %}
 </title>
-<script src="{{ site.base_url }}/assets/js/platform.js"></script>
+
 
 {% if page.class == 'blog-index' or page.class == 'blog-article' %}<script src="{{ site.base_url }}/assets/js/jquery.js" async></script>{% endif %}
 
-<link rel="import" href="{{ site.base_url }}/bootstrap/css/bootstrap.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
-<link rel="import" href="{{ site.base_url }}/assets/font-awesome/css/font-awesome.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
-<link rel="import" href="{{ site.base_url }}/assets/css/font-pt.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
-<link rel="import" href="{{ site.base_url }}/assets/css/app.html?{{site.time | date: '%Y%m%d%H%M%S'}}">
+<link rel="stylesheet" href="{{ site.base_url }}/bootstrap/css/bootstrap.min.css?{{site.time | date: '%Y%m%d%H%M%S'}}">
+<link rel="stylesheet" href="{{ site.base_url }}/assets/font-awesome/css/font-awesome.min.css?{{site.time | date: '%Y%m%d%H%M%S'}}">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+<link rel="stylesheet" href="{{ site.base_url }}/assets/css/app.min.css?{{site.time | date: '%Y%m%d%H%M%S'}}">
 <!-- Favicons -->
 				<link rel="shortcut icon" sizes="196x196" href="{{ site.base_url }}/assets/ico/favicon-oxygen-196.png">
 				<link rel="shortcut icon" sizes="128x128" href="{{ site.base_url }}/assets/ico/favicon-oxygen-128.png">

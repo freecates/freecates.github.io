@@ -1,10 +1,10 @@
-{% if page.class != 'blog-index' or page.class != 'blog-article' %}<script src="{{ site.base_url }}/assets/js/jquery.js?{{site.time | date: '%Y%m%d%H%M%S'}}"></script>{% endif %}
+{% unless page.class == 'blog-index' or page.class == 'blog-article' %}<script src="{{ site.base_url }}/assets/js/jquery.js?{{site.time | date: '%Y%m%d%H%M%S'}}" async></script>{% endunless %}
 {% if page.slug == 'home' %}
 <script src="{{ site.base_url }}/assets/js/jquery.sequence-min.js?{{site.time | date: '%Y%m%d%H%M%S'}}"></script>
-<script src="{{ site.base_url }}/assets/js/sequencejs-options.sliding-horizontal-parallax.js?{{site.time | date: '%Y%m%d%H%M%S'}}"></script>
+<script src="{{ site.base_url }}/assets/js/sequencejs-options.sliding-horizontal-parallax.js?{{site.time | date: '%Y%m%d%H%M%S'}}" async></script>
 {% endif %}
-<script src="{{ site.base_url }}/bootstrap/js/bootstrap.min.js?{{site.time | date: '%Y%m%d%H%M%S'}}"></script>
-<script src="http://airve.github.io/js/response/response.min.js?{{site.time | date: '%Y%m%d%H%M%S'}}"></script>
+<script src="{{ site.base_url }}/bootstrap/js/bootstrap.min.js?{{site.time | date: '%Y%m%d%H%M%S'}}" async></script>
+<script src="http://airve.github.io/js/response/response.min.js?{{site.time | date: '%Y%m%d%H%M%S'}}" async></script>
 <script src="{{ site.base_url }}/assets/js/waypoints.min.js?{{site.time | date: '%Y%m%d%H%M%S'}}"></script>
 <script>
 	jQuery(document).ready(function($) {
