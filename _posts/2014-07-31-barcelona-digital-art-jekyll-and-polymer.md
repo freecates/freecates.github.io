@@ -53,19 +53,20 @@ Mitjançant el desenvolupament de llocs web, com aplicacions de la banda client 
 
 En aquest nou projecte hem començat a emprar [web components](http://webcomponents.org/ "WebComponents.org"), una veritable revolució en el desenvolupament web, per mitjà de [Polymer](http://www.polymer-project.org/ "Welcome - Polymer"), l'"opinionated framework" creat per Google que n'ha fet un impressionant desplegament al [I/O 2014](https://www.google.com/events/io/schedule/session/de22e147-07b6-e311-8491-00155d5066d7).
 
-<pre><code>&#60;google-map latitude="41.3804463" longitude="2.1800922" disableDefaultUI fitToMarkers zoom="15"&#62;
+
+<pre><code>&#60;google-map latitude&#61;&#34;41.3804463&#34; longitude&#61;&#34;2.1800922&#34; disableDefaultUI fitToMarkers zoom&#61;&#34;15&#34;&#62;
       &#123;% for place in site.data.places %&#125;
-      &#60;google-map-marker latitude="&#123;&#123; place.latitude &#125;&#125;" longitude="&#123;&#123; place.longitude &#125;&#125;"
-                         title="&#123;&#123; place.name &#125;&#125;" draggable="false" icon="/public/favicon.ico"&#62;
-           &#60;p class="text-center"&#62;&#60;a href="&#123;&#123; place.url-in &#125;&#125;"&#62;&#60;img src="/public/img/&#123;&#123; place.logo &#125;&#125;"&#62;&#60;/a&#62;&#60;/p&#62;
+      &#60;google-map-marker latitude&#61;&#34;&#123;&#123; place.latitude &#125;&#125;&#34; longitude&#61;&#34;&#123;&#123; place.longitude &#125;&#125;&#34;
+                         title&#61;&#34;&#123;&#123; place.name &#125;&#125;&#34; draggable&#61;&#34;false&#34; icon&#61;&#34;/public&#47;favicon.ico&#34;&#62;
+           &#60;p class&#61;&#34;text-center&#34;&#62;&#60;a href&#61;&#34;&#123;&#123; place.url-in &#125;&#125;&#34;&#62;&#60;img src&#61;&#34;&#47;public&#47;img&#47;&#123;&#123; place.logo &#125;&#125;&#34;&#62;&#60;&#47;a&#62;&#60;&#47;p&#62;
            &#60;p&#62;
-	      &#60;strong&#62;&#60;a href="&#123;&#123; place.url-in &#125;&#125;"&#62;&#123;&#123; place.name &#125;&#125;&#60;/a&#62;&#60;/strong&#62;&#60;br/&#62;
-	      &#60;strong&#62;Direcció&#60;/strong&#62; / &#60;em&#62;Address&#60;/em&#62;: &#123;&#123; place.address &#125;&#125;&#60;br/&#62;
-	      &#60;strong&#62;Horari projecció&#60;/strong&#62; / &#60;em&#62;Screening timetable&#60;/em&#62;: &#60;strong&#62;&#123;&#123; place.screening-ca &#125;&#125;&#60;/strong&#62; / &#60;em&#62;&#123;&#123; place.screening-en &#125;&#125;&#60;/em&#62;&#60;br/&#62;
-	    &#60;/p&#62;
-      &#60;/google-map-marker&#62;
+	      &#60;strong&#62;&#60;a href&#61;&#34;&#123;&#123; place.url-in &#125;&#125;&#34;&#62;&#123;&#123; place.name &#125;&#125;&#60;&#47;a&#62;&#60;&#47;strong&#62;&#60;br&#47;&#62;
+	      &#60;strong&#62;Direcció&#60;&#47;strong&#62; &#47; &#60;em&#62;Address&#60;&#47;em&#62;: &#123;&#123; place.address &#125;&#125;&#60;br&#47;&#62;
+	      &#60;strong&#62;Horari projecció&#60;&#47;strong&#62; &#47; &#60;em&#62;Screening timetable&#60;&#47;em&#62;: &#60;strong&#62;&#123;&#123; place.screening-ca &#125;&#125;&#60;&#47;strong&#62; &#47; &#60;em&#62;&#123;&#123; place.screening-en &#125;&#125;&#60;&#47;em&#62;&#60;br&#47;&#62;
+	    &#60;&#47;p&#62;
+      &#60;&#47;google-map-marker&#62;
       &#123;% endfor %&#125;
-  &#60;/google-map&#62;</code></pre> 
+  &#60;&#47;google-map&#62;</code></pre> 
 
 ##artinpocket, segueix creixent
 
