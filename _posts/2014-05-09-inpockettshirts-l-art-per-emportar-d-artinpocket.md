@@ -18,8 +18,6 @@ published: true
 keywords: "artinpocket, lletres, tipografia, servei, art, verkami"
 ---
 
-#Inpockettshirts, l'art per emportar d'Artinpocket
-
 
 >Un objecte especial, personal i únic<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Pep Marés</a></cite></footer>
 

@@ -18,8 +18,6 @@ published: true
 keywords: "artinpocket, screens, digital, collection, polymer"
 ---
 
-#Emocionart. Un altre cop, Jekyll i Polymer i a més RESTful API
-
 
 >'#Emocionart' és una acció d'Artinpocket per promocionar i impulsar la compra d'art.<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Artinpocket</a></cite></footer>
 

@@ -15,8 +15,6 @@ published: true
 keywords: pàgina, inici, web, Grup 62, potenciar, marca, catàleg, autors
 ---
 
-#Nova pàgina d'inici del web del Grup 62 per potenciar la marca, el catàleg i els autors
-
 <blockquote>
 	<p>Gestionem la totalitat dels sistemes web del Grup 62, format per una dotzena de portals específics, aplicacions diferents i editores personalitzades per a cada necessitat.</p>
 	<footer>

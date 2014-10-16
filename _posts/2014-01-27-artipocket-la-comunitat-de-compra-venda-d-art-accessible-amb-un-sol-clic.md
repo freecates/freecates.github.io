@@ -15,8 +15,6 @@ published: true
 keywords: artinpocket, comunitat, compra, venda, art, accessible, clic
 ---
 
-#Artinpocket, la comunitat de compra venda d'art accessible amb un sol clic
-
 <blockquote>
 	<p>Artinpocket, la comunitat d'art contemporani accesible per difondre i vendre les teves obres.</p>
 	<footer>

@@ -15,8 +15,6 @@ published: true
 keywords: box-fort, web, cms, free, multilang
 ---
 
-#Box-fort.com, un web també CMS-free
-
 <blockquote>
 	<p>Jekyll permet la construcció senzilla, flexible i fiable de webs sense el sobrecost del CMS. Fins i tot multi idioma</p>
 	<footer>

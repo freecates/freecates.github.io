@@ -15,8 +15,6 @@ published: true
 keywords: exposició, jo, rebel·lo, nosaltres, existim
 ---
 
-#Un web en HTML5 i responsiu per a la programació ambiciosa del 10 en Comunicació
-
 <blockquote>
 	<p>Som pioners en la realització d'aquesta modalitat de disseny web responsiu, sensible a la proliferació de pantalles, basat en HTML5 i CSS3.</p>
 	<footer>

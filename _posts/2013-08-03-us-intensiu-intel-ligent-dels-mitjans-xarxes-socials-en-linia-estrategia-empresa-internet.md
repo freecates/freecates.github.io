@@ -12,8 +12,6 @@ author: oxygen
 keywords: us, intensiu, intel-ligent, mitjans, xarxes socials, en-linia, estrategia, empresa, Internet
 ---
 
-#L’ús intensiu i intel·ligent dels mitjans i les xarxes socials en línia, la millor estratègia d’una empresa a Internet
-
 <blockquote>
 	<p>Un web sense una estratègia comunicativa a través de les xarxes socials és un lloc situat en un racó de la xarxa, amb molt poca o nul·la visibilitat</p>
 </blockquote>

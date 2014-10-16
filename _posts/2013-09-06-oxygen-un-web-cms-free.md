@@ -15,8 +15,6 @@ published: true
 keywords: oxygen, web, cms, free
 ---
 
-#Oxygen.cat, un web CMS-free
-
 <blockquote>
 	<p>Jekyll permet la construcció senzilla, flexible i fiable de webs sense el sobrecost del CMS.</p>
 	<footer>

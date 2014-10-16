@@ -18,8 +18,6 @@ published: true
 keywords: "artinpocket, lletres, tipografia, servei, art, verkami"
 ---
 
-#artinpocket / regular, lletres al servei de l'art
-
 
 >Lletres que esdevinguin una veu adient per als projectes culturals i artístics i s'adeqüin a la cultura visual del públic objectiu<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Pep Marés</a></cite></footer>
 

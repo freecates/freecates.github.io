@@ -12,8 +12,6 @@ author: oxygen
 keywords: pagerank, posisionament, web, cercadors, carrera, google, estratègia
 ---
 
-#PageRank i posicionament web en cercadors, una aferrissada carrera de fons
-
 Qui no ha pensat mai "per què quan poso aquesta o aquella paraula a Google la gent de... surten en primera posició? **Com ho fan per ser els primers?"** I el que és pitjor, d'altres ens preguntem, **"per què quan poso aquesta o aquella paraula a Google nosaltres no surtim en primera posició?** I finalment aquells altres que ja hem pres consciència de l'enorme importància no només d'estar a Internet sinó també de saber-hi estar, ens preguntem "quan poso aquesta o aquella paraula a Google nosaltres **podrem arribar mai a la primera posició?"**
 
 ##PageRank i posicionament web, conceptes bàsics

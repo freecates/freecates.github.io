@@ -14,8 +14,6 @@ author: oxygen
 keywords: CMS, web, WordPress, SEO, temes, comunitat
 ---
 
-#Per què WordPress?
-
 A Oxygen apostem de totes totes per la contruscció de webs [CMS-free](/oxygen-un-web-cms-free). Les lliçons apreses i les experiències visqudes durant 9 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia. Malgrat tot, el mercat té molt interioritzades les pareules plataforma i gestor de continguts com a sinòmims de desenvolupament, comunicació i presència a Internet. I, al capdamunt de la llista, **WordPress** hi apareix en boca de tothom.
 
 Als inicis dels CMS, WordPress va ser àmpliament considerat com una simple plataforma de blocs. Aquells temps han passat. WordPress segueix sent la plataforma de blocs més popular, però és molt més que això. Gràcies a l'àmplia base de la seva comunitat, ha crescut fins a esdevenir un CMS capaç d'alimentar gairebé qualsevol tipus de lloc web. 

@@ -15,8 +15,6 @@ published: true
 keywords: exposició, jo, rebel·lo, nosaltres, existim
 ---
 
-#Exposició: Jo em rebel·lo, nosaltres existim
-
 <blockquote>
 	<p>Art i acció ciutadana es donen cita a la Fundació Palau amb la mostra 'Jo em rebel·lo, nosaltres existim'</p>
 	<footer>

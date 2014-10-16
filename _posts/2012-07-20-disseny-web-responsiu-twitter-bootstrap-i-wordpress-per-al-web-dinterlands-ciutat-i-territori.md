@@ -15,8 +15,6 @@ published: true
 keywords: disseny, responsiu, Bootstrap, WordPress, Interlands
 ---
 
-#Disseny responsiu, Bootstrap i WordPress per al web d’Interlands
-
 <blockquote>
 	<p>El nou web combina disseny responsiu, la flexibilitat de Twitter i la simplicitat de WordPress.</p>
 </blockquote>

@@ -15,8 +15,6 @@ published: true
 keywords: vortex, online, wind, modeling, professionals
 ---
 
-#Vortex Online Wind Modeling for Professionals. By Professionals
-
 
 >We are Vortex: experienced, independent and supported<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Vortex</a></cite></footer>
 

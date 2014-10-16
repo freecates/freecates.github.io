@@ -12,8 +12,6 @@ author: oxygen
 keywords: estàndards, web, w3c, html, xhtml, xml, css, xslt
 ---
 
-#Per què estàndards web?
-
 El març del 2003 l'**Internet Explorer** va arribar al màxim de la seva quota de mercat coincidint amb la sortida al mercat del **Mozilla 1.3**. Un altre punt d'iflexió va ser el juny del 2004 quan va aparèixer la versió 0.9 del [Firefox](http://www.mozilla.org 'Enllaç extern en anglès; Mozilla Corporation - Home of the Firefox web browser'). Des del març del 2003 l'Internet Explorer ha passat d'una quota de mercat del 88,0% a un 71,7% al desembre del 2004. En el mateix període de temps, el conjunt d'eines Mozilla (la suitte i el Firefox) han passat del 4,2% al 21,2%.El Mozilla Firefox aporta noves funcionalitats a la navegació amb les pestanyes o incorpora les adreces d'interès dinàmiques utilitzant [RSS](http://www.mozilla.com/firefox/livebookmarks 'Enllaç extern en anglès; Product RSS | Mozilla Corporation'). Amb el bloqueig de les pantalles emergents (POPUPs), imposa una nova forma de dissenyar webs. Permet la personalització i la incorporació d'extensions d'una forma molt sezilla.
 
 A banda d'aquestes noves funcionalitats, la suite de productes Mozilla són els navegadors que suporten plenament els estàndards proposats pel [W3C](http://www.w3.org/ 'Enllaç extern en anglès; World Wide Web Consortium'): **HTML 4.x**, **XHTML 1.x**, o **XML** per a l'estructura de continguts i **CSS** o **XSLT** per a la presentació. Els navegadors Mozilla també són estàndards en les plataformes en les que estan disponibles: Windows, Mac OSX i Linux.

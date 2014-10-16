@@ -12,8 +12,6 @@ author: oxygen
 keywords: clusters, alta, disponibilitat, programari, lliure, sistemes, fiables, segurs
 ---
 
-#Clústers d’alta disponibilitat i programari lliure per a sistemes fiables i segurs
-
 <blockquote>
 	<p>Un clúster és una de les solucions avançades per la redundància i la fiabilitat del sistema informàtic per a les empreses que busquen l’excel·lència.</p>
 </blockquote>

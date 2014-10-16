@@ -12,8 +12,6 @@ author: oxygen
 keywords: estàndards, web, w3c, html, xhtml, xml, css, xslt
 ---
 
-#Els estàndards web: qualitat del codi
-
 ##Utilització d'un Doctype correcte
 
 Per als estàndards **HTML** i **XHTML**, la declaració de tipus de document, DOCTYPE informa al validador de quina versió de (X)HTML esteu utilitzant. Ha d'aparèixer com a principi de qualsevol pàgina i són un component clau per a que les pàgines compleixin amb els estàndards;  per exemple que es validin els CSS. Són essencials per tal que les pàgines web funcionin i es vegin correctament amb browsers com Mozilla, IE5/Mac, and IE6/Win.

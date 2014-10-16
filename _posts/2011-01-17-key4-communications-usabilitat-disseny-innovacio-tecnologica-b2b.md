@@ -15,8 +15,6 @@ published: true
 keywords: key4, usabilitat, disseny, innovació, B2B, SEO, front-end
 ---
 
-#Key4 Communications, usabilitat en el disseny i innovació tecnològica al servei del B2B
-
 <blockquote>
 	<p>Hem fet fet un projecte rodó: direcció general, conceptualització, definició estètica i disseny gràfic, front-ent, back-end, SEO i analítica.</p>
 	<footer>

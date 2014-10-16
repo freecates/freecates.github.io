@@ -14,8 +14,6 @@ author: oxygen
 keywords: webapp, HTML5, JQuery mobile
 ---
 
-#Una webapp amb HTML5 i JQuery Mobile
-
 <blockquote>
 	<p>Dissenyada i programada per als continguts del web d’Escacc amb tecnologia de codi obert</p>
 </blockquote>

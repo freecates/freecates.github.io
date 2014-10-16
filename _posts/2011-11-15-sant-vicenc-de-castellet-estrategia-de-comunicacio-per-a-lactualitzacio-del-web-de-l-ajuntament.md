@@ -15,8 +15,6 @@ published: true
 keywords: accessibilitat, dispositius mòbils, disseny web, estàndards, posicionament, programació, responsiu, SEO
 ---
 
-#Sant Vicenç de Castellet, estratègia de comunicació per a l'actualització del web de l'ajuntament
-
 <blockquote>
 	<p>No hem de perdre de vista que l'objectiu d'un disseny web actual és millorar la comunicació al conjunt de la xarxa.</p>
 	<footer>

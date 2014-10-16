@@ -18,8 +18,6 @@ published: true
 keywords: "artinpocket, screens, digital, collection, convert"
 ---
 
-#Barcelona Digital Art. Jekyll and Polymer
-
 
 >La mostra simultània d'art digital a Barcelona es presenta com una exposició simultània en espais i edificis de referència de la ciutat.<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Artinpocket</a></cite></footer>
 

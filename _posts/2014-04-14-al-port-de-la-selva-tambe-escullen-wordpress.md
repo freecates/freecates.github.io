@@ -15,8 +15,6 @@ published: true
 keywords: castellers, barcelona, nou, web, WordPress
 ---
 
-#Al Port de la Selva, també escullen WordPress
-
 >... una proposta de l’associació de Comerciants i Restauradors per dinamitzar el comerç i el turisme del Port de la Selva a partir de potenciar, donar a conèixer i crear experiències que fomentin la interacció amb el comerç i el patrimoni de la població<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">ARC</a></cite></footer>
 
 Amb WordPress, una associació de comerciants i restauraddors, **ARC**, pot **gestionar de manera senzilla i eficaç** la [seva presència](http://www.portdelaselvasensefiltres.cat/) i la seva comunicació a Internet.

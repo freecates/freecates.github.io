@@ -18,8 +18,6 @@ published: true
 keywords: "artinpocket, screens, digital, collection, convert"
 ---
 
-#Inpocketart, convert your screens in your art collection
-
 
 >Artinpocket et dóna l'oportunitat de crear una col·lecció digital d'obres originals i d'edició limitada.<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Artinpocket</a></cite></footer>
 

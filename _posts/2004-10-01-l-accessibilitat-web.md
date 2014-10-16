@@ -12,8 +12,6 @@ author: oxygen
 keywords: accessibilitat, web, tecnologies, connectivitat, javascript, PDA, mòbils, WebTV, usuaris, minusvalies, cecs, cegeuesa, color, sords, veu, teclat
 ---
 
-#L'accessibilitat web
-
 Aquesta perspectiva pretén fixar d'una manera simplificada quines tipologies d'usuaris considerem a Oxygen quan creem un web i quines són les seves especificitats.
 
 Oxygen.cat utilitza i recomana aquesta filosofia i metodologia de desenvolupament web. Els funciona als nostres clients i ens funciona a nosaltres mateixos. És la manera de fer el web ben fet, amb qualitat i professionalitat.

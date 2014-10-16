@@ -15,8 +15,6 @@ published: true
 keywords: Grup 62, estrena, web, nou, servei, impressió, llibres, encàrrec, IPE
 ---
 
-#El Grup 62 estrena web per al nou servei d'impressió de llibres per encàrrec
-
 <blockquote>
 	<p>Hem creat un web ple de petits detalls, fets amb les més innovadores tècniques de disseny web, el CSS3</p>
 	<footer>

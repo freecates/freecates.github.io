@@ -12,8 +12,6 @@ author: oxygen
 keywords: estàndards, web, w3c, html, xhtml, xml, css, xslt
 ---
 
-#Flash estàndard: Gràfics vectorials amb SVG
-
 ##Del Flash al SVG
 
 L'animació d'objectes a la web i el disseny utilitzant gràfics vectorials ha estat dominat els últims deu anys per Macromedia. Un llenguatge basat en XML desenvolupat pel World Wide Web Consortium (W3C) anomenat Scalable Vector Graphics (SVG) ha a aparegut com a competidor i sembla que està guanyant terreny.
