@@ -3,7 +3,7 @@ comments: true
 date: 2014-10-15 11:48:19
 layout: blog
 slug: "emocionart-un-altre-cop-jekyll-and-polymer"
-title: "Emocionart. Un altre cop, Jekyll i Polymer i a més API Restful"
+title: "Emocionart. Un altre cop, Jekyll i Polymer i a més RESTful API"
 categories: 
   - comunicació
   - treballs
@@ -11,7 +11,7 @@ categories:
 tags: "case-study"
 "featured-img": true
 "featured-img-url": "emocionart-case-study.png"
-meta: "Emocionart. Un altre cop, Jekyll and Polymer"
+meta: "Un altre cop, Jekyll i Polymer i a més RESTful API"
 excerpt: "#Emocionart' és una acció d'Artinpocket per promocionar i impulsar la compra d'art."
 author: oxygen
 published: true
