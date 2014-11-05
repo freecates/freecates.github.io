@@ -200,7 +200,7 @@ background: #fff;
 overflow: hidden;
 }
 
-.card .card-title {
+.card-title {
   font-size: 3.5rem;
 }
 
@@ -523,7 +523,7 @@ main[role="main"] {
   border-bottom:5px solid rgba(172,203,218,.5);
   padding-bottom:10px;
 }
-  .card .card-title {
+  .card-title {
   font-size: 6.5rem;
 }
 }

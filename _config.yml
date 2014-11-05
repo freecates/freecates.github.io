@@ -4,7 +4,7 @@ markdown:         rdiscount
 highlighter:	  pygments
 wpm:			  200
 
-lsi:              true
+lsi:              false
 
 baseurl:
 permalink:        /:title
