@@ -16,10 +16,6 @@ authors:
   email: info@oxygen.cat
   web: http://www.oxygen.cat/
 
-# Server
-exclude:          ["LICENSE", "README.md",]
-port:             9001
-
 # Prose
 prose:
   rooturl: '_posts'
