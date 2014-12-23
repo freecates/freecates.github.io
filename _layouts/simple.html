@@ -1,0 +1,20 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html manifest="{{ site.url }}/manifest.appcache" lang="ca">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    {% include header.html %}
+    <!-- Place anything custom after this. -->
+  </head>
+  <body class="ox-{{ page.slug }} {{ page.class }}">
+
+    
+    {{ content }}
+
+    {% include footer.html %}
+
+  </body>
+</html>
