@@ -7,7 +7,7 @@ wpm:			  200
 lsi:              false
 
 baseurl:
-permalink:        pretty
+permalink:        /:title/
 
 authors:
  oxygen:
