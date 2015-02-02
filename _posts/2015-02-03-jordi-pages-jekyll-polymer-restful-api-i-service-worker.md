@@ -58,4 +58,4 @@ Seguim emprant la [RESTful API](http://en.wikipedia.org/wiki/Representational_st
 
 Des del punt de vista tècnic, el web jordipages.cat presenta **una darrera novetat molt innovadora**: l'ús del "[service worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)". Amb aquesta implementació, ara sí, el web esc comporta com una veritable app ja que **funciona 100% offline sense els maldecaps de l'[appcache](http://alistapart.com/article/application-cache-is-a-douchebag)**! Aquesta funcionalitat es troba encara en una fase força [experimental](http://caniuse.com/#feat=serviceworkers) de l'HTML5 però tot sembla indicar que aquest és el futur de les web apps.
 
-A Oxygen.cat **sempre anem un pas per endavant**!
+A Oxygen.cat **sempre anem un pas per endavant**! Ah, abans que se'ns oblidi! Un app [100% segura](/webs-segures-per-a-tothom-amb-ssl/), gràcies a Cloudflare!

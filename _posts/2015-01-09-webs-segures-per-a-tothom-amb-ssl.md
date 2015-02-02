@@ -32,7 +32,7 @@ Des de fa molt de temps hi ha empreses especialitzades en l'emissió de certific
 
 Ara bé, **i si hem apostat per la fórmula Jekyll [Github](https://konklone.com/post/github-pages-now-supports-https-so-use-it) amb domini propi? Doncs estem de sort!** Podem tenir els nostres webs segurs i millor posicionats, **com per exemple [#espaiSID](https://www.espaisid.com/)**, gràcies al servei universal SSL que ens ofereix [Cloudflare](https://www.cloudflare.com/index.html). I a més, sense cost addicional.
 
-###Activant el servei universal SSL de Clouflare
+###Activant el servei universal SSL de Cloudflare
 
 En primer lloc, hem de crear un compte a Cloudflare. No ens preocupem, és fàcil registrar-se! La part "difícil" és modificar el DNS al registrador de dominis, però si sabem allotjar el nostre codi a Github, sabem modificar registres DNS al registrador de dominis. Seguim les instruccions Cloudflare (hem d'apuntar els nostres servdidors de noms als de Cloudflare) i després configurem les nostres opcions preferides (per exemple podem "minimitzar" els nostres CSS i Javascript).
 
