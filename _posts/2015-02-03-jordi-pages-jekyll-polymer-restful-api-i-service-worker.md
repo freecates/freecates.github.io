@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2015-02-03 11:48:19
+date: {}
 layout: blog
 slug: "emocionart-un-altre-cop-jekyll-and-polymer"
 title: "Jordi Pagès. Jekyll, Polymer, RESTful API i Service Worker"
@@ -12,7 +12,7 @@ tags: "case-study"
 "featured-img": true
 "featured-img-url": "jordipages-case-study.png"
 meta: "Jordi Pagès. Jekyll, Polymer, RESTful API i Service Worker"
-excerpt: "Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués."
+excerpt: Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués.
 author: oxygen
 published: true
 keywords: "artinpocket, screens, digital, collection, polymer, restful, api, service, worker"
@@ -28,7 +28,7 @@ keywords: "artinpocket, screens, digital, collection, polymer, restful, api, ser
 
 ###jordi Pagès
 
-[joridpages.cat](http://www.joridpages.cat/ "Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués") s'ha realitzat amb llenguatge HTML5 i l'aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web, creant **una veritable webapp de portfoli professional**.
+[jordipages.cat](http://www.jordipages.cat/ "Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués") s'ha realitzat amb llenguatge HTML5 i l'aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web, creant **una veritable webapp de portfoli professional**.
 
 ##CMS-free
 
