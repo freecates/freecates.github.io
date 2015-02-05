@@ -28,7 +28,7 @@ keywords: "artinpocket, screens, digital, collection, polymer, restful, api, ser
 
 ###jordi Pagès
 
-[jordipages.cat](http://www.jordipages.cat/ "Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués") s'ha realitzat amb llenguatge HTML5 i l'aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web, creant **una veritable webapp de portfoli professional**.
+[jordipages.cat](http://www.jordipages.cat/ "Jordi Pagès és un artista de Granollers amb una forta empremta a Cadaqués") s'ha realitzat amb llenguatge HTML5 i l'aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web, creant **una veritable webapp de portfoli professional**.
 
 ##CMS-free
 
