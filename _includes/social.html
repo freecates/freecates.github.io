@@ -26,7 +26,7 @@ $(window).load(function(){
 
       $(this).find('.fbframe').attr('src','https://www.facebook.com/plugins/like.php?href=oxygen.cat' + url + '&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
 
-      $(this).find('.twframe').attr('src','https://platform.twitter.com/widgets/tweet_button.html?text=' + title + '&url=http://www.oxygen.cat' + url + '&via=oxygen.cat&counturl=http://www.oxygen.cat'+ url +'');
+      $(this).find('.twframe').attr('src','https://platform.twitter.com/widgets/tweet_button.html?text=' + title + '&url=http://www.oxygen.cat' + url + '&via=freecates&counturl=http://www.oxygen.cat'+ url +'');
 
       $(this).find('.mailto').attr('href','mailto:?subject=' + title + ' - oxygen.cat&body=Voldria compartir aquest enllaç amb tu: http://www.oxygen.cat/'+ url + '')
 
@@ -34,7 +34,7 @@ $(window).load(function(){
 
       $('.fbframe').attr('src','https://www.facebook.com/plugins/like.php?href=oxygen.cat{{page.url | replace:"'","\'" | uri_escape}}&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
 
-      $('.twframe').attr('src','https://platform.twitter.com/widgets/tweet_button.html?text={{page.title | replace:"'","\'" | uri_escape}}&url=http://www.oxygen.cat{{page.url | replace:"'","\'" | uri_escape}}&via=oxygen.cat&counturl=http://www.oxygen.cat{{page.url | replace:"'","\'" | uri_escape}}');
+      $('.twframe').attr('src','https://platform.twitter.com/widgets/tweet_button.html?text={{page.title | replace:"'","\'" | uri_escape}}&url=http://www.oxygen.cat{{page.url | replace:"'","\'" | uri_escape}}&via=freecates&counturl=http://www.oxygen.cat{{page.url | replace:"'","\'" | uri_escape}}');
 
     }
   });
