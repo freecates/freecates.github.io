@@ -2,7 +2,7 @@
 comments: true
 date: 2015-02-04 11:48:19
 layout: blog
-slug: "emocionart-un-altre-cop-jekyll-and-polymer"
+slug: "jordi-pages-jekyll-polymer-restful-api-i-service-worker"
 title: "Jordi Pagès. Jekyll, Polymer, RESTful API i Service Worker"
 categories: 
   - comunicació

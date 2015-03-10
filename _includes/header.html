@@ -14,6 +14,21 @@
   {% endif %}
 </title>
 
+{% if page.og %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="{{ page.og-type }}" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:image" content="{{ site.url }}/assets/img/{{ page.featured-img-url }}" />
+<meta name="og:description" content="{{ page.excerpt | strip_html }}">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@{{ site.twitter }}">
+<meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
+<meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.featured-img-url }}">
+{% endif %}
+
 
 {% if page.class == 'blog-index' or page.class == 'blog-article' %}<script src="{{ site.base_url }}/assets/js/jquery.js"></script>{% endif %}
 

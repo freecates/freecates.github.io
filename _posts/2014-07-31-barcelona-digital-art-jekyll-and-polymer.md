@@ -2,6 +2,8 @@
 comments: true
 date: 2014-07-31 11:48:19
 layout: blog
+og: true
+og-type: article
 slug: "barcelona-digital-art-jekyll-and-polymer"
 title: "Barcelona Digital Art. Jekyll and Polymer"
 categories: 

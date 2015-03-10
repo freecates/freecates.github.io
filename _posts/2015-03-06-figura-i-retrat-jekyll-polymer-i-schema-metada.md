@@ -1,8 +1,10 @@
 ---
 comments: true
 date: 2015-03-06 11:48:19
+og: true
+og-type: article
 layout: blog
-slug: "emocionart-un-altre-cop-jekyll-and-polymer"
+slug: "figura-i-retrat-jekyll-polymer-i-schema-metada"
 title: "Figura i retrat. Jekyy, Polymer i Schema metadata"
 categories: 
   - comunicació
@@ -12,7 +14,7 @@ tags: "case-study"
 "featured-img": true
 "featured-img-url": "figura-i-retrat-case-study.png"
 meta: "Figura i retrat. Jekyy, Polymer i Schema metadata"
-excerpt: Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués.
+excerpt: "Per què és vol el retrat?. S’ha dit que el retrat és el substitut i/o el record de la presència de l’absent."
 author: oxygen
 published: true
 keywords: "artinpocket, screens, digital, collection, polymer, restful, api, service, worker"

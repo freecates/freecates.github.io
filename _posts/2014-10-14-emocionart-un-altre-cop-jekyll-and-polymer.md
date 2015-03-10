@@ -2,6 +2,8 @@
 comments: true
 date: 2014-10-15 11:48:19
 layout: blog
+og: true
+og-type: article
 slug: "emocionart-un-altre-cop-jekyll-and-polymer"
 title: "Emocionart. Un altre cop, Jekyll i Polymer i a més RESTful API"
 categories: 

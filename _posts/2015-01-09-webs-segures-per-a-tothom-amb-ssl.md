@@ -2,6 +2,8 @@
 comments: true
 date: 2015-01-09 11:48:19
 layout: blog
+og: true
+og-type: article
 slug: webs-segures-per-a-tothom-amb-ssl
 title: "Webs segures per a tothom amb ssl. Millor posicionament"
 categories: [programació, general, no-cita]
