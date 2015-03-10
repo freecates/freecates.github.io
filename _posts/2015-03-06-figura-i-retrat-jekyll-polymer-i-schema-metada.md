@@ -5,7 +5,7 @@ og: true
 og-type: article
 layout: blog
 slug: "figura-i-retrat-jekyll-polymer-i-schema-metada"
-title: "Figura i retrat. Jekyy, Polymer i Schema metadata"
+title: "Figura i retrat. Jekyll, Polymer i Schema metadata"
 categories: 
   - comunicació
   - treballs
