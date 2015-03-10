@@ -9,6 +9,8 @@ lsi:              false
 baseurl:
 permalink:        /:title/
 
+twitter:		freecates
+
 authors:
  oxygen:
   name: Oxygen
