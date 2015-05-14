@@ -126,6 +126,16 @@ header[role="banner"] div.navbar {
   background:rgb(16,68,90); 
 }
 
+ .address p {
+  margin: 0;
+ }
+ .address strong {
+  color: #000000;
+ }
+ .address a:hover {
+  color: #eeeeee;
+ }
+
 main[role="main"] {
   margin-top: 25px;
 }
@@ -512,7 +522,7 @@ th {
 
 @media (min-width: 768px) {
 header[role="banner"] div.navbar {
-  padding-top: 25px;
+  padding-top: 0px;
   height: 100px;
 }
 main[role="main"] {
