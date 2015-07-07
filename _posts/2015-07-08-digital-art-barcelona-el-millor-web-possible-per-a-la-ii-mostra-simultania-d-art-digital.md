@@ -1,42 +1,44 @@
 ---
 comments: true
-date: 2015-04-07 11:48:19
+date: 2015-07-08 11:48:19
 og: true
 og-type: article
 layout: blog
-slug: "webs-sense-connexio-el-cas-del-concurs-tram-disseny"
-title: "Webs sense connexió a Internet! El cas del concurs TRAMdisseny"
+slug: "digital-art-barcelona-el-millor-web-possible-per-a-la-ii-mostra-simultania-d-art-digital"
+title: "digitalartbarcelona, el millor web possible per a la II Mostra Simultània d'Art Digital"
 categories: 
   - comunicació
   - treballs
   - "no-cita"
 tags: "case-study"
 "featured-img": true
-"featured-img-url": "tram-disseny-case-study.png"
-meta: "Webs sense connexió a Internet! El cas del concurs TRAMdisseny"
-excerpt: "Per què és vol el retrat?. S’ha dit que el retrat és el substitut i/o el record de la presència de l’absent."
+"featured-img-url": "digital-art-barcelona-case-study.png"
+meta: "digitalartbarcelona, el millor web possible per a la II Mostra Simultània d'Art Digital"
+excerpt: "La mostra simultània d'art digital a Barcelona es presenta com una exposició simultània en espais i edificis de referència de la ciutat."
 author: oxygen
 published: true
-keywords: "artinpocket, screens, digital, collection, polymer, restful, api, service, worker, google, forms"
+keywords: "artinpocket, screens, digital, collection, polymer, restful, api, service, worker, google, forms, micorformat"
 ---
 
->Concurs adreçat a estudiants de disseny gràfic amb el que es pretén ampliar la formació acadèmica de l’alumne amb un cas real.<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">TRAMdisseny</a></cite></footer>
+>... descobrir i experimentar amb l'art digital en entorns a priori fora del circuit expositiu tradicional d'art. Oci, cultura i patrimoni es fusionen per oferir una experiència entorn l'Art digital sense precedents a Barcelona.<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">digitalartbarcelona.com</a></cite></footer>
 
-##TRAM
+##MAD BCN. II Mostra Simultània d'Art Digital
 
-**[TRAM](http://www.tram.cat/ "TRAM - Barcelona")** és una empresa de transport públic que gestiona les dues xarxes actuals de tramvies a la Regió Metropolitana de Barcelona de la manera més eficient. Treballen per oferir el millor servei als viatgers que diàriament utilitzen el tramvia per desplaçar-se de manera ràpida, còmoda i segura.
+La Plataforma **[Artinpocket](http://www.artinpocekt.cat/)** juntament amb el **Convent de Sant Agustí** i en col·laboració amb **Blanz** com a entitats conscients de les transformacions en la creació, difusió i exhibició de l'art han ceat la segona Mostra d'art digital de Barcelona (MAD Barcelona) que es pot veure del 8 al 19 de juliol a diferents espais de Barcelona. 
 
-Des de **TRAM** volen posar en marxa la seva línia de merxandatge. És en aquest sentit que s'emmarca **el nou web del concurs TRAMdisseny**.
+MAD Barcelona té com a objectiu oferir al públic la possibilitat de descobrir i experimentar amb l'art digital en entorns a priori fora del circuit expositiu tradicional d'art. Per assolir-ho es compta amb **Canon**, que realitzarà un taller on es mostraran els últims avenços tecnològics de les seves impressores vehiculant-les amb el món de l'art, així com el suport de **TRAM**, que projectarà vídeos de la mostra als monitors de les seves línies de transport.
 
-###TRAMdisseny
+Des de MAD Barcelona es promou la divulgació i normalització del consum de l'art digital fora dels circuits habituals i per aquest motiu la part educativa de la Mostra, que serà dirigida pel Convent de Sant Agustí de Barcelona, resulta essencial. Aquesta consistirà en la realització de deu càpsules formatives relacionades amb la creació digital i multimèdia i que es portaran a terme del 6 al 19 juliol al mateix convent.
 
-[www.tramdisseny.cat](https://www.tramdisseny.cat/ "Concurs adreçat a estudiants de disseny gràfic amb el que es pretén ampliar la formació acadèmica de l’alumne amb un cas real. TRAM seleccionarà les proposte...") s'ha realitzat amb llenguatge HTML5 i l'aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web, creant **una veritable webapp per a la recollida i gestió de les propostes del concurs**.
+###digitalartbarcelona
+
+[www.digitalartbarcelona.com](https://www.digitalartbarcelona.com/ "MAD Barcelona &middot; II Simultaneous Digital Art Show") s'ha realitzat amb llenguatge HTML5 i l'aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web, creant **una veritable webapp per a la recollida i gestió de les propostes del concurs**.
 
 ##CMS-free
 
 A **Oxygen** apostem de totes totes per la construcció de webs [CMS-free](/oxygen-un-web-cms-free). Les lliçons apreses i les experiències visqudes durant 10 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia.
 
-<figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/tram-disseny-full-width-snapshot.png" /><figcaption><p>Webs sense connexió a Internet! El cas del concurs TRAMdisseny</p></figcaption></figure>
+<figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/digital-art-barcelona-full-width-snapshot.png" /><figcaption><p>digitalartbarcelona.com, el millor web possible per a la II Mostra Simultània d'Art Digital</p></figcaption></figure>
 
 ##Tornar al bàsic
 
