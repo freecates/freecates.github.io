@@ -1,10 +1,22 @@
 - name:	Oxygen
-  address:	'Carrer del Doctor Trueta, 60 08005, Barcelona'
+  address:	'Carrer de Pere IV, 344 08019, Barcelona'
   url:	http://www.oxygen.cat/
   twitter:	ucsigen
   facebook:	
   phone: '0034935390875'
   email: info@oxygen.cat
-  latitude:	41.5461366
-  longitude:	2.1169508
+  latitude:	41.40902
+  longitude:	2.2006813
+  maps: 'https://www.google.com/maps/dir//Carrer+de+Pere+IV,+344,+Barcelona,+Espanya/'
   id: 1
+- name:	Oxygen
+  address:	'Carrer Sant Francesc, 16 08202, Sabadell'
+  url:	http://www.oxygen.cat/
+  twitter:	ucsigen
+  facebook:	
+  phone: '0034630594259'
+  email: info@oxygen.cat
+  latitude:	41.5509843
+  longitude:	2.1055524
+  maps: 'https://www.google.com/maps/dir//Carrer+Sant+Francesc,+16,+Sabadell,+Spain/'
+  id: 2
