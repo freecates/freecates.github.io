@@ -34,11 +34,11 @@ Les Aplicacions web progressives ("progressive web apps") és un concepte [expos
 
 Per a la velocitat i funcionalitat, les aplicacions web progressistes **es basen en dues funcions: l'[arquitectura d'aplicació tipus closca](https://developers.google.com/web/updates/2015/11/app-shell "Instant Loading Web Apps with An Application Shell Architecture | Web Updates - Google Developers") ("Application Shell Architecture") i els "[Service Workers](http://blog.chromium.org/2014/12/chrome-40-beta-powerful-offline-and.html "Chromium Blog: Chrome 40 Beta: Powerful Offline and Lightspeed Loading with Service Workers")"**.
 
-##Service Workers i Application Shell Architecture
+##"Service Workers" i "Application Shell Architecture"
 
 Els "Service Workers" poden fer que els llocs web funcionen fora de línia o ajudar a accelerar el contingut "interceptant les sol·licituds de xarxa per oferir respostes programàtiques o emmagatzemades a la memòria cau."
 
-L'interessant dels "Service Workers" és que si poden interceptar, emmagatzemar i lliurar continguts a partir de sol·licutds de xarxa, també poden tenir sempre a disposició l'arquitectura de l'aplicació ("Appication Shell Architecture"), és a dir, la interfície bàsica i el disseny de l'aplicació web emmagatzemats i llests per lliurar-los gairebé a l'instant.
+L'interessant dels "Service Workers" és que si poden interceptar, emmagatzemar i lliurar continguts a partir de sol·licutds de xarxa, també poden **tenir sempre a disposició l'arquitectura de l'aplicació ("Appication Shell Architecture")**, és a dir, la interfície bàsica i el disseny de l'aplicació web emmagatzemats i llests per lliurar-los gairebé a l'instant.
 
 D'aquesta manera, la "closca" ("shell") de l'aplicació és **lliurada de manera instantània en el mateix moment que algú fa una petició des del seu mòbil**.
 
