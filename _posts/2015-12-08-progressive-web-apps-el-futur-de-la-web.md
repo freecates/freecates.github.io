@@ -49,7 +49,7 @@ D'aquesta manera, la "closca" ("shell") de l'aplicació és **lliurada de manera
 
 La implementació dels "Service Workers" juntament amb l'arquitectura tipus "closca" tot just està començant. Ara bé, totes les eines ja estan disponibles (en diversos graus de maduresa). Tot és a punt per als desenvolupadors que ja vulguin fer el pas.
 
-A **Oxygen** apostem de totes totes per la construcció d'app webs que dugin a la millor experiència possible als seus usuaris per mitjà de les millors tecnologies disponibles en cada moment. És per això que hem creat **[Artinpocketshowcase](https://artinpocketshowcase.appspot.com/)**, una mostra de les possibilitats reals d'una aplicació web progressiva. Artinpocketshowcase és:
+A **Oxygen** apostem de totes totes per la construcció d'app webs que dugin a la millor experiència possible als seus usuaris per mitjà de les millors tecnologies disponibles en cada moment. És per això que hem creat **[Artinpocketshowcase](https://artinpocketshowcase.appspot.com/)**, una mostra de les possibilitats reals d'una aplicació web progressiva. Artinpocketshowcase és<sup><a href="#fn1" id="r1">[1]</a></sup>:
 
 - Plenament responsiva
 - De càrrega gairebé instantània
@@ -76,3 +76,11 @@ En aquest projecte hem seguit apostant pels [web components](http://webcomponent
 </pre>
 
 A [Oxygen.cat](http://www.oxygen.cat/) tenim la voluntat d'intentar anar un pas per endavant, **oferint allò que els nostres clients es mereixen: el millor servei i la millor innovació**!
+
+---
+
+<section>
+ <p id="fn1"><small><a href="#r1">[1]</a> Les funcionalitats d'aquesta app estan optimitzades per als navegador Chrome Desktop i Chrome Android a partir de la versió 47.</small></p>
+</section>
+
+---
