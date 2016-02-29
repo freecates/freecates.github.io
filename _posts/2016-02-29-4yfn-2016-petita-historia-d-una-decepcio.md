@@ -11,7 +11,7 @@ tags:
 "featured-img": true
 "featured-img-url": "4yfn-2016-petita-historia-d-una-decepcio-case-study.png"
 meta: "Webs segures per a tothom amb ssl"
-excerpt: "Google ja fa temps que ha apostat per la seguretat com una prioritat màxima. Per tant, els nostres webs tindran majors possibilitats d'aparèixer al capdamunt dels resultats de cerca si fa ús del protocol HTTPS."
+excerpt: "Enguany, fa un mes i escaig vàrem rebre una notícia que ens alegrà enormement. Creative Catalonia, sota el paraigua de l'ICEC, convidava Artinpocket, juntamet amb altres 6 empreses, a participar com a exhibidor al 4YFN, el que per a nosaltres era l'esdeveniment mundial de referència del món start-up tecnològic."
 author: oxygen
 keywords: ssl, github, clouflare, jekyll, SEO
 ---

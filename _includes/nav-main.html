@@ -1,7 +1,7 @@
 <header role="banner">
 	<div class="navbar navbar-fixed-top navbar-default cl-effect-5">
       <div class="container">
-      <div class="address">
+      <div class="address hidden-xs hidden-sm">
       <p class="text-center">
       {% for place in site.data.oxygenplaces %}
       <small><strong>// <a href="{{ place.maps }}" title="Com arribar a {{ place.name }}" rel="external"><i class="fa fa-map-marker"></i></a> </strong> {{ place.address }} - <strong><i class="fa fa-phone"></i> </strong> <a href="tel:{{ place.phone }}">{{ place.phone }}</a> - <a href="{{ place.url }}" title="{{ place.name }}" rel="external"><i class="fa fa-external-link"></i></a> | <a href="https://twitter.com/{{ place.twitter }}" title="@{{ place.twitter }}" rel="external"><i class="fa fa-twitter"></i></a> | <a href="{{ place.facebook }}" title="{{ place.name }} en Facebook" rel="external"><i class="fa fa-facebook"></i></a> | <a href="mailto:{{ place.email }}" title="Correo-e {{ place.email }}" rel="external"><i class="fa fa-envelope"></i></a></small>
