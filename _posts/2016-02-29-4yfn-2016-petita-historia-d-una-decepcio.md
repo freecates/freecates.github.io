@@ -25,7 +25,7 @@ Enguany, fa un mes i escaig vàrem rebre una notícia que ens alegrà enormement
 
 Assimilada la notícia ens posem a treballar. Dissenyem la nostra estratègia de participació, comencem a preparar els materials de comunicació i màrqueting, ens posem a la recerca de noves obres digitals especials per a l'ocasió i ens repartim les diferentes càrregues de treball. En resum, posem fil a l'agulla amb el més gran dels somriures: anem al 4YFN a exhibir el nostre projecte estrella, Artinpocket!
 
-Passen els dies, ja tenim els materials de comunicació en perfecte anglès a punt d'impremta, ja hem donat d'alta totes les edicions digitals de les obres seleccionades, ja hem revisat que el procés de certificació de l'unicitat digital funciona a les mil meravelles (amb més d'una emprenyada, pel camí tot sigui dit), ja hem ompoert tots els formularis "haguts i per haver", ja ho tenim tot.
+Passen els dies, ja tenim els materials de comunicació en perfecte anglès a punt d'impremta, ja hem donat d'alta totes les edicions digitals de les obres seleccionades, ja hem revisat que el procés de certificació de l'unicitat digital funciona a les mil meravelles (amb més d'una emprenyada, pel camí tot sigui dit), ja hem omplert tots els formularis "haguts i per haver", ja ho tenim tot.
 
 ##Dilluns, dimarts i, sobretot, dimecres al 4YFN
 
