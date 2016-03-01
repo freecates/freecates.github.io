@@ -1,8 +1,7 @@
-name:             'Oxygen'
-url:              'http://www.oxygen.cat'
-markdown:         rdiscount
-highlighter:	  pygments
-wpm:			  200
+name: 'Oxygen'
+url: 'http://www.oxygen.cat'
+markdown: rdiscount
+wpm: 200
 
 lsi:              false
 

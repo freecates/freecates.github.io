@@ -41,4 +41,12 @@ I entre una cosa i l'altra, el dilluns és el primer dia, és la novetat, tot ha
 
 Ja som dimarts 23 de febrer de 2016. Avui és el segon dia complet de 4YFN. Anem fent contactes, anem retrobant amics, coneguts i saludats i anem mirant de fer demos de la **unicitat en les obres d'art i fotografies digitals**. Anem, anem, anem intentant-ho! Som al 4YFN del MWC i **no hi ha una wifi decent i la xarxa de telefonia té una cobertura pèsima!** 
 
-Entre conversa, passejada, tarja repartida, demo frustada arriba l'hora de plegar i marxar cap a casa. Demà serà dimecres. El gran dia. El dia dels ["founders & investors"](https://4yfn.com/foundersandinvestors). Caram com sóna això! "Founders & investors"!
+Entre conversa, passejada, tarja repartida i demo frustada arriba l'hora de plegar i marxar cap a casa. Demà serà dimecres. El gran dia. El dia dels ["founders & investors"](https://4yfn.com/foundersandinvestors). Caram com sóna això! "Founders & investors"!
+
+I dimecres 24 arribà. Se'ns va convocar a les 10:30 hores, 15 minuts abans de l'inici de la nostra sessió "Founders & investors". "Founders & investors" és una sessió tipus 1 a 1. Un format habitual al món start-up. Com funciona? **Cada empresa que cerca finançament, prepara un discurs breu, anomenat "pitch", centrat en les bondats del projecte empresarial, les necessitats de finançament i el retorn previst de la inversió**. Concretament, al 4YFN les regles eren: 3 minuts per inversor, un màxim de 30 minuts i per tant, un màxim de 10 "pitchs" a 10 inversos diferents.
+
+A les 10:30 ja hi eren tots els convocats. Repassant els nostres discursos. Comentant amb d'altres empreses els seus projectes. A les 10:45 entravem i se'ns col·locava en fila índia. Fila índia que va durar una hora més. Una hora més fent cua, i per fi, arribà el nostre torn. I, **oh sopresa, després d'una hora fent cua només hi havia 3 dels 10 possibles inversors presents**. 3, només 3 de 10 s'hi van presentar. **Cara de pasta de moniato**.
+
+Em podria estendre més i llepar-me les ferides. Però no.
+
+La meva experiència al [@4YFN_MWC](https://twitter.com/4YFN_MWC) del [@MWC_Barcelona](https://twitter.com/MWC_Barcelona), **decepcionant**... Però com tot en aquesta vida, només és la meva experiència. N'hi ha moltes altres. Com ara [aquesta](http://dauapps.com/cronica-i-reflexions-del-4yfn-2016/) o bé [aquesta](http://www.ara.cat/opinio/que-no-del-al-MWC_0_1531046915.html) altra.
