@@ -22,27 +22,27 @@ keywords: "artinpocket, screens, digital, collection, polymer, restful, api, ser
 
 >Concurs adreçat a estudiants de disseny gràfic amb el que es pretén ampliar la formació acadèmica de l’alumne amb un cas real.<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">TRAMdisseny</a></cite></footer>
 
-##TRAM
+## TRAM
 
 **[TRAM](http://www.tram.cat/ "TRAM - Barcelona")** és una empresa de transport públic que gestiona les dues xarxes actuals de tramvies a la Regió Metropolitana de Barcelona de la manera més eficient. Treballen per oferir el millor servei als viatgers que diàriament utilitzen el tramvia per desplaçar-se de manera ràpida, còmoda i segura.
 
 Des de **TRAM** volen posar en marxa la seva línia de merxandatge. És en aquest sentit que s'emmarca **el nou web del concurs TRAMdisseny**.
 
-###TRAMdisseny
+### TRAMdisseny
 
 [www.tramdisseny.cat](https://www.tramdisseny.cat/ "Concurs adreçat a estudiants de disseny gràfic amb el que es pretén ampliar la formació acadèmica de l’alumne amb un cas real. TRAM seleccionarà les proposte...") s'ha realitzat amb llenguatge HTML5 i l'aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web, creant **una veritable webapp per a la recollida i gestió de les propostes del concurs**.
 
-##CMS-free
+## CMS-free
 
 A **Oxygen** apostem de totes totes per la construcció de webs [CMS-free](/oxygen-un-web-cms-free). Les lliçons apreses i les experiències visqudes durant 10 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia.
 
 <figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/tram-disseny-full-width-snapshot.png" /><figcaption><p>Webs sense connexió a Internet! El cas del concurs TRAMdisseny</p></figcaption></figure>
 
-##Tornar al bàsic
+## Tornar al bàsic
 
 Mitjançant el desenvolupament de llocs web, com aplicacions de la banda client ("client-side") que només consten dels arxius utilitzables directament per un navegador web sense el treball addicional realitzat pels servidors de back-end, hom es capaç de traslladar l'**estalvi de costos als clients alhora que s'el·limina pràcticament el risc de caiguda de la pàgina web**. Per a funcionalitats addicionals no disponibles en les aplicacions "client-side", hom integra serveis externs.
 
-##La fórmula amb Jekyll, Prose, Webcompoents, Service Worker i formularis de Google customitzats
+## La fórmula amb Jekyll, Prose, Webcompoents, Service Worker i formularis de Google customitzats
 
 - [Jekyll](http://jekyllrb.com/ "Jekyll &bull; Simple, blog-aware, static sites") per a plantilles de pàgina i la generació d'arxius estàtics
 - Fitxers HTML, CSS i Javascript
@@ -68,11 +68,11 @@ En aquest projecte seguim apostant pels [web components](http://webcomponents.or
 
 Des del punt de vista tècnic, el web tramdisseny.cat fa ús també del "[service worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)". Amb aquesta implementació, ara sí, el web es comporta com una veritable app ja que **funciona 100% offline sense els maldecaps de l'[appcache](http://alistapart.com/article/application-cache-is-a-douchebag)**! Aquesta funcionalitat es troba encara en una fase força [experimental](http://caniuse.com/#feat=serviceworkers) de l'HTML5  però de ben segur que aquest és el futur de les web apps.
 
-###Formularis de Google customitzats
+### Formularis de Google customitzats
 
 Per a la recollida de dades dels participants al Concurs **TRAM**disseny, hem optat per cusotmitzar un formulari de Google i lligar-lo a un full de càlcul al núvol, la qual cosa ens permet fer **un seguiment en temps real de totes les dades dels participants**.
 
-##Millor difusió a xarxes socials i millor SEO
+## Millor difusió a xarxes socials i millor SEO
 
 tramdisseny.cat presenta quatre detalls interessants que **faciliten la seva difusió a les xarxes socials i un millor posicionament SEO**:
 

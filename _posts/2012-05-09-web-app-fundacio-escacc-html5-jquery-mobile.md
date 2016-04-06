@@ -24,7 +24,7 @@ Aquesta web app ha estat dissenyada i programada amb tecnologia de codi obert, b
 
 Tots els continguts als quals es pot accedir des d’aquesta aplicació són oberts: notícies diàries sobre sectors de la comunicació i la cultura, agenda d’activitats relacionada amb aquests àmbits, el bloc amb articles d’especialistes, la secció a+a+ amb informació destacada procedent de la xarxa.
 
-##Integració amb les xarxes socials
+## Integració amb les xarxes socials
 
 Els continguts d’Escacc oferts des d’aquesta web app es poden recomanar i compartir a través de les principals xarxes socials (Twitter, Facebook, Linkedin, Delicious, Google+) i enviar per correu electrònic des dels dispositius mòbils.
 

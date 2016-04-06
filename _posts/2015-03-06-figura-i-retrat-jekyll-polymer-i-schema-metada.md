@@ -22,27 +22,27 @@ keywords: "artinpocket, screens, digital, collection, polymer, restful, api, ser
 
 >Per què és vol el retrat?. S’ha dit que el retrat és el substitut i/o el record de la presència de l’absent: amb el retrat es vol que l’absent, el recordat, sigui present.<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Arnau Puig</a></cite></footer>
 
-##La Fundació Iluro
+## La Fundació Iluro
 
 La [Fundació Iluro](http://www.fundacioiluro.cat/) té una remarcable col·lecció de pintura, escultura, dibuix i gravat que configura el seu fons artístic. El Patronat de la Fundació té clar que fer-lo accessible al públic ha de ser una de les seves prioritats.
 
 És en aquest sentit que s'emmarca **el nou web de l'exposició Figura i Retrat**.
 
-###Figura i Retrat
+### Figura i Retrat
 
 [figurairetrat.fundacioiluro.cat](http://figurairetrat.fundacioiluro.cat/ "L'exposició “La figura i el retrat en els fons d'art de la Fundació Iluro” es configura com una mostra de les obres més destacades del fons.") s'ha realitzat amb llenguatge HTML5 i l'aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web, creant **una veritable webapp d'esdeveniments artístics**.
 
-##CMS-free
+## CMS-free
 
 A **Oxygen** apostem de totes totes per la construcció de webs [CMS-free](/oxygen-un-web-cms-free). Les lliçons apreses i les experiències visqudes durant 10 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia.
 
 <figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/figura-i-retrat-full-width-snapshot.png" /><figcaption><p>Figura i retrat. Jekyy, Polymer i Schema metadata</p></figcaption></figure>
 
-##Tornar al bàsic
+## Tornar al bàsic
 
 Mitjançant el desenvolupament de llocs web, com aplicacions de la banda client ("client-side") que només consten dels arxius utilitzables directament per un navegador web sense el treball addicional realitzat pels servidors de back-end, hom es capaç de traslladar l'**estalvi de costos als clients alhora que s'el·limina pràcticament el risc de caiguda de la pàgina web**. Per a funcionalitats addicionals no disponibles en les aplicacions "client-side", hom integra serveis externs.
 
-##La fórmula amb Jekyll, Prose, Webcompoents i Schema metadata!
+## La fórmula amb Jekyll, Prose, Webcompoents i Schema metadata!
 
 - [Jekyll](http://jekyllrb.com/ "Jekyll &bull; Simple, blog-aware, static sites") per a plantilles de pàgina i la generació d'arxius estàtics
 - Fitxers HTML, CSS i Javascript
@@ -68,7 +68,7 @@ En aquest projecte seguim apostant pels [web components](http://webcomponents.or
 
 En aquest projecte no fem ús de la [RESTful API](http://en.wikipedia.org/wiki/Representational_state_transfer "Representational state transfer - Wikipedia, the free encyclopedia") del portal principal, per obtenir les dades de les obres, donat que aquestes no estan a la venda. En aquest cas construim les dades a mida en format [YAML](http://en.wikipedia.org/wiki/YAML "YAML - Wikipedia, the free encyclopedia"). Una altra forma de crear **un sistema "automatitzat" per a l'emplenat de dades**.
 
-##Millor difusió a xarxes socials i millor SEO
+## Millor difusió a xarxes socials i millor SEO
 
 Des del punt de vista tècnic, el web figuraitretrat.fundacioiluro.cat presenta tres detalls interessants que **faciliten la seva difusió a les xarxes socials i un millor posicionament SEO**:
 

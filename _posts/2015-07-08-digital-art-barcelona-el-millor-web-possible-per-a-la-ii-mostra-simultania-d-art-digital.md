@@ -22,7 +22,7 @@ keywords: "artinpocket, screens, digital, collection, polymer, restful, api, ser
 
 >... descobrir i experimentar amb l'art digital en entorns a priori fora del circuit expositiu tradicional d'art. Oci, cultura i patrimoni es fusionen per oferir una experiència entorn l'Art digital sense precedents a Barcelona.<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">digitalartbarcelona.com</a></cite></footer>
 
-##MAD BCN. II Mostra Simultània d'Art Digital
+## MAD BCN. II Mostra Simultània d'Art Digital
 
 La Plataforma **[Artinpocket](http://www.artinpocekt.cat/)** juntament amb el **Convent de Sant Agustí** i en col·laboració amb **Blanz** com a entitats conscients de les transformacions en la creació, difusió i exhibició de l'art han ceat la segona Mostra d'art digital de Barcelona (MAD Barcelona) que es pot veure del 8 al 19 de juliol a diferents espais de Barcelona. 
 
@@ -30,21 +30,21 @@ MAD Barcelona té com a objectiu oferir al públic la possibilitat de descobrir 
 
 Des de MAD Barcelona es promou la divulgació i normalització del consum de l'art digital fora dels circuits habituals i per aquest motiu la part educativa de la Mostra, que serà dirigida pel Convent de Sant Agustí de Barcelona, resulta essencial. Aquesta consistirà en la realització de deu càpsules formatives relacionades amb la creació digital i multimèdia i que es portaran a terme del 6 al 19 juliol al mateix convent.
 
-###digitalartbarcelona
+### digitalartbarcelona
 
 [www.digitalartbarcelona.com](https://www.digitalartbarcelona.com/ "MAD Barcelona &middot; II Simultaneous Digital Art Show") s'ha realitzat amb llenguatge HTML5 i l'aplicació del disseny web responsiu (en anglès: [responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design "Responsive web desgin - Wikipedia the free encyclopedia")). Oxygen ha plantejat i realitzat un projecte innovador aplicant les últimes novetats en programació i disseny web, creant **una veritable webapp per a la recollida i gestió de les propostes del I Premi Internacional Digital Art Barcelona 2015, ruta dels espais d'exposició, agenda dels tallers i activitats paral·leles i tot plegat amb notificacions push**.
 
-##CMS-free
+## CMS-free
 
 A **Oxygen** apostem de totes totes per la construcció de webs [CMS-free](/oxygen-un-web-cms-free). Les lliçons apreses i les experiències visqudes durant 10 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia.
 
 <figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/digital-art-barcelona-full-width-snapshot.png" /><figcaption><p>digitalartbarcelona.com, el millor web possible per a la II Mostra Simultània d'Art Digital</p></figcaption></figure>
 
-##Tornar al bàsic
+## Tornar al bàsic
 
 Mitjançant el desenvolupament de llocs web, com aplicacions de la banda client ("client-side") que només consten dels arxius utilitzables directament per un navegador web sense el treball addicional realitzat pels servidors de back-end, hom es capaç de traslladar l'**estalvi de costos als clients alhora que s'el·limina pràcticament el risc de caiguda de la pàgina web**. Per a funcionalitats addicionals no disponibles en les aplicacions "client-side", hom integra serveis externs.
 
-##La fórmula amb Jekyll, Prose, Webcompoents, Service Worker, formularis de Google customitzats i notificacions push!
+## La fórmula amb Jekyll, Prose, Webcompoents, Service Worker, formularis de Google customitzats i notificacions push!
 
 - [Jekyll](http://jekyllrb.com/ "Jekyll &bull; Simple, blog-aware, static sites") per a plantilles de pàgina i la generació d'arxius estàtics
 - Fitxers HTML, CSS i Javascript
@@ -74,15 +74,15 @@ En aquest projecte seguim apostant pels [web components](http://webcomponents.or
 
 Des del punt de vista tècnic, el web digitalartbarcelona.com fa ús també del "[service worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)". Amb aquesta implementació, ara sí, el web es comporta com una veritable app ja que **funciona 100% offline sense els maldecaps de l'[appcache](http://alistapart.com/article/application-cache-is-a-douchebag)**! Aquesta funcionalitat es troba encara en una fase força [experimental](http://caniuse.com/#feat=serviceworkers) de l'HTML5  però de ben segur que aquest és el futur de les web apps. A més a més, gràcies a la versió 1.0 de Polymer, la implementació és força més senzilla.
 
-###Formularis de Google customitzats
+### Formularis de Google customitzats
 
 Per a la recollida de dades dels participants al I Premi Internacional Digital Art Barcelona 2015, hem optat de nou per cusotmitzar dos formularis de Google i lligar-lo a un full de càlcul al núvol, la qual cosa ens ha permés fer **un seguiment en temps real de totes les dades dels participants**.
 
-###Notificacions push
+### Notificacions push
 
 Cal destacar com a gran novetat, la incorporació de notificacions push. La incorporació d'aquesta nova API HTML5 als navegadors Chrome (tant entorn escriptori com mòbil i tauletes), donen un nou gran valor afegit a les webapp, pertement **una comunicació més directe amb els nostres usuaris**. Tot plegat gràcies al servei [goroost.com](http://goroost.com). 
 
-##Millor difusió a xarxes socials i millor SEO
+## Millor difusió a xarxes socials i millor SEO
 
 digitalartbarcelona.com presenta quatre detalls interessants que **faciliten la seva difusió a les xarxes socials i un millor posicionament SEO**:
 

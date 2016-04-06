@@ -14,7 +14,7 @@ keywords: pagerank, posisionament, web, cercadors, carrera, google, estratègia
 
 Qui no ha pensat mai "per què quan poso aquesta o aquella paraula a Google la gent de... surten en primera posició? **Com ho fan per ser els primers?"** I el que és pitjor, d'altres ens preguntem, **"per què quan poso aquesta o aquella paraula a Google nosaltres no surtim en primera posició?** I finalment aquells altres que ja hem pres consciència de l'enorme importància no només d'estar a Internet sinó també de saber-hi estar, ens preguntem "quan poso aquesta o aquella paraula a Google nosaltres **podrem arribar mai a la primera posició?"**
 
-##PageRank i posicionament web, conceptes bàsics
+## PageRank i posicionament web, conceptes bàsics
 
 Abans de començar aquesta lloable competició per la primera posició de la "marató Google", **una miqueta de teoria i algunes dades bàsiques** que ens ajudaran a estar en plena forma per a quan sentim el tret de sortida.
 
@@ -22,7 +22,7 @@ Abans de començar aquesta lloable competició per la primera posició de la "ma
 - **Posicionament induït**: aquell que els cercadors et donen com a resultat de contractar un espai associat a un criteri de cerca.
 - **PageRank**: és una famàlia d'algorismes utilitzats per a assignar de forma numèrica la rellevància dels documents (o pàgines web) indexats per un motor de cerca. Va ser inventat pels fundadors de Google i classifica les planes de 0 a 10.
 
-##PageRank i posicionament web, el gran èxit de Google
+## PageRank i posicionament web, el gran èxit de Google
 
 Aquest concepte patentat per Larry Page i Sergey Brin és el responsable de què avui en dia Google sigui la referència mundial. **Genera entorn del 85% de tot el tràfic procedent de cercadors**, per tant arribar als llocs de referència constitueix la diferència entre comptar o no comptar a Internet. La resta de cercadors s'alimenten totalment o parcial d'ell. Només Yahoo i MSN estan perfeccionant els seus sistemes i serveis per apropar-se al gegant [cliqueu [aquí](https://www.google.com/search?hl=en&q=battle+search&btnG=Google+Search "fes clic aquí per veure els resultats de la cerca 'battle+search'") per fer-vos una lleugera idea de la "batalla"].
 
@@ -32,7 +32,7 @@ En altres paraules, **el lloc d'una pàgina és el resultat d'una "votació" ent
 
 Tot plegat sembla ser una escala logarítmica, però els detalls exactes d'aquesta escala són un dels secrets més grans dels nostres dies.
 
-##PageRank i posicionament web, l'estratègia a seguir
+## PageRank i posicionament web, l'estratègia a seguir
 
 Els [darrers estudis](http://www.eyetools.com/inpage/research_google_eyetracking_heatmap.htm "fes clic aquí per veure els resultats de la tècnica eyetrack") demostren que **els tres primers resultats de Google són llegits per la pràctica totalitat de les persones** que fan una recerca, seguint la resta de resultats de la primera pàgina en efectivitat. Aquesta efectivitat decau ràpidament i **són menys d'un 10% els usuaris que exploren més enllà de la tercera pàgina de resultats**. O el que és el mateix, si no apareixem en els primers trenta llocs, les probabilitats de, per exemple, contactar amb "clients" potencials és gairebé nulÂ·la. Trenta places, deu d'elles d'autèntic privilegi, per a totes les empreses del món.
 

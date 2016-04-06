@@ -22,7 +22,7 @@ keywords: Grup 62, estrena, web, nou, servei, impressió, llibres, encàrrec, IP
 	</footer>
 </blockquote>
 
-##Impressió Per Encàrrec, llibres que mai més no s'exhauriran
+## Impressió Per Encàrrec, llibres que mai més no s'exhauriran
 
 Creem un nou web per al Grup 62. En aquest cas és un exercici de disseny d'**interfície moderna que potencia per damunt de tot el llibre** amb l'objectiu de tornar al mercat aquells llibres de l'extens catàleg del Grup 62 que cal tenir i potser ja no es reeditaran. És **una clara aposta per la impressió per encàrrec en català**.
 

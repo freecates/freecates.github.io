@@ -20,7 +20,7 @@ Es pot fer ràpidament i de qualsevol manera, però, una bona estratègia per ap
 
 Quina és la millor estratègia per fer visible una empresa a Internet? Sense cap mena de dubte, ha de ser el resultat d’un pla estratègic de comunicació personalitzat, que tingui en compte un ús intensiu de les xarxes socials en línia, amb **capacitat per implicar el personal** de l’organització, que sigui suficientment flexible per arribar als diferents públics als quals ens volem adreçar i molt àgil per poder donar resposta al canvi permanent.
 
-##Pla de mitjans i xarxes socials
+## Pla de mitjans i xarxes socials
 
 Actualment, Internet no s’entén sense els mitjans i les xarxes socials, per això, diem que un web sense una **estratègia comunicativa a través de les xarxes socials** és un lloc situat en un racó de la xarxa, amb molt poca o nul·la visibilitat, condemnat a l’ostracisme. Qualsevol pla de comunicació per a un projecte a Internet requereix d’un pla de mitjans socials en línia, que tingui en compte:
 

@@ -20,7 +20,7 @@ A banda d'aquestes noves funcionalitats, la suite de productes Mozilla són els 
 
 Els llocs web estan programats de forma no estàndard i els navegadors han interpretat l'HTML de forma no estàndard. Això només s'ha pogut sostenir per un monopoli de l'Internet Explorer. En un moment que això està canviant, és evident que només ens podrem refiar dels estàndards i no fer-ho serà evidentment un error estratègic.
 
-##Més info
+## Més info
 
 - [The Web Standards Project](http://www.webstandards.org/ 'The Web Standards Project')
 - [World Wide Web Consortium](http://www.w3.org/ 'World Wide Web Consortium')

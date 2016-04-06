@@ -12,13 +12,13 @@ author: oxygen
 keywords: estàndards, web, w3c, html, xhtml, xml, css, xslt
 ---
 
-##Utilització d'un Doctype correcte
+## Utilització d'un Doctype correcte
 
 Per als estàndards **HTML** i **XHTML**, la declaració de tipus de document, DOCTYPE informa al validador de quina versió de (X)HTML esteu utilitzant. Ha d'aparèixer com a principi de qualsevol pàgina i són un component clau per a que les pàgines compleixin amb els estàndards;  per exemple que es validin els CSS. Són essencials per tal que les pàgines web funcionin i es vegin correctament amb browsers com Mozilla, IE5/Mac, and IE6/Win.
 
 Utilitzar un [DOCTYPE](http://www.w3.org/QA/2002/04/Web-Quality 'W3C QA - How to achieve Web standards and quality on your Web site?') incorrecte o incomplet o no utilitzar-ne, fa que aquests browsers passin a utilitzar el mode **“Quirks”**, on assumeixen que esteu utilitzant un codi invàlid i intentarà “parsejar” les pàgines i els CSS tal i com s'haurien visialitzat en navegadors antics com l'IE4 o el Netscape6.
 
-##Utilització d'un joc de caràcters.
+## Utilització d'un joc de caràcters.
 
 Els documents transmesos amb HTTP que són de tipus text, com per exemple text/html, text/plain, etc.. han de tenir el paràmetre charset establert per tal d'especificar la codificació de caracters del document.
 
@@ -41,7 +41,7 @@ Per a l'XML i l'HTML 4.0, el charset és Unicode (aka ISO 10646). Això vol dir 
 
 Amb aquesta informació, els clients podran mapejar fàcilment aquesta codificació a Unicode. A la pràctica molt poques codificacions es poden utilitzar: UTF-8 , ISO-8859-1 (Latin-1), US-ASCII, UTF-16, i altres codificacions a les sèries ISO-8859, iso-2022-jp, euc-kr.
 
-##Utilització d'un (X)HTML vàlid
+## Utilització d'un (X)HTML vàlid
 
 Podem utilitzar bàsicament dos tipus d'HTML:
 
@@ -51,7 +51,7 @@ Podem utilitzar bàsicament dos tipus d'HTML:
 
 - **XHTML**: XHTML és un una reformulació molt més estricte de l'HTML4 basat en XML, per tant, els documents XHTML poden ser visualitzat, editats i validats utilitzant totes les eines XML. També, els documents XHTML es poden escriure per a que operin tant bé o millor amb els navegadors pensats per a HTML 4 com a nous navegadors ja pensats per a XHTML. Amb una sintaxi més esticta però amb les mateixes possibilitats d'expresió que l'HTML, permet que els documents siguin tractats amb les llibreries estàndards de XML; un “parser” molt més senzill que els de l'HTML que han de ser específics. L'XHTML 1.0 és un estàndard del World Wide Web Consortium4 (W3C), des del 26 de gener de l'any 2000.
 
-##Més info
+## Més info
 
 - [The Web Standards Project](http://www.webstandards.org/ 'The Web Standards Project')
 - [World Wide Web Consortium](http://www.w3.org/ 'World Wide Web Consortium')

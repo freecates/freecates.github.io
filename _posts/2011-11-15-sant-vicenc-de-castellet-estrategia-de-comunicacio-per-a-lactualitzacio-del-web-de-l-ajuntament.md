@@ -28,7 +28,7 @@ L'estructura general del web de Sant Vicenç de Castellet es generarà a partir 
 
 A més a més, es defineixen altres eixos transversals que incideixen en el conjunt del web per potenciar la comunicació i la interacció dels diferents usuaris, amb especial atenció als dispositius mòbils.
 
-##Un web de referència
+## Un web de referència
 
 L'estratègia de comunicació en l'elaboració d'un web serveix per definir l'estructura, la programació i el disseny, així com per fixar els recursos tecnològics i les aplicacions que requeriran els diferents apartats per a una comunicació eficaç amb els diferents públics. Apostem en ferm per l'[HMTL5](http://en.wikipedia.org/wiki/HTML5 'HTML5 - Wikipedia, the free encyclopedia') i el “[responsive web design](http://www.abookapart.com/products/responsive-web-design 'ABook Apart, Responsive Web Design')”.
 

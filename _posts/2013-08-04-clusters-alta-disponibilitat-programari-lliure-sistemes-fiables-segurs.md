@@ -20,7 +20,7 @@ Quan tenim un servei crític en què una fallada suposa un cost molt elevat (atu
 
 Un clúster d’alta disponibilitat és un sistema amb dues o més màquines que fan funcionar una sèrie de serveis i es comuniquen constantment entre sí per monitoritzar el correcte funcionament. En el moment en que una de les màquines pateix una fallada, el sistema arrenca el servei en una altra de les màquines reduint de forma casi inperceptible la sensació de fallada a l’usuari.
 
-##El cost de la disponibilitat del sistema
+## El cost de la disponibilitat del sistema
 
 La inversió inicial en aquest tipus de sistema és elevada, però, si s’analitza el cost que suposa tenir el sistema aturat per una fallada es pot veure clarament que compensa amb escreix invertir en la fiabilitat i disponibilitat del sistema.
 

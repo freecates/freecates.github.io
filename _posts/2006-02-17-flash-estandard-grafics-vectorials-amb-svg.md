@@ -12,7 +12,7 @@ author: oxygen
 keywords: estàndards, web, w3c, html, xhtml, xml, css, xslt
 ---
 
-##Del Flash al SVG
+## Del Flash al SVG
 
 L'animació d'objectes a la web i el disseny utilitzant gràfics vectorials ha estat dominat els últims deu anys per Macromedia. Un llenguatge basat en XML desenvolupat pel World Wide Web Consortium (W3C) anomenat Scalable Vector Graphics (SVG) ha a aparegut com a competidor i sembla que està guanyant terreny.
 
@@ -26,7 +26,7 @@ L'any 1999 va sortir la primera especificació de l'SVG. Proporciona una estruct
 
 El principal problema per a la generalització del SVG és poca implantació en navegadors i la manca d'una eina estàndard d'autor. L'aparició del Firefox 1.5 que suporta SVG de forma nativa i el ràpid creixement dels últims temps de la utilització d'estàndards com XHTML i CSS en el desenvolupament d'alicacions web, fa pensar en un creixement molt ràpid d'aquesta tecnologia.
 
-###Taula De Comparació De Flash I SVG
+### Taula De Comparació De Flash I SVG
 
 &nbsp; |Macromedia Flash| SVG
 --- | --- |
@@ -43,7 +43,7 @@ Suport natiu en navegadors| No. Però el "plugin" està instal·lat en la majori
 Indexat pels cercadors| Per la majoria |Només alguns
 Estils| Específic de SWF (Subconjunt de CSS) |Específic de SVG. Molt similar i compatible amb CSS2 i XSL
 
-##Més info
+## Més info
 
 - [The Web Standards Project](http://www.webstandards.org/ 'The Web Standards Project')
 - [World Wide Web Consortium](http://www.w3.org/ 'World Wide Web Consortium')

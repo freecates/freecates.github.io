@@ -19,7 +19,7 @@ keywords: ssl, github, clouflare, jekyll, SEO
 >We believe that the startup culture is the driving force for change in economy and business fabric, and one of the main drivers to improve citizens' quality of life.<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">4YFN</a></cite></footer>
 
 
-##Artinpocket, un dels convidats de "Creative Catalonia"
+## Artinpocket, un dels convidats de "Creative Catalonia"
 
 Enguany, fa un mes i escaig vàrem rebre una notícia que ens alegrà enormement. [Creative Catalonia](http://www.creativecatalonia.cat/web/sites/default/files/Booklet_4YFN_2016.pdf), sota el paraigua de l'ICEC, convidava [Artinpocket](http://www.artinpocket.cat/), juntamet amb altres 6 empreses, a participar com a exhibidor al 4YFN, el que per a nosaltres era l'esdeveniment mundial de referència del món start-up tecnològic. Engunay era el primer any d'aquesta iniciativa de l'ICEC.
 
@@ -27,7 +27,7 @@ Assimilada la notícia ens posem a treballar. Dissenyem la nostra estratègia de
 
 Passen els dies, ja tenim els materials de comunicació en perfecte anglès a punt d'impremta, ja hem donat d'alta totes les edicions digitals de les obres seleccionades, ja hem revisat que el procés de certificació de l'unicitat digital funciona a les mil meravelles (amb més d'una emprenyada, pel camí tot sigui dit), ja hem omplert tots els formularis "haguts i per haver", ja ho tenim tot.
 
-##Dilluns, dimarts i, sobretot, dimecres al 4YFN
+## Dilluns, dimarts i, sobretot, dimecres al 4YFN
 
 Arriba dilluns dia 22 de febrer de 2016 i com que diumenge ja havia fet la meva mitja hora de cua pertinent per obtenir l'acreditació, a les 9 en punt ja sóc dins del recinte firal de Montjuïc de camí al flamant estand d'Artinpocket a la caseta de Creative Catalonia. (Deixo de banda tot el que significà el caos de mobilitat, se n'ha dit de tot i més.). Ja ens hem instal·lat, ja ens hem presentat amb els veïns, ja hem connectat tots els dispositius per mostrar com cal la nostra feina, ja tenim els materials per anar repartint ordenats per tipus d'interès, ja tenim les targes de visita ben col·locades.
 

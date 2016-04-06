@@ -22,7 +22,7 @@ keywords: key4, usabilitat, disseny, innovació, B2B, SEO, front-end
 	</footer>
 </blockquote>
 
-##Hem llançat “[Key4](http://www.key4communications.com/ 'key4communications.com'), the B2B information authority”!
+## Hem llançat “[Key4](http://www.key4communications.com/ 'key4communications.com'), the B2B information authority”!
 
 Key4 és un lloc web de comunicació professional que actua com a plataforma d’informació intersectorial per als professionals i empreses del sector de la joguina, la puericultura i el negoci del licensing. L’ús dels estàndards web 2.0 que componen el portal, permeten la universal usabilitat del site, podent accedir o rebre la informació d’actualitat del tres sectors des de qualsevol plataforma multimèdia.
 

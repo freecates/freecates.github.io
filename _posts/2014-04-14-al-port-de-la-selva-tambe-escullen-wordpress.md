@@ -19,7 +19,7 @@ keywords: castellers, barcelona, nou, web, WordPress
 
 Amb WordPress, una associació de comerciants i restauraddors, **ARC**, pot **gestionar de manera senzilla i eficaç** la [seva presència](http://www.portdelaselvasensefiltres.cat/) i la seva comunicació a Internet.
 
-##Per què WordPress?
+## Per què WordPress?
 
 A **Oxygen** apostem de totes totes per la construcció de webs [CMS-free](/oxygen-un-web-cms-free). Les lliçons apreses i les experiències visqudes durant 9 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia. Malgrat tot, el mercat té molt interioritzades les pareules plataforma i gestor de continguts com a sinòmims de desenvolupament, comunicació i presència a Internet. I, al capdamunt de la llista, **WordPress** hi apareix en boca de tothom.
 

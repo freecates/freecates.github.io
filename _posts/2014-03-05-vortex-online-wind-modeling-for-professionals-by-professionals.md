@@ -18,7 +18,7 @@ keywords: vortex, online, wind, modeling, professionals
 
 >We are Vortex: experienced, independent and supported<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Vortex</a></cite></footer>
 
-##El cas Vortex
+## El cas Vortex
 
 [Vortex](http://www.vortex.es/ "Vortex Online Wind Modeling for Professionals. By Professionals") és un servei de modelatge en línia present als mercats solar, marí, del vent i del pronòstic, aportant solucions ràpides i fàcils d'usar, accessibles des de l'escriptori a través d'Internet.
 
@@ -32,11 +32,11 @@ Tot i la complexitat de qualsevol sistema, tots ells han de produir els mateixos
 
 <figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/vortex-full-width-snapshot.png" /><figcaption><p>Vortex Online Wind Modeling for Professionals. By Professionals</p></figcaption></figure>
 
-##Tornar al bàsic
+## Tornar al bàsic
 
 Mitjançant el desenvolupament de llocs web, com aplicacions de la banda client ("client-side") que només consten dels arxius utilitzables directament per un navegador web sense el treball addicional realitzat pels servidors de back-end, hom es capaç de traslladar l'estalvi de costos als clients alhora que s'el·limina pràcticament el risc de caiguda de la pàgina web. Per a funcionalitats addicionals no disponibles en les aplicacions "client-side", hom integra serveis externs.
 
-##La fórmula amb Jekyll i Prose
+## La fórmula amb Jekyll i Prose
 
 - [Jekyll](http://jekyllrb.com/ "Jekyll &bull; Simple, blog-aware, static sites") per a plantilles de pàgina i la generació d'arxius estàtics
 - Fitxers HTML, CSS i Javascript

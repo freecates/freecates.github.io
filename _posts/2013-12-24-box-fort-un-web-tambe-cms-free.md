@@ -24,7 +24,7 @@ keywords: box-fort, web, cms, free, multilang
 
 A Oxygen apostem de totes totes per la contruscció de webs CMS-free. Les lliçons apreses i les experiències visqudes durant 9 anys liderant projectes Magnolia són el rerafons de l'evolució d'un procés que ens condueix cap a nous webs simples, flexibles i fiables que permeten un enfocament renovat de disseny i estratègia.
 
-##L'era CMS. Magnolia un aliat
+## L'era CMS. Magnolia un aliat
 
 En el passat, la creació de llocs web "potents", significava la creació de complexos sistemes de gestió de continguts. Aquests CMSs necessitaven de la lògica de les plantilles, el codi d'aplicació i les bases de dades de contingut per poder "muntar" pàgines web cada vegada que eren sol·licitades pels visitants del web. Eren sistemes complexos que depenien d'aplicacions diferents treballant alhora, com un servidor web per conduir les peticions de pàgina cap a una aplicació Java, que emprava plantilles de disseny de pàgina predefinides per donar format a contingut emmagatzemat en una base de dades MySQL. Per servir una sola sol·licitud de pàgina calia almenys tres aplicacions separades treballant alhora.
 
@@ -32,11 +32,11 @@ Tant els frameworks de codi obert com ara Magnolia, Drupal o Wordpress com les a
 
 Tot i la complexitat d'aquests sistemes, tots ells han de produir els mateixos formats de sortida: estàndards web.
 
-##Tornar al bàsic
+## Tornar al bàsic
 
 Mitjançant el desenvolupament de llocs web, com aplicacions de la banda client ("client-side") que només consten dels arxius utilitzables directament per un navegador web sense el treball addicional realitzat pels servidors de back-end, hom es capaç de traslladars l'estalvi de costos als clients alhora que s'elimina pràcticament el risc de caiguda de la pàgina web. Per a funcionalitats addicionals no disponibles en les aplicacions "client-side", hom integra serveis externs.
 
-##La fórmula amb Jekyll i Prose
+## La fórmula amb Jekyll i Prose
 
 - [Jekyll](http://jekyllrb.com/ "Jekyll &bull; Simple, blog-aware, static sites") per a plantilles de pàgina i la generació d'arxius estàtics
 - Fitxers HTML, CSS i Javascript
@@ -50,7 +50,7 @@ Si volem que un tercer sense coneixements tècnics pugui mantenir i administrar 
 
 <figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/box-fort-full-width-snapshot.png" /><figcaption><p>Captura de "Maletes de plàstic, Doble paret" — Box-fort.com, un web també CMS-free</p></figcaption></figure>
 
-##I si el fem multi idioma?
+## I si el fem multi idioma?
 
 Amb [Box fort](http://www.box-fort.com/ "Boxfort, maletes i contenidors professionals"), hme fet un pas més en la creció de webs CMS-free. Hem fet un web CMS-free multi idioma. A la <abbr title="World Wide Web">WWW</abbr>, hi ha molts de recursos que parlen de com afrontar un web multi idioma fet amb Jekyll. Alguns d'ells són:
 

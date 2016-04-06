@@ -20,7 +20,7 @@ De la mateixa manera que cada telèfon té un número assignat que li permet con
 
 L’any 1996 ja es va preveure que el número de connexions possibles acabaria superant les IP disponibles, i es va començar a treballar en una nova versió d’aquest protocol, l’[IPv6](http://www.worldipv6launch.org/ "IPv6"). El 6 de juny de 2012 va ser la data escollida perquè les grans empreses fessin el canvi i comencessin a treballar amb aquest nou sistema, donant per iniciat així el procés de transformació que, tard o d’hora, acabarà implantant-se a tots els aparells i dispositius del món.
 
-##Pensar en ipv6
+## Pensar en ipv6
 
 Fins ara, les IP estaven formades per quatre grups de números separats per punts, on cada grup podia anar de 0 a 255. Les IP només podien ser del tipus XXX.XXX.XXX.XXX, per exemple, la IP [77.246.179.126](http://77.246.179.126 "Ip d'exemple d'Oxygen"), que es correspon al web d’un dels clients d’Oxygen. Aquesta codificació permet gairebé 4.300 milions d’IP a tot el món, xifra que va ser assolida el 3 de febrer de 2012.
 
@@ -28,7 +28,7 @@ Amb la posada en funcionament del nou sistema IPv6, els principals proveïdors d
 
 A la xarxa circulen moltes [metàfores i comparacions](http://www.google.es/ipv6/ "Google i IPv6") del canvi en el funcionament d’Internet. Una d’elles m’ha semblat molt gràfica: si el volum de la xarxa amb les IP antigues s’equipara a una pilota de ping-pong, amb la nova IP, el volum d’Internet pot arribar a tenir les dimensions del Sol! El canvi d’un sistema a l’altre també es pot comparar amb la substitució de totes les canonades del món perquè hi pugui circular més aigua i pugui arribar a qualsevol indret.
 
-##La ipv6 a oxygen
+## La ipv6 a oxygen
 
 D’entrada, serà quasi impossible memoritzar les IP, com feien fins ara les ments més àgils. A la pràctica, tard o d’hora, el sistema informàtic d’Oxygen (servidors, ordinadors, connexions, telèfons, etc.), hauran d’adaptar-se a les noves adreces IP. A més a més, entre d’altres, s’hauran de reconfigurar tots els dominis propis i de tots els projectes dels clients d’Oxygen perquè puguin funcionar amb el nou sistema.
 

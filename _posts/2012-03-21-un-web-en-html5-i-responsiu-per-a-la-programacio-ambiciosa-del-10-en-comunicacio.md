@@ -30,7 +30,7 @@ Oxygen.cat és pioner a Catalunya en la realització d'aquesta modalitat avança
 
 <figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/10-en-com-multi-pantalla.png" /><figcaption><p>El web per a aquesta edició del 10 en Comunicació ha estat programat en HTML5 i CSS3 sota els paràmetres del disseny web responsiu</p></figcaption></figure>
 
-##Una nova manera de treballar
+## Una nova manera de treballar
 
 El disseny d’un web pensant en una única resolució de pantalla fa un temps que no té sentit. Davant aquesta realitat, s’imposa la programació web en **HTML5** i el **disseny web responsiu**. A Argus.net hem incorporat aquest concepte en les creacions web. De fet, se’ns fa difícil concebre un nou web sense començar a definir-lo des des de la pantalla més petita d’un telèfon intel·ligent, fins a les pantalles més grans d’un televisor, passant per les diferents tauletes i ordinadors portàtils i de sobretaula. L’univers de les pantalles i la manera d’accés a la xarxa està canviant a gran velocitat.
 

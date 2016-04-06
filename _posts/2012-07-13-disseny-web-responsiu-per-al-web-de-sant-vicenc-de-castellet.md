@@ -26,7 +26,7 @@ El disseny aplicat organitza el web en quatre seccions destacades a l’inici: a
 
 <figure class="hidden-xs hidden-sm ox_animate_when_almost_visible ox_right-to-left"><img src="/assets/img/sant-vicenc-castellet-multi-pantalla.png" /><figcaption><p>Disseny responsiu per al web de Sant Vicenç de Castellet</p></figcaption></figure>
 
-##Optimitzat per a mòbils
+## Optimitzat per a mòbils
 
 El web responsiu de l’Ajuntament de Sant Vicenç de Castellet s’ha desenvolupat perquè funcioni com una autèntica Webapp en els dispositius mòbils. Per a accedir-hi com si fos una aplicació mòbil, només cal crear una icona d’accés a la pantalla d’inici des del navegador del mòbil.
 

@@ -1,14 +1,14 @@
 name: 'Oxygen'
 url: 'http://www.oxygen.cat'
-markdown: rdiscount
+markdown: kramdown
 wpm: 200
 
-lsi:              false
+lsi: false
 
 baseurl:
 permalink:        /:title/
 
-twitter:		freecates
+twitter: 'freecates'
 
 authors:
  oxygen:

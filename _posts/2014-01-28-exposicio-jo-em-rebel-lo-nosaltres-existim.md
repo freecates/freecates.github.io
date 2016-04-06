@@ -28,7 +28,7 @@ Amb un total de 26 participants, la trobada es concentra en tres apartats: l'exp
 
 L'exposició, ha estat pensada i coordinada per l'escriptor [Martí Sales](https://twitter.com/itramselas "Martí Sales  (itramselas) a Twitter") i pel director de la Fundació Palau [Pere Almeda](https://twitter.com/AlmedaPere "Pere Almeda (AlmedaPere) a Twitter").
 
-##Una app web per l'exposició
+## Una app web per l'exposició
 
 A [Oxygen.cat](/ "Oxygen comunicació i infraestructures per mitjà dels darres estàndards de disseny, programació web i virtualització al núvol") hem desenvolupat la versió web de l'exposció sota [www.joemrebelo.cat](http://www.joemrebelo.cat/ "Exposició: Jo em rebel·lo, nosaltres existim"). Hem creat una app web responsiva dividida en dues sales on s'hi projecten 6 vídeos per sala. Els vídeos es gestionen des del compte [Vimeo](http://vimeo.com/fundaciopalau) de la Fundació Palau.
 
