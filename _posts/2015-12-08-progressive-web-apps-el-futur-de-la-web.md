@@ -20,7 +20,10 @@ published: true
 keywords: "artinpocket, screens, digital, app, progressive, shell, polymer, api, service, worker, chrome, push, notifications"
 ---
 
->... La creació d'aplicacions web progressives és el futur de la Web, ja que l'arquitectura d'aplicació tipus closca, el·liminarà la necessitat d'aplicacions híbrides.<footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Ramon Gil</a></cite></footer>
+<blockquote>
+  <p>... La creació d'aplicacions web progressives és el futur de la Web, ja que l'arquitectura d'aplicació tipus closca, el·liminarà la necessitat d'aplicacions híbrides.</p>
+  <footer>&mdash; <cite><a href="{{ page.url }}" title="{{ page.title }}">Ramon Gil</a></cite></footer>
+</blockquote>
 
 ## El passat
 
