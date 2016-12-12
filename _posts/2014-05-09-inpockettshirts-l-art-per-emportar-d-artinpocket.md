@@ -8,7 +8,8 @@ categories:
   - comunicació
   - treballs
   - "no-cita"
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "inpockettshirts-case-study.png"
 meta: "Inpockettshirts, l'art per emportar d'Artinpocket"

@@ -5,7 +5,8 @@ layout: blog
 slug: grup-62-estrena-web-impressio-llibres-per-encarrec
 title: El Grup 62 estrena web per al nou servei d'impressió de llibres per encàrrec
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": false
 "featured-img-url": 
 meta: El Grup 62 estrena web per al nou servei d'impressió de llibres per encàrrec

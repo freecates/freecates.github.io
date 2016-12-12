@@ -5,7 +5,8 @@ layout: blog
 slug: box-fort-un-web-tambe-cms-free
 title: "Box-fort.com, un web també CMS-free"
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "box-fort-case-study.png"
 meta: "Box-fort.com, un web també CMS-free"

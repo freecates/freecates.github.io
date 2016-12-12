@@ -5,7 +5,8 @@ layout: blog
 slug: un-web-en-html5-i-responsiu-per-a-la-programacio-ambiciosa-del-10-en-comunicacio
 title: Un web en HTML5 i responsiu per a la programació ambiciosa del 10 en Comunicació
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "10-en-com-case-study.png"
 meta: Un web en HTML5 i responsiu per a la programació ambiciosa del 10 en Comunicació

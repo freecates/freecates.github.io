@@ -5,7 +5,8 @@ layout: blog
 slug: sant-vicenc-de-castellet-estrategia-de-comunicacio-per-a-lactualitzacio-del-web-de-l-ajuntament
 title: Sant Vicenç de Castellet, estratègia de comunicació per a l'actualització del web de l'ajuntament
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "svc-case-study.png"
 meta: Sant Vicenç de Castellet, estratègia de comunicació per a l'actualització del web de l'ajuntament

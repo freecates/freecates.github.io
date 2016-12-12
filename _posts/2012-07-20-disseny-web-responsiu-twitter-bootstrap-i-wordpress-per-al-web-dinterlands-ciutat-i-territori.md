@@ -5,7 +5,8 @@ layout: blog
 slug: "disseny-web-responsiu-twitter-bootstrap-i-wordpress-per-al-web-dinterlands-ciutat-i-territori"
 title: "Disseny responsiu, Bootstrap i WordPress per al web d’Interlands"
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "interlands-case-study.png"
 meta: "Disseny responsiu, Bootstrap i WordPress per al web d’Interlands"

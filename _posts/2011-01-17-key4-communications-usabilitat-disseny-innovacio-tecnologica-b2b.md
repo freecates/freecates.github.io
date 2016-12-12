@@ -5,7 +5,8 @@ layout: blog
 slug: key4-communications-usabilitat-disseny-innovacio-tecnologica-b2b
 title: Key4 Communications, usabilitat en el disseny i innovació tecnològica al servei del B2B
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "key4communications-case-study.png"
 meta: Key4 Communications, usabilitat en el disseny i innovació tecnològica al servei del B2B

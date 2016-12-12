@@ -5,7 +5,8 @@ layout: blog
 slug: nova-pagina-inici-del-web-del-grup-62-per-potenciar-la-marca-el-cataleg-i-els-autors
 title: Nova pàgina d'inici del web del Grup 62 per potenciar la marca, el catàleg i els autors
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": false
 "featured-img-url": 
 meta: Nova pàgina d'inici del web del Grup 62 per potenciar la marca, el catàleg i els autors

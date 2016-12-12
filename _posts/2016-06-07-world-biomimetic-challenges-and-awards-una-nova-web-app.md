@@ -10,7 +10,8 @@ categories:
   - comunicació
   - treballs
   - "no-cita"
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "world-biomimetic-challenges-and-awards-case-study.png"
 meta: "World Biomimetic Challenges and Conscience. Una nova web app"

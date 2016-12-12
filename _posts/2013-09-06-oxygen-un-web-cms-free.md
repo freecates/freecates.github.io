@@ -5,7 +5,8 @@ layout: blog
 slug: oxygen-un-web-cms-free
 title: "Oxygen.cat, un web CMS-free"
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "oxygen-case-study.png"
 meta: "Oxygen.cat, un web CMS-free"

@@ -11,6 +11,7 @@ categories:
   - treballs
   - "no-cita"
 tags: "case-study"
+class: blog-article
 "featured-img": true
 "featured-img-url": "quid-una-pwamp-case-study.png"
 meta: "QUID, el millor dels dos móns: una PWAMP"

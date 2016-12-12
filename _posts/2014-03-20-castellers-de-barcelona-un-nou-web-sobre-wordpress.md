@@ -5,7 +5,8 @@ layout: blog
 slug: oxygen-posa-en-marxa-castellers-de-barcelona-un-nou-web-sobre-wordpress
 title: "Oxygen posa en marxa Castellers de Barcelona, un nou web sobre WordPress"
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "castellers-de-barcelona-case-study.png"
 meta: "Oxygen posa en marxa Castellers de Barcelona, un nou web sobre WordPress"

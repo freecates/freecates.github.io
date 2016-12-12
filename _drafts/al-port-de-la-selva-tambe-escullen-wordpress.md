@@ -5,7 +5,8 @@ layout: blog
 slug: al-port-de-la-selva-tambe-escullen-wordpress
 title: "Al Port de la Selva, també escullen WordPress"
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "portdelaselva-sensefiltres-case-study.png"
 meta: "Al Port de la Selva, també escullen WordPress"

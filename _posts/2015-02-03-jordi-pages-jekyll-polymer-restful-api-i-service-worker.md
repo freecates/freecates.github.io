@@ -10,7 +10,8 @@ categories:
   - comunicació
   - treballs
   - "no-cita"
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "jordipages-case-study.png"
 meta: "Jordi Pagès. Jekyll, Polymer, RESTful API i Service Worker"

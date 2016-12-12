@@ -5,7 +5,8 @@ layout: blog
 slug: vortex-online-wind-modeling-for-professionals-by-professionals
 title: "Vortex Online Wind Modeling for Professionals. By Professionals"
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "vortex-case-study.png"
 meta: "Vortex Online Wind Modeling for Professionals. By Professionals"

@@ -10,7 +10,8 @@ categories:
   - comunicació
   - treballs
   - "no-cita"
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "tram-disseny-case-study.png"
 meta: "Webs sense connexió a Internet! El cas del concurs TRAMdisseny"

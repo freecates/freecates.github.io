@@ -10,7 +10,8 @@ categories:
   - comunicació
   - treballs
   - "no-cita"
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "figura-i-retrat-case-study.png"
 meta: "Figura i retrat. Jekyy, Polymer i Schema metadata"

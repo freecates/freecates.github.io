@@ -5,7 +5,8 @@ layout: blog
 slug: exposicio-jo-em-rebel-lo-nosaltres-existim
 title: "Exposició: Jo em rebel·lo, nosaltres existim"
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "jo-em-rebelo-case-study.png"
 meta: "Exposició: Jo em rebel·lo, nosaltres existim"

@@ -5,7 +5,8 @@ layout: blog
 slug: artipocket-la-comunitat-de-compra-venda-d-art-accessible-amb-un-sol-clic
 title: Artinpocket, la comunitat de compra venda d'art accessible amb un sol clic
 categories: [comunicació, treballs, no-cita]
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "artinpocket-case-study.png"
 meta: Artipocket, la comunitat de compra venda d'art accessible amb un sol clic

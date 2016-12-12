@@ -8,7 +8,8 @@ categories:
   - comunicació
   - treballs
   - "no-cita"
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "artinpocket-regular-case-study.png"
 meta: "artinpocket/regular, lletres al servei de l'art"

@@ -10,7 +10,8 @@ categories:
   - comunicació
   - treballs
   - "no-cita"
-tags: "case-study"
+tags: "case-study" 
+class: blog-article
 "featured-img": true
 "featured-img-url": "digital-art-barcelona-case-study.png"
 meta: "digitalartbarcelona, el millor web possible per a la II Mostra Simultània d'Art Digital"
