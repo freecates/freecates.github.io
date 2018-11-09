@@ -66,7 +66,7 @@ A **Oxygen** apostem de totes totes per la construcció d'app webs que dugin a l
 
 A més a més, de **segura** (funciona sota https) i **moderna** ja que separa estrictament el gestor de les dades (WordPress  + WP API) de la seva visualiztació (ReactJS / NextJS).
 
-Aquesta és la segona iteració del concepte que duen a terme a Oxygen. Els avantatges del model **ens permeten crear una experiència customitada** per a FANOC a partir de compartir la mateixa API que la Federación Española de Familias Numerosas.
+Aquesta és la segona iteració del concepte que duen a terme a Oxygen. Els avantatges del model **ens permeten crear una experiència customitzada** per a FANOC a partir de compartir la mateixa API que la Federación Española de Familias Numerosas.
 
 ---
 
